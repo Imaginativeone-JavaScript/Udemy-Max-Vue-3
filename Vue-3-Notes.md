@@ -538,7 +538,7 @@
 		- [ ] 478. Binding <textarea> and Saving Line Breaks | 3min
 		- [ ] 479. Using Checkboxes and Saving Data in Arrays | 4min
 		- [ ] 480. Using Radio Buttons | 3min
-		- [ ] 481. Handling Dropdowns with <select> and <option> | 5min
+		- [ ] 481. Handling Dropdowns with select and option | 5min
 		- [ ] 482. What v-model does and How to Create a Custom Control | 3min
 		- [ ] 483. Creating a Custom Control (Input) | 5min
 		- [ ] 484. Submitting a Form | 2min
@@ -572,7 +572,7 @@
 		- [ ] 508. How Mixins get Merged | 3min
 		- [ ] 509. Creating a Global Mixin (Special Case!) | 3min
 		- [ ] 510. Mixins and Scope | 3min
-	  - [ ] 000. Assignment 19: Time to Practice - Filters & Mixins
+	  	- [ ] 000. Assignment 19: Time to Practice - Filters & Mixins
 		- [ ] 511. Time to Practice - Filters and Mixins (Code) | 1min
 		- [ ] 512. Wrap Up | 2min
 		- [ ] 513. Module Resources & Useful Links | 1min
@@ -587,7 +587,7 @@
 		- [ ] 521. Mixing Transition and Animation Properties | 4min
 		- [ ] 522. Animating v-if and v-show | 1min
 		- [ ] 523. Setting Up an Initial (on-load)
-	  - [ ] 000. Animation | 2min
+		- [ ] 000. Animation | 2min
 		- [ ] 524. Using Different CSS Class Names | 4min
 		- [ ] 525. Using Dynamic Names and Attributes | 3min
 		- [ ] 526. Transitioning between Multiple Elements (Theory) | 1min
