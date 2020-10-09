@@ -1,4 +1,6 @@
+# Vue - The Complete Guide (with Router, Vuex, Composition API)
 - [ ] Vue - The Complete Guide (with Router, Vuex, Composition API)
+	## Section 01/44: Getting Started 11 Videos | 43min
 	- [ ] Section 01: Getting Started 0/11 | 43min
 		- [ ] 001. Welcome to the Course! | 2min
 		- [ ] 002. What is "Vue.js"? | 8min
