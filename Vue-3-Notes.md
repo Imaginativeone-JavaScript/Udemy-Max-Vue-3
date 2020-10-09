@@ -360,9 +360,17 @@
 		- [ ] 320. The New Composition API (Optional!) | 24min
 		- [ ] 321. Further Migration Resources | 1min
 		- [ ] 322. About this Course & Vue 3 | 6min
-		- [ ] 323. About this Course & Vue 3 (Written
-	- [ ] Summary) | 4min
-	- [ ] Section 23: Getting Started [VUE2] 7/9|22min
+		- [ ] 323. About this Course & Vue 3 (Written Summary) | 4min
+	- [ ] Section 23: Getting Started [VUE2] 7/9 | 22min
+		- [ ] 324. Why is this section marked with "VUE2"? | 1min
+		- [ ] 325. Course Introduction | 3min
+		- [ ] 326. Join our Online Learning Community | 1min
+		- [ ] 327. Let's Create our First VueJS Application | 6min
+		- [ ] 328. Extending the VueJS Application | 4min
+		- [ ] 329. Course Structure | 4min
+		- [ ] 330. Take Advantage of all Course Resources! | 2min
+		- [ ] 331. Setup VueJS Locally | 2min
+		- [ ] 332. Module Resources & Useful Links | 1min
 	- [ ] Section 24: Using VueJS to Interact with the DOM [VUE2]| 9/31 | 1hr 3min
 		- [ ] 333. Module Introduction | 1min
 		- [ ] 334. Understanding VueJS Templates | 3min
