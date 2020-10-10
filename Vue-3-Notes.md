@@ -29,6 +29,10 @@
 		- [x] 007. Vue vs "Vanilla JavaScript" (just JavaScript) | 1min (01:10)
 			- Comparison
 		- [ ] 008. Setting Up the Course Development Environment | 2min (02:04)
+			- VSC
+			- Dark Plus Color Theme
+			- Preferences > Keyboard Shortcuts > Format Document > Shift + Alt + F
+			- "Prettier" Extension
 		- [ ] 009. Course Outline & What's In The Course | 3min (02:58)
 		- [ ] 010. How To Get The Most Out Of This Course | 3min (03:23)
 		- [ ] 011. Module Resources | 1min (00:08)
