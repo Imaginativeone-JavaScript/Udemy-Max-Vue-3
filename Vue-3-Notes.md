@@ -3,6 +3,9 @@
 	## Section 01/44: Getting Started 11 Videos | 43min
 	- [ ] Section 01: Getting Started 0/11 | 43min
 		- [ ] 001. Welcome to the Course! | 2min
+		  - From Novice to Expert
+			- Why do we need Vue?
+			- Next: What, exactly, is VueJS?
 		- [ ] 002. What is "Vue.js"? | 8min
 		- [ ] 003. Different Ways of Using Vue | 3min
 		- [ ] 004. Exploring Vue Alternatives | 3min
