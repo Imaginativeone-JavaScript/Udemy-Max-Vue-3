@@ -6,7 +6,15 @@
 		  - From Novice to Expert
 			- Why do we need Vue?
 			- Next: What, exactly, is VueJS?
-		- [ ] 002. What is "Vue.js"? | 8min
+		- [x] 002. What is "Vue.js"? | 8min (07:51)
+			- VueJS (Vue) is a JavaScript framework that makes building interactive & reactive web frontends 
+				(browser-side web applications) easier.
+			- Framework is a library that (also) gives you a set of rules
+			  - Utility functions + the rules
+			- [03:52/07:51] Mobile Applications give us a very pleasant experience
+			- Reactivity
+			- The only thing that might be loaded behind the scenes is DATA.
+			- Vanilla JavaScript is much less fun
 		- [ ] 003. Different Ways of Using Vue | 3min
 		- [ ] 004. Exploring Vue Alternatives | 3min
 		- [ ] 005. Building A First App With Just JavaScript | 7min
