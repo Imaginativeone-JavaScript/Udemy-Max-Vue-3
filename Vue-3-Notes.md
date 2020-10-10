@@ -2,11 +2,11 @@
 - [ ] Vue - The Complete Guide (with Router, Vuex, Composition API)
 	## Section 01/44: Getting Started 11 Videos | 43min
 	- [ ] Section 01: Getting Started 0/11 | 43min 10/10/20
-		- [x] 001. Welcome to the Course! | 2min
+		- [x] 001. 01-01 Welcome to the Course! | 2min
 		  - From Novice to Expert
 			- Why do we need Vue?
 			- Next: What, exactly, is VueJS?
-		- [x] 002. What is "Vue.js"? | 8min (07:51)
+		- [x] 002. 01-02 What is "Vue.js"? | 8min (07:51)
 			- VueJS (Vue) is a JavaScript framework that makes building interactive & reactive web frontends 
 				(browser-side web applications) easier.
 			- Framework is a library that (also) gives you a set of rules
@@ -15,15 +15,15 @@
 			- Reactivity
 			- The only thing that might be loaded behind the scenes is DATA.
 			- Vanilla JavaScript is much less fun
-		- [x] 003. Different Ways of Using Vue | 3min (2:35)
+		- [x] 003. 01-03 Different Ways of Using Vue | 3min (2:35)
 		  - Some parts of an HTML page are controlled by Vue 00:34
 			- The entire HTML page is controlled by Vue 01:21
 			  - Single Page Application (SPA)
-		- [x] 004. Exploring Vue Alternatives | 3min (03:11)
+		- [x] 004. 01-04 Exploring Vue Alternatives | 3min (03:11)
 			- [00:30] A bit less popular than React and Angular
 			- Test
-		- [ ] 005. Building A First App With Just JavaScript | 7min (07:26)
-		- [ ] 006. Re-building the App with Vue | 11min (10:51)
+		- [x] 005. 01-05 Building A First App With Just JavaScript | 7min (07:26)
+		- [ ] 006. 01-06 Re-building the App with Vue | 11min (10:51)
 		- [ ] 007. Vue vs "Vanilla JavaScript" (just JavaScript) | 1min (01:10)
 		- [ ] 008. Setting Up the Course Development Environment | 2min (02:04)
 		- [ ] 009. Course Outline & What's In The Course | 3min (02:58)
