@@ -28,7 +28,7 @@
 			- See Vue demo app
 		- [x] 007. Vue vs "Vanilla JavaScript" (just JavaScript) | 1min (01:10)
 			- Comparison
-		- [ ] 008. Setting Up the Course Development Environment | 2min (02:04)
+		- [x] 008. Setting Up the Course Development Environment | 2min (02:04)
 			- VSC
 			- Dark Plus Color Theme
 			- Preferences > Keyboard Shortcuts > Format Document > Shift + Alt + F
