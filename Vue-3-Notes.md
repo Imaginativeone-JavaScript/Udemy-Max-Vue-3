@@ -1,7 +1,7 @@
 # Vue - The Complete Guide (with Router, Vuex, Composition API)
 - [ ] Vue - The Complete Guide (with Router, Vuex, Composition API)
 	## Section 01/44: Getting Started 11 Videos | 43min
-	- [ ] Section 01: Getting Started 0/11 | 43min
+	- [ ] Section 01: Getting Started 0/11 | 43min 10/10/20
 		- [x] 001. Welcome to the Course! | 2min
 		  - From Novice to Expert
 			- Why do we need Vue?
@@ -19,14 +19,14 @@
 		  - Some parts of an HTML page are controlled by Vue 00:34
 			- The entire HTML page is controlled by Vue 01:21
 			  - Single Page Application (SPA)
-		- [ ] 004. Exploring Vue Alternatives | 3min
-		- [ ] 005. Building A First App With Just JavaScript | 7min
-		- [ ] 006. Re-building the App with Vue | 11min
-		- [ ] 007. Vue vs "Vanilla JavaScript" (just JavaScript) | 1min
-		- [ ] 008. Setting Up the Course Development Environment | 2min
-		- [ ] 009. Course Outline & What's In The Course | 3min
-		- [ ] 010. How To Get The Most Out Of This Course | 3min
-		- [ ] 011. Module Resources | 1min
+		- [ ] 004. Exploring Vue Alternatives | 3min (03:11)
+		- [ ] 005. Building A First App With Just JavaScript | 7min (07:26)
+		- [ ] 006. Re-building the App with Vue | 11min (10:51)
+		- [ ] 007. Vue vs "Vanilla JavaScript" (just JavaScript) | 1min (01:10)
+		- [ ] 008. Setting Up the Course Development Environment | 2min (02:04)
+		- [ ] 009. Course Outline & What's In The Course | 3min (02:58)
+		- [ ] 010. How To Get The Most Out Of This Course | 3min (03:23)
+		- [ ] 011. Module Resources | 1min (00:08)
 	- [ ] Section 02: Basics & Core Concepts - DOM Interaction with Vue 0/30|2hr 9min
 		- [ ] 012. Module Introduction | 1min
 		- [ ] 013. Creating and Connecting Vue App Instances | 9min
