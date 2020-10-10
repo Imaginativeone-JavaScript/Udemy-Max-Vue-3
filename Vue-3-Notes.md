@@ -33,12 +33,18 @@
 			- Dark Plus Color Theme
 			- Preferences > Keyboard Shortcuts > Format Document > Shift + Alt + F
 			- "Prettier" Extension
-		- [ ] 009. Course Outline & What's In The Course | 3min (02:58)
+		- [x] 009. Course Outline & What's In The Course | 3min (02:58)
 			- No prior Vue knowledge is required
 				- Basics: Core Syntax, Templates, Directives, Data, Methods, Computed Properties, Watchers
 				- Intermediate Concepts: Components, Component Communication, Behind the Scenes, Forms, HTTP, Routing, Animations
 				- Vuex (State Management), Authentication, Deployment & Optimizations, **Composition API**, Re-using Code
 		- [ ] 010. How To Get The Most Out Of This Course | 3min (03:23)
+			- Watch the Videos
+			- Code Along
+			- Repeat Concepts
+			- Google, Stackoverflow
+			- Ask and Answer in the Q&A Section
+			- Errors in my code - Compare to Max's
 		- [ ] 011. Module Resources | 1min (00:08)
 	- [ ] Section 02: Basics & Core Concepts - DOM Interaction with Vue 0/30|2hr 9min
 		- [ ] 012. Module Introduction | 1min
