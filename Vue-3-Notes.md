@@ -16,6 +16,9 @@
 			- The only thing that might be loaded behind the scenes is DATA.
 			- Vanilla JavaScript is much less fun
 		- [ ] 003. Different Ways of Using Vue | 3min
+		  - Some parts of an HTML page are controlled by Vue 00:34
+			- The entire HTML page is controlled by Vue 01:21
+			  - Single Page Application (SPA)
 		- [ ] 004. Exploring Vue Alternatives | 3min
 		- [ ] 005. Building A First App With Just JavaScript | 7min
 		- [ ] 006. Re-building the App with Vue | 11min
