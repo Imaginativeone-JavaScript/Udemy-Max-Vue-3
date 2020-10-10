@@ -26,7 +26,8 @@
 			- See Vanilla JavaScript demo app
 		- [x] 006. 01-06 Re-building the App with Vue | 11min (10:51)
 			- See Vue demo app
-		- [ ] 007. Vue vs "Vanilla JavaScript" (just JavaScript) | 1min (01:10)
+		- [x] 007. Vue vs "Vanilla JavaScript" (just JavaScript) | 1min (01:10)
+			- Comparison
 		- [ ] 008. Setting Up the Course Development Environment | 2min (02:04)
 		- [ ] 009. Course Outline & What's In The Course | 3min (02:58)
 		- [ ] 010. How To Get The Most Out Of This Course | 3min (03:23)
