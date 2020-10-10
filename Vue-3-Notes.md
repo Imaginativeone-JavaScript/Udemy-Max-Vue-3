@@ -15,7 +15,7 @@
 			- Reactivity
 			- The only thing that might be loaded behind the scenes is DATA.
 			- Vanilla JavaScript is much less fun
-		- [ ] 003. Different Ways of Using Vue | 3min
+		- [x] 003. Different Ways of Using Vue | 3min (2:35)
 		  - Some parts of an HTML page are controlled by Vue 00:34
 			- The entire HTML page is controlled by Vue 01:21
 			  - Single Page Application (SPA)
