@@ -23,7 +23,9 @@
 			- [00:30] A bit less popular than React and Angular
 			- Test
 		- [x] 005. 01-05 Building A First App With Just JavaScript | 7min (07:26)
-		- [ ] 006. 01-06 Re-building the App with Vue | 11min (10:51)
+			- See Vanilla JavaScript demo app
+		- [x] 006. 01-06 Re-building the App with Vue | 11min (10:51)
+			- See Vue demo app
 		- [ ] 007. Vue vs "Vanilla JavaScript" (just JavaScript) | 1min (01:10)
 		- [ ] 008. Setting Up the Course Development Environment | 2min (02:04)
 		- [ ] 009. Course Outline & What's In The Course | 3min (02:58)

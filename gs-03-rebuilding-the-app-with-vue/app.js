@@ -1,17 +1,18 @@
 Vue.createApp({
   data() {
     return {
-      goals: [],
-      enteredValue: ''
+      goals: [], // list of goals, key/value pair
+      enteredValue: '' // See the Directive on the html page
     };
   },
   methods: {
-    addGoal() {
+    addGoal() { // addGoal() is triggered whenever the Button is clicked
+                // <button v-on:click="addGoal">Add Goal</button> Button Directive
       this.goals.push(this.enteredValue);
       this.enteredValue = '';
     }
   }
-}).mount('#app');
+}).mount('#app'); // This line applies this Vue app to the <div id="app">...</div> (with the id selector)
 
 // const buttonEl = document.querySelector('button');
 // const inputEl = document.querySelector('input');

@@ -10,6 +10,8 @@
     <div id="app">
       <div>
         <label for="goal">Goal</label>
+        <!-- Directive: v-model attribute -->
+        <!-- Establishes a connection between the <input> and the app.js data property -->
         <input type="text" id="goal" v-model="enteredValue" />
         <button v-on:click="addGoal">Add Goal</button>
       </div>
@@ -17,6 +19,7 @@
         <li v-for="goal in goals">{{ goal }}</li>
       </ul>
     </div>
+    <!-- Vue CDN -->
     <script src="https://unpkg.com/vue@next"></script>
     <script src="app.js"></script>
   </body>
