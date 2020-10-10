@@ -19,7 +19,9 @@
 		  - Some parts of an HTML page are controlled by Vue 00:34
 			- The entire HTML page is controlled by Vue 01:21
 			  - Single Page Application (SPA)
-		- [ ] 004. Exploring Vue Alternatives | 3min (03:11)
+		- [x] 004. Exploring Vue Alternatives | 3min (03:11)
+			- [00:30] A bit less popular than React and Angular
+			- Test
 		- [ ] 005. Building A First App With Just JavaScript | 7min (07:26)
 		- [ ] 006. Re-building the App with Vue | 11min (10:51)
 		- [ ] 007. Vue vs "Vanilla JavaScript" (just JavaScript) | 1min (01:10)
