@@ -52,6 +52,9 @@
   - Move folder to Udemy-Max-Vue-3
     - The demo folder will stack up in here, but I can access each demo app separately
   - Commit the new Demo App Folder
+  - Close old apps in the VSC Window (save if necessary)
+  - Open new demo apps
+  - View the demo side-by-side with VSC
   
   ### Watch Videos, Take Notes, and Account for Progress
   - [ ] Verify video branch
