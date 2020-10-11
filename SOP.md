@@ -50,7 +50,7 @@
   - Expand contents
   - Command + Option + 2 to reorganize files
   - Move folder to Udemy-Max-Vue-3
-    - The demo folder will stack up in here, but I can access each demo app separately
+    - The demo folders will stack up in here, but I can access each demo app separately
   - Commit the new Demo App Folder
   - Close old apps in the VSC Window (save if necessary)
   - Open new demo apps
