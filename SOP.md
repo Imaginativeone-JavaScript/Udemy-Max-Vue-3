@@ -30,6 +30,13 @@
   ```git
   git checkout -b VNNN-Topic-Name-tMMSS
   ```
+  ```git
+  git push
+  ```
+  - To set the upstream, copy and paste resulting command. For example: 
+  ```git
+  git push --set-upstream origin V013-0202-Creating-and-Connecting-Vue-App-Instances-t0840
+  ```
   
   ### Update Section Branch
   - Verify that Video Branch has been fully saved, added, committed, and pushed
