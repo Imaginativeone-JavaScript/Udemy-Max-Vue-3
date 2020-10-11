@@ -28,7 +28,7 @@
   - Identify Section Branch
   - Use this command (with the format) to create the branch
   ```git
-  git checkout -b VNNN-Topic-Name-tMMSS
+  git checkout -b VNNN-[This video number][Total videos in this section]-Topic-Name-tMMSS
   ```
   ```git
   git push
