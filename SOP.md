@@ -18,3 +18,16 @@
   git branch
   ```
     - [ ] I expect to see a "Section Branch" and the "main" branch in the list of branches
+    
+  ## Workflow
+  
+  ### Section Branch
+  
+  ### Video Branch
+  
+  ### Watching Videos and Taking Notes
+  - [ ] Verify video branch
+  - [ ] Watch current salient video
+  - [ ] git add any new files/folders
+  - [ ] Commit most-recent notes
+  - [ ] Push to Video branch
