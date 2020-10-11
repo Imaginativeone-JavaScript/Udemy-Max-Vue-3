@@ -21,11 +21,23 @@
     
   ## Workflow
   
-  ### Section Branch
+  ### Create a New Section Branch
+  - git checkout -b <Section Branch>
   
-  ### Video Branch
+  ### Create a New Video Branch
+  - Identify Section Branch
+  - Use this command (with the format) to create the branch
+  ```git
+  git checkout -b VNNN-Topic-Name-tMMSS
+  ```
   
-  ### Watching Videos, Taking Notes, and Accounting
+  ### Update Section Branch
+  - Verify that Video Branch has been fully saved, added, committed, and pushed
+  - Copy the Section Branch name to the clipboard if necessary
+  - git checkout <Section Branch>
+  - git merge newly completed Video Branch
+  
+  ### Watch Videos, Take Notes, and Account for Progress
   - [ ] Verify video branch
   - [ ] Watch current salient video, making sure to understand every concept
   - [ ] git add any new files/folders
