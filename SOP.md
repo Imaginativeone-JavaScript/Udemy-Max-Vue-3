@@ -25,9 +25,10 @@
   
   ### Video Branch
   
-  ### Watching Videos and Taking Notes
+  ### Watching Videos, Taking Notes, and Accounting
   - [ ] Verify video branch
-  - [ ] Watch current salient video
+  - [ ] Watch current salient video, making sure to understand every concept
   - [ ] git add any new files/folders
   - [ ] Commit most-recent notes
   - [ ] Push to Video branch
+  - [ ] Mark off video on the checklist
