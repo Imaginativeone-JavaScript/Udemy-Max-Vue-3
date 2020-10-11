@@ -1,4 +1,4 @@
-# Standard Operating Procedure for Studying Vue
+# Studying Vue: Standard Operating Procedure
 
 ## Paper
 - [ ] Have paper checklist on hand
