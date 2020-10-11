@@ -44,13 +44,14 @@
   - git checkout <Section Branch>
   - git merge newly completed Video Branch
   
-  ### Acquire and Set Up a Demo Video
+  ### Acquire and Set Up a Demo App
   - Udemy.com
   - Download "Resources" \*.zip file into **Max-Vue-3** folder
   - Expand contents
   - Command + Option + 2 to reorganize files
   - Move folder to Udemy-Max-Vue-3
     - The demo folder will stack up in here, but I can access each demo app separately
+  - Commit the new Demo App Folder
   
   ### Watch Videos, Take Notes, and Account for Progress
   - [ ] Verify video branch
