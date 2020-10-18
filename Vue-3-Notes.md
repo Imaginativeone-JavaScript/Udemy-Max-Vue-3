@@ -46,10 +46,9 @@
 			- Ask and Answer in the Q&A Section
 			- Errors in my code - Compare to Max's
 		- [x] 011. Module Resources | 1min (00:08)
-	## Section 02: Basics & Core Concepts - DOM Interaction with Vue 0/30|2hr 9min
-	- [x] Section 02: Basics & Core Concepts - DOM Interaction with Vue 0/30|2hr 9min
+	## Section 02: Basics & Core Concepts - DOM Interaction with Vue 0/30 | 2hr 9min
+	- [x] Section 02: Basics & Core Concepts - DOM Interaction with Vue 0/30 | 2hr 9min
 		- [x] 012. Module Introduction | 1min
-		This is a change.
 		- [ ] 013. Creating and Connecting Vue App Instances | 9min
 		- [ ] 014. Interpolation and Data Binding | 4min
 		- [ ] 015. Binding Attributes with the "v-bind" Directive | 6min
@@ -79,8 +78,8 @@
 		- [ ] 000. Assignment 04: Time to Practice: Dynamic Styling
 		- [ ] 036. Module Summary | 4min
 		- [ ] 037. Module Resources | 1min
-	## Section 03: Rendering Conditional Content & Lists 0/12 | 43min
-	- [ ] Section 03: Rendering Conditional Content & Lists 0/12 | 43min
+	## Section 03: Rendering Conditional Content & Lists 00/12 | 43min
+	- [ ] Section 03: Rendering Conditional Content & Lists 00/12 | 43min
 		- [ ] 038. Module Introduction | 2min
 		- [ ] 039. Understanding the Problem | 3min
 		- [ ] 040. Rendering Content Conditionally | 5min
@@ -93,7 +92,7 @@
 		- [ ] 000. Assignment 5: Time to Practice: Conditional Content & Lists
 		- [ ] 047. Module Summary | 2min
 		- [ ] 048. Module Resources | 1min
-	## Section 04: Course Project: The Monster Slayer Game 0/9 | 1hr 2min
+	## Section 04: Course Project: The Monster Slayer Game 00/09 | 1hr 2min
 	- [ ] Section 4: Course Project: The Monster Slayer Game 0/9 | 1hr 2min
 		- [ ] 049. Module Introduction | 1min
 		- [ ] 050. Project Setup & First Methods | 12min
@@ -104,6 +103,7 @@
 		- [ ] 055. Finishing the Core Functionality | 6min
 		- [ ] 056. Adding a Battle Log | 14min
 		- [ ] 057. Module Resources | 1min
+	## Section 05: Vue: Behind the Scenes 00/10 | 48min
 	- [ ] Section 5: Vue: Behind the Scenes 0/10|48min
 		- [ ] 058. Module Introduction | 2min
 		- [ ] 059. An Introduction to Vue's Reactivity | 4min
@@ -115,6 +115,7 @@
 		- [ ] 065. Vue App Lifecycle - Theory | 5min
 		- [ ] 066. Vue App Lifecycle - Practice | 10min
 		- [ ] 067. Module Resources | 1min
+	## Section 06: Introducing Components 00/06 | 23min
 	- [ ] Section 6: Introducing Components 0/6|23min
 		- [ ] 068. Module Introduction | 2min
 		- [ ] 069. Understanding the Problem | 9min
@@ -122,6 +123,7 @@
 		- [ ] 071. The Why: Building Complex User Interfaces With Components | 1min
 		- [ ] 072. Multiple Vue Apps vs Multiple Components | 1min
 		- [ ] 073. Module Resources | 1min
+	## Section 07: Moving to a Better Dev Setup & Workflow w the Vue CLI 0/14 | 1hr
 	- [ ] Section 7: Moving to a Better Dev Setup & Workflow w the Vue CLI 0/14|1hr
 		- [ ] 074. Module Introduction | 2min
 		- [ ] 075. Why We Need A Development Server | 3min
@@ -137,7 +139,8 @@
 		- [ ] 085. Adding Styling | 2min
 		- [ ] 086. A Small Addition | 1min
 		- [ ] 087. Module Resources | 1min
-	- [ ] Section 8: Component Communication 0/18|1hr 33min
+	## Section 08: Component Communication 00/18 | 1hr 33min
+	- [ ] Section 08: Component Communication 00/18 | 1hr 33min
 		- [ ] 088. Module Introduction | 2min
 		- [ ] 089. Introducing "Props" (Parent => Child Communication) | 10min
 		- [ ] 090. Prop Behavior & Changing Props | 7min
@@ -156,7 +159,8 @@
 		- [ ] 102. Provide + Inject vs Props & Custom Events | 2min
 		- [ ] 103. Module Summary | 5min
 		- [ ] 104. Module Resources | 1min
-	- [ ] Section 09: Diving Deeper Into Components 0/18|1hr 24min
+	## Section 09: Diving Deeper Into Components 00/18 | 1hr 24min
+	- [ ] Section 09: Diving Deeper Into Components 00/18 | 1hr 24min
 		- [ ] 105. Module Introduction | 2min
 		- [ ] 106. Project Setup | 3min
 		- [ ] 107. Global vs Local Components | 9min
@@ -175,7 +179,8 @@
 		- [ ] 120. Moving to a Different Folder Structure | 3min
 		- [ ] 121. Module Summary | 4min
 		- [ ] 122. Module Resources | 1min
-	- [ ] Section 10: Course Project: The Learning Resources App 0/14|1hr 24min
+	## Section 10: Course Project: The Learning Resources App 0/14 | 1hr 24min
+	- [ ] Section 10: Course Project: The Learning Resources App 0/14 | 1hr 24min
 		- [ ] 123. Module Introduction | 2min
 		- [ ] 124. Setup & First Steps | 5min
 		- [ ] 125. First Components & Props | 11min
