@@ -714,7 +714,8 @@
 		- [ ] 605. Auto-namespacing with Vuex 2.1 | 1min
 		- [ ] 606. Wrap Up | 1min
 		- [ ] 607. Module Resources & Useful Links | 1min
-	- [ ] Section 40: Final Project - The Stock Trader [VUE2]| 0 / 26|1hr 44min
+	## Section 40: Final Project - The Stock Trader [VUE2]| 0 / 26|1hr 44min
+	- [ ] Section 40: Final Project - The Stock Trader [VUE2]| 00/26 | 1hr 44min
 		- [ ] 608. Project Introduction | 3min
 		- [ ] 609. Project Setup and Planning | 3min
 		- [ ] 610. Creating the First Components | 3min
@@ -741,11 +742,13 @@
 		- [ ] 631. Project Wrap Up | 1min
 		- [ ] 632. Bonus: Debugging Vuex with Vue Developer Tools | 2min
 		- [ ] 633. Module Resources & Useful Links | 1min
+	## Section 41: Deploying a VueJS Application [VUE2] 0/4 | 9min
 	- [ ] Section 41: Deploying a VueJS Application [VUE2] 0/4 | 9min
 		- [ ] 634. Module Introduction | 1min
 		- [ ] 635. Preparing for Deployment | 2min
 		- [ ] 636. AWS S3 & Bucket Policies | 1min
 		- [ ] 637. Deploying the App (Example: AWS S3) | 6min
+	## Section 42: Bonus: Using Axios instead of vue-resource [VUE2] 0/12 | 38min
 	- [ ] Section 42: Bonus: Using Axios instead of vue-resource [VUE2] 0/12 | 38min
 		- [ ] 638. About this Section | 1min
 		- [ ] 639. Module Introduction | 1min
@@ -759,7 +762,8 @@
 		- [ ] 647. Custom Axios Instances | 5min
 		- [ ] 648. Wrap Up | 1min
 		- [ ] 649. Useful Resources & Links | 1min
-	- [ ] Section 43: Bonus: Authentication in Vue Apps 0/18|1hr 7min
+	## Section 43: Bonus: Authentication in Vue Apps 0/18 | 1hr 7min
+	- [ ] Section 43: Bonus: Authentication in Vue Apps 0/18 | 1hr 7min
 		- [ ] 650. About this Section | 1min
 		- [ ] 651. Module Introduction | 2min
 		- [ ] 652. How Authentication Works in SPAs | 3min
@@ -778,5 +782,6 @@
 		- [ ] 665. Adding Auto Login | 11min
 		- [ ] 666. Wrap Up | 1min
 		- [ ] 667. Useful Resources & Links | 1min
+	## Section 44: More Content 0/1 | 1min
 	- [ ] Section 44: More Content 0/1 | 1min
 		- [ ] 668. Bonus: More Content! 1min
