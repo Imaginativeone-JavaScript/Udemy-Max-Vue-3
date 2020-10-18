@@ -195,7 +195,8 @@
 		- [ ] 134. Deleting Items | 7min
 		- [ ] 135. Adding "Teleport" | 1min
 		- [ ] 136. Module Resources | 1min
-	- [ ] Section 11: Forms 0/10|43min
+	## Section 11: Forms 00/10 | 43min
+	- [ ] Section 11: Forms 0/10 | 43min
 		- [ ] 137. Module Introduction | 1min
 		- [ ] 138. v-model & Inputs | 6min
 		- [ ] 139. Working with v-model Modifiers and Numbers | 7min
@@ -206,7 +207,8 @@
 		- [ ] 144. Using v-model on Custom Components | 7min
 		- [ ] 145. Module Summary | 1min
 		- [ ] 146. Module Resources | 1min
-	- [ ] Section 12: Sending Http Requests 0/15|55min
+	## Section 12: Sending Http Requests 00/15 | 55min
+	- [ ] Section 12: Sending Http Requests 00/15 | 55min
 		- [ ] 147. Module Introduction | 1min
 		- [ ] 148. Starting App & Why we need a Backend | 5min
 		- [ ] 149. Adding a Backend | 3min
@@ -222,6 +224,7 @@
 		- [ ] 159. Handling Error Responses | 7min
 		- [ ] 160. Module Summary | 2min
 		- [ ] 161. Module Resources | 1min
+	## Section 13: Routing: Building "Multi-Page" Single Page Applications 00/25 | 1hr 58min
 	- [ ] Section 13: Routing: Building "Multi-Page" Single Page Applications 0 / 25|1hr 58min
 		- [ ] 162. Module Introduction | 1min
 		- [ ] 163. What & Why? | 5min
@@ -248,7 +251,8 @@
 		- [ ] 184. Organizing Route Files | 5min
 		- [ ] 185. Summary | 2min
 		- [ ] 186. Module Resources | 1min
-	- [ ] Section 14: Animations & Transitions 0/19 | 1hr 47min
+	## Section 14: Animations & Transitions 00/19 | 1hr 47min
+	- [ ] Section 14: Animations & Transitions 00/19 | 1hr 47min
 		- [ ] 187. Module Introduction | 1min
 		- [ ] 188. Animation Basics & CSS Transitions | 7min
 		- [ ] 189. Understanding CSS Animations | 4min
@@ -268,7 +272,8 @@
 		- [ ] 203. Animating Route Changes | 12min
 		- [ ] 204. An Important Note on Animated Route Changes | 1min
 		- [ ] 205. Module Resources | 1min
-	- [ ] Section 15: Vuex 0 / 21|1hr 50min
+	## Section 15: Vuex 00/21 | 1hr 50min
+	- [ ] Section 15: Vuex 00/21 | 1hr 50min
 		- [ ] 206. Module Introduction | 1min
 		- [ ] 207. What & Why? | 7min
 		- [ ] 208. Creating & Using a Store | 5min
@@ -290,6 +295,7 @@
 		- [ ] 224. Challenge Solution (3/3) | 3min
 		- [ ] 225. Summary | 1min
 		- [ ] 226. Module Resources | 1min
+	## Section 16: Main Project: "Find a Coach" Web App 00/29 | 3hr 58min
 	- [ ] Section 16: Main Project: "Find a Coach" Web App 0/29 | 3hr 58min
 		- [ ] 227. Module Introduction | 3min
 		- [ ] 228. Planning the Project / Web App | 4min
@@ -320,7 +326,8 @@
 		- [ ] 253. Adding Route Transitions | 10min
 		- [ ] 254. The "Not Found" Page & Summary | 2min
 		- [ ] 255. Module Resources | 1min
-	- [ ] Section 17: Vue & Authentication 0/16|1hr 33min
+	## Section 17: Vue & Authentication 00/16 | 1hr 33min
+	- [ ] Section 17: Vue & Authentication 00/16 | 1hr 33min
 		- [ ] 256. Module Introduction | 1min
 		- [ ] 257. How Authentication Works in Vue Apps (or any SPA) | 6min
 		- [ ] 258. Locking / Protecting Backend Resources | 6min
@@ -343,13 +350,15 @@
 		- [ ] 275. Building the Project For Production | 4min
 		- [ ] 276. Deploying a Vue App | 9min
 		- [ ] 277. Module Resources | 1min
-	- [ ] Section 18: Optimizing & Deploying Vue Apps 0/6 | 29min
+	## Section 18: Optimizing & Deploying Vue Apps 00/06 | 29min
+	- [ ] Section 18: Optimizing & Deploying Vue Apps 00/06 | 29min
 		- [ ] 272. Module Introduction | 1min
 		- [ ] 273. What To Deploy? | 3min
 		- [ ] 274. Optimization: Using Asynchronous Components | 12min
 		- [ ] 275. Building the Project For Production | 4min
 		- [ ] 276. Deploying a Vue App | 9min
 		- [ ] 277. Module Resources | 1min
+	## Section 19: The Composition API - Replacing the Options API | 00/26 | 2hr 23min
 	- [ ] Section 19: The Composition API - Replacing the Options API| 0/26 | 2hr 23min
 		- [ ] 278. Module Introduction | 2min
 		- [ ] 279. Which Problem Does The Composition API Solve? | 7min
@@ -377,6 +386,7 @@
 		- [ ] 299. Using Vuex with the Composition API | 5min
 		- [ ] 300. Summary | 3min
 		- [ ] 301. Module Resources | 1min
+	## Section 20: Reusing Functionality: Mixins & Custom Composition Functions | 00/14 | 1hr 3min
 	- [ ] Section 20: Reusing Functionality: Mixins & Custom Composition Functions | 0/14 | 1hr 3min
 		- [ ] 302. Module Introduction | 1min
 		- [ ] 303. Reusability Concepts | 5min
