@@ -48,6 +48,7 @@
 		- [x] 011. Module Resources | 1min (00:08)
 	- [x] Section 02: Basics & Core Concepts - DOM Interaction with Vue 0/30|2hr 9min
 		- [x] 012. Module Introduction | 1min
+		This is a change.
 		- [ ] 013. Creating and Connecting Vue App Instances | 9min
 		- [ ] 014. Interpolation and Data Binding | 4min
 		- [ ] 015. Binding Attributes with the "v-bind" Directive | 6min
