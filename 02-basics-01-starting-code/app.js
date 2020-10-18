@@ -1,7 +1,13 @@
 // Connect Vue to the HTML code
 // Step 01: Create a Vue app
 const app = Vue.createApp({
-  
+  data() { // This must be "data"; always returns an object.
+
+    return {
+      courseGoal: 'Finish the course and learn Vue.'
+    };
+
+  } 
 });
 // console.log(app);
 
