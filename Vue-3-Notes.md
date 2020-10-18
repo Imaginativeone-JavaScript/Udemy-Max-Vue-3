@@ -38,16 +38,16 @@
 				- Basics: Core Syntax, Templates, Directives, Data, Methods, Computed Properties, Watchers
 				- Intermediate Concepts: Components, Component Communication, Behind the Scenes, Forms, HTTP, Routing, Animations
 				- Vuex (State Management), Authentication, Deployment & Optimizations, **Composition API**, Re-using Code
-		- [ ] 010. How To Get The Most Out Of This Course | 3min (03:23)
+		- [x] 010. How To Get The Most Out Of This Course | 3min (03:23)
 			- Watch the Videos
 			- Code Along
 			- Repeat Concepts
 			- Google, Stackoverflow
 			- Ask and Answer in the Q&A Section
 			- Errors in my code - Compare to Max's
-		- [ ] 011. Module Resources | 1min (00:08)
-	- [ ] Section 02: Basics & Core Concepts - DOM Interaction with Vue 0/30|2hr 9min
-		- [ ] 012. Module Introduction | 1min
+		- [x] 011. Module Resources | 1min (00:08)
+	- [x] Section 02: Basics & Core Concepts - DOM Interaction with Vue 0/30|2hr 9min
+		- [x] 012. Module Introduction | 1min
 		- [ ] 013. Creating and Connecting Vue App Instances | 9min
 		- [ ] 014. Interpolation and Data Binding | 4min
 		- [ ] 015. Binding Attributes with the "v-bind" Directive | 6min
