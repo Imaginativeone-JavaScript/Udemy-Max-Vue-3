@@ -4,7 +4,7 @@ const app = Vue.createApp({
   data() { // This must be "data"; always returns an object.
 
     return {
-      courseGoal: 'Finish the course and learn Vue.'
+      courseGoal: 'Finish the course and learn Vue!'
     };
 
   } 
