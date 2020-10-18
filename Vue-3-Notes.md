@@ -79,6 +79,7 @@
 		- [ ] 000. Assignment 04: Time to Practice: Dynamic Styling
 		- [ ] 036. Module Summary | 4min
 		- [ ] 037. Module Resources | 1min
+	## Section 03: Rendering Conditional Content & Lists 0/12 | 43min
 	- [ ] Section 03: Rendering Conditional Content & Lists 0/12 | 43min
 		- [ ] 038. Module Introduction | 2min
 		- [ ] 039. Understanding the Problem | 3min
@@ -92,7 +93,8 @@
 		- [ ] 000. Assignment 5: Time to Practice: Conditional Content & Lists
 		- [ ] 047. Module Summary | 2min
 		- [ ] 048. Module Resources | 1min
-	- [ ] Section 4: Course Project: The Monster Slayer Game 0/9|1hr 2min
+	## Section 04: Course Project: The Monster Slayer Game 0/9 | 1hr 2min
+	- [ ] Section 4: Course Project: The Monster Slayer Game 0/9 | 1hr 2min
 		- [ ] 049. Module Introduction | 1min
 		- [ ] 050. Project Setup & First Methods | 12min
 		- [ ] 051. Updating the Health Bars | 7min
