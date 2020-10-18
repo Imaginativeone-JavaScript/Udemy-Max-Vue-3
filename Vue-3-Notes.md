@@ -26,19 +26,19 @@
 			- See Vanilla JavaScript demo app
 		- [x] 006. 01-06 Re-building the App with Vue | 11min (10:51)
 			- See Vue demo app
-		- [x] 007. Vue vs "Vanilla JavaScript" (just JavaScript) | 1min (01:10)
+		- [x] 007. 01-07 Vue vs "Vanilla JavaScript" (just JavaScript) | 1min (01:10)
 			- Comparison
-		- [x] 008. Setting Up the Course Development Environment | 2min (02:04)
+		- [x] 008. 01-08 Setting Up the Course Development Environment | 2min (02:04)
 			- VSC
 			- Dark Plus Color Theme
 			- Preferences > Keyboard Shortcuts > Format Document > Shift + Alt + F
 			- "Prettier" Extension
-		- [x] 009. Course Outline & What's In The Course | 3min (02:58)
+		- [x] 009. 01-09 Course Outline & What's In The Course | 3min (02:58)
 			- No prior Vue knowledge is required
 				- Basics: Core Syntax, Templates, Directives, Data, Methods, Computed Properties, Watchers
 				- Intermediate Concepts: Components, Component Communication, Behind the Scenes, Forms, HTTP, Routing, Animations
 				- Vuex (State Management), Authentication, Deployment & Optimizations, **Composition API**, Re-using Code
-		- [x] 010. How To Get The Most Out Of This Course | 3min (03:23)
+		- [x] 010. 01-10 How To Get The Most Out Of This Course | 3min (03:23)
 			- Watch the Videos
 			- Code Along
 			- Repeat Concepts
