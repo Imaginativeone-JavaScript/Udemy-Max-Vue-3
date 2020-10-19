@@ -395,18 +395,17 @@
 		- [ ] 306. Global Mixins | 3min
 		- [ ] 307. Disadvantages of Mixins | 3min
 		- [ ] 308. Custom Hooks / Composables & The
-	- [ ] Composition API | 9min
 		- [ ] 309. More Custom Composition Functions | 4min
 		- [ ] 310. Why Hooks / Composables Beat
-	- [ ] Mixins | 1min
 		- [ ] 311. Example: Creating a "Search" Hook | 11min
 		- [ ] 312. Custom Hooks Gotchas | 9min
 		- [ ] 313. More Thoughts on Custom Hooks /
-	- [ ] Composables | 3min
 		- [ ] 314. Example: A Custom "Sort" Hook | 5min
 		- [ ] 315. Module Resources | 1min
+	## Section 21: Roundup & Next Steps 00/01 | 3min
 	- [ ] Section 21: Roundup & Next Steps 0/1|3min
 		- [ ] 316. Course Roundup & Next Steps 3min
+	## Section 22: Vue 2 to Vue 3 Migration 00/07 | 1hr 4min
 	- [ ] Section 22: Vue 2 to Vue 3 Migration 0/7|1hr 4min
 		- [ ] 317. Vue 3 - Overview | 7min
 		- [ ] 318. Important Changes & Migration Steps | 18min
@@ -415,6 +414,7 @@
 		- [ ] 321. Further Migration Resources | 1min
 		- [ ] 322. About this Course & Vue 3 | 6min
 		- [ ] 323. About this Course & Vue 3 (Written Summary) | 4min
+	## Section 23: Getting Started [VUE2] 07/09 | 22min
 	- [ ] Section 23: Getting Started [VUE2] 7/9 | 22min
 		- [ ] 324. Why is this section marked with "VUE2"? | 1min
 		- [ ] 325. Course Introduction | 3min
@@ -425,6 +425,7 @@
 		- [ ] 330. Take Advantage of all Course Resources! | 2min
 		- [ ] 331. Setup VueJS Locally | 2min
 		- [ ] 332. Module Resources & Useful Links | 1min
+	## Section 24: Using VueJS to Interact with the DOM [VUE2]| 9/31 | 1hr 3min
 	- [ ] Section 24: Using VueJS to Interact with the DOM [VUE2]| 9/31 | 1hr 3min
 		- [ ] 333. Module Introduction | 1min
 		- [ ] 334. Understanding VueJS Templates | 3min
@@ -457,6 +458,7 @@
 		- [ ] 000. Assignment 12: Time to Practice - Styling
 		- [ ] 358. Module Wrap Up | 1min
 		- [ ] 359. Module Resources & Useful Links | 1min
+	## Section 25: Using Conditionals and Rendering Lists [VUE2] 11/14 | 24min
 	- [ ] Section 25: Using Conditionals and Rendering Lists [VUE2] 11/14 | 24min
 		- [ ] 360. Module Introduction | 1min
 		- [ ] 361. Conditional Rendering with v-if | 4min
@@ -469,15 +471,15 @@
 		- [ ] 368. Looping through Objects | 5min
 		- [ ] 369. Looping through a List of Numbers | 1min
 		- [ ] 370. Keeping Track of Elements when using v-for | 4min
-	- [ ] Assignment 13: Time to Practice - Conditionals & Lists
+		- [ ] Assignment 13: Time to Practice - Conditionals & Lists
 		- [ ] 371. Module Wrap Up | 1min
 		- [ ] 372. Module Resources & Useful Links | 1min
+	## Section 26: First Course Project - The Monster Slayer [VUE2] 15/16 | 43min
 	- [ ] Section 26: First Course Project - The Monster Slayer [VUE2] 15/16 | 43min
 		- [ ] 373. Introduction & Challenge | 3min
 		- [ ] 374. Setting up the Course Project | 3min
 		- [ ] 375. Creating the Vue Instance and Styling the Healthbars | 5min
-		- [ ] 376. Showing the Player Controls
-	- [ ] Conditionally | 2min
+		- [ ] 376. Showing the Player Controls Conditionally | 2min
 		- [ ] 377. Implementing a "Start Game" Method | 2min
 		- [ ] 378. Implementing a "Attack" Method | 8min
 		- [ ] 379. Write better Code - Time for Refactoring! | 5min
@@ -490,6 +492,7 @@
 		- [ ] 386. Styling the Log Conditionally | 2min
 		- [ ] 387. Wrap Up | 1min
 		- [ ] 388. Full Application Code | 1min
+	## Section 27: Understanding the VueJS Instance [VUE2] 15/16 | 54min
 	- [ ] Section 27: Understanding the VueJS Instance [VUE2] 15/16 | 54min
 		- [ ] 389. Module Introduction | 1min
 		- [ ] 390. Some Basics about the VueJS Instance | 3min
@@ -507,7 +510,8 @@
 		- [ ] 402. The VueJS Instance Lifecycle in Practice | 6min
 		- [ ] 403. Module Wrap Up | 1min
 		- [ ] 404. Module Resources & Useful Links | 1min
-	- [ ] Section 28: Moving to a "Real" Development Workflow with Webpack & Vue CLI v2 12/12|30min
+	## Section 28: Moving to a "Real" Development Workflow with Webpack & Vue CLI v2 12/12 | 30min
+	- [ ] Section 28: Moving to a "Real" Development Workflow with Webpack & Vue CLI v2 12/12 | 30min
 		- [ ] 405. Module Introduction | 2min
 		- [ ] 406. Why do we need a Development Server? | 3min
 		- [ ] 407. What does "Development Workflow" mean? | 4min
@@ -520,7 +524,8 @@
 		- [ ] 414. Module Wrap Up | 1min
 		- [ ] 415. More about ".vue" Files and the CLI | 1min
 		- [ ] 416. Debugging VueJS Projects | 1min
-	- [ ] Section 29: An Introduction to Components [VUE2]| 5 / 15|40min
+	## Section 29: An Introduction to Components [VUE2]| 05/15 | 40min
+	- [ ] Section 29: An Introduction to Components [VUE2]| 05/15 | 40min
 		- [ ] 417. Module Introduction | 1min
 		- [ ] 418. An Introduction to Components | 5min
 		- [ ] 419. Storing Data in Components with the Data Method | 4min
@@ -536,6 +541,7 @@
 		- [ ] 428. Scoping Component Styles | 5min
 		- [ ] 429. Module Wrap Up | 1min
 		- [ ] 430. Module Resources & Useful Links | 1min
+	## Section 30: Communicating between Components [VUE2] 0/16 | 39min
 	- [ ] Section 30: Communicating between Components [VUE2] 0/16 | 39min
 		- [ ] 431. Module Introduction | 1min
 		- [ ] 432. Communication Problems | 3min
