@@ -386,7 +386,7 @@
 		- [ ] 299. Using Vuex with the Composition API | 5min
 		- [ ] 300. Summary | 3min
 		- [ ] 301. Module Resources | 1min
-	## Section 20: Reusing Functionality: Mixins & Custom Composition Functions | 00/14 | 1hr 3min
+	## Section 20: Reusing Functionality: Mixins & Custom Composition Fns | 00/14 | 1hr 3min
 	- [ ] Section 20: Reusing Functionality: Mixins & Custom Composition Functions | 0/14 | 1hr 3min
 		- [ ] 302. Module Introduction | 1min
 		- [ ] 303. Reusability Concepts | 5min
