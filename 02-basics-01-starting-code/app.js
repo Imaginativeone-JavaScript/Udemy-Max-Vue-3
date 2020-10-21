@@ -8,7 +8,19 @@ const app = Vue.createApp({
       vueLink: 'https://vuejs.org'
     };
 
-  } 
+  }, 
+  methods: { // This objects are all custom
+    outputGoal() {
+      const randomNumber = Math.random();
+
+      if (randomNumber < 0.5) {
+        return 'Learn Vue!';
+      } else {
+        return 'Master Vue!';
+      }
+
+    }
+  }
 });
 // console.log(app);
 
