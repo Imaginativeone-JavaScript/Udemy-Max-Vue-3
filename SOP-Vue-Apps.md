@@ -1,13 +1,18 @@
 # Standard Operating Procedure for Making a Vue App
 
 ## Create the global Vue Instance
-
 - Vue Instance
 
-  - const app = 
-  - Vue.**createApp**({});
+  - const app = Vue.**createApp**({});
 
 ## Create the HTML Mount Point
+```javascript
+// Which part of the HTML code should be controlled by the Vue app?
+// mount();
+// I get an error if the Vue instance doesn't have an object parameter.
+app.mount('#user-goal'); // String; CSS selector of the HTML element
+```
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -27,6 +32,7 @@
     <header>
       <h1>Vue Course Goals</h1>
     </header>
+    <!-- Mount Point Is Here -->
     <section id="user-goal">
       <h2>My Course Goal</h2>
       <!-- <p>{{ courseGoal }}</p> -->
