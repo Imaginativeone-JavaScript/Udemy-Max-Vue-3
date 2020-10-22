@@ -9,7 +9,7 @@ const app = Vue.createApp({
     };
 
   }, 
-  methods: { // This objects are all custom
+  methods: { // These functions are all custom
     outputGoal() {
       const randomNumber = Math.random();
 
