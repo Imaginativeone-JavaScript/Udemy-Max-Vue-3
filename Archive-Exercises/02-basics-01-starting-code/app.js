@@ -7,7 +7,6 @@ const app = Vue.createApp({
       courseGoalB: 'Master Vue and Build Amazing Apps!',
       vueLink: 'https://vuejs.org'
     };
-
   }, 
   methods: { // These functions are all custom
     outputGoal() {
