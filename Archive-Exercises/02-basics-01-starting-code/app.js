@@ -2,7 +2,6 @@
 // Step 01: Create a Vue app
 const app = Vue.createApp({
   data() { // This must be "data"; always returns an object.
-
     return {
       courseGoalA: 'Finish the course and learn Vue!',
       courseGoalB: 'Master Vue and Build Amazing Apps!',

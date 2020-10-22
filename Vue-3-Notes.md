@@ -51,11 +51,11 @@
 		- [x] 013. 02-02 Creating and Connecting Vue App Instances | 9min
 		- [x] 014. 02-03 Interpolation and Data Binding | 4min
 		- [x] 015. 02-04 Binding Attributes with the "v-bind" Directive | 6min
-		- [x] 016. 02-05 Understanding "methods" in Vue Apps | 6min | Current Development
-		- [ ] 017. 02-06 Working with Data inside of a Vue App | 3min
-		- [ ] 018. Outputting Raw HTML Content with v-html | 4min
-		- [ ] 019. A First Summary | 4min
-		- [ ] 000. Assignment 1: Time to Practice: Data Binding
+		- [x] 016. 02-05 Understanding "methods" in Vue Apps | 6min
+		- [x] 017. 02-06 Working with Data inside of a Vue App | 3min
+		- [x] 018. Outputting Raw HTML Content with v-html | 4min
+		- [x] 019. A First Summary | 4min
+		- [ ] 000. Assignment 1: Time to Practice: Data Binding | Current Development
 		- [ ] 020. Understanding Event Binding | 7min
 		- [ ] 021. Events & Methods | 6min
 		- [ ] 022. Working with Event Arguments | 3min
