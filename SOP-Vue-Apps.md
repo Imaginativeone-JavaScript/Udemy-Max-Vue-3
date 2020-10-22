@@ -6,5 +6,9 @@
 
   - const app = 
   - Vue.**createApp**({});
+
+## Create the data() Function
   - data() {} - This is a function
+
+## Create the methods: {} JavaScript Object Property
   - methods: {} - This is an object property
