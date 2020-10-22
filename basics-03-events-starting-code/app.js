@@ -6,12 +6,12 @@ const app = Vue.createApp({
   },
   methods: {
 
-    add() {
-      this.counter++;
+    add(incrementor) {
+      this.counter += incrementor;
     },
 
-    reduce() {
-      this.counter--;
+    reduce(decementor) {
+      this.counter -= decementor;
     }
 
   }
