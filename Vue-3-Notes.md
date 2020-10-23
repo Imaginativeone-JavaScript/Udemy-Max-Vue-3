@@ -46,7 +46,8 @@
 			- Ask and Answer in the Q&A Section
 			- Errors in my code - Compare to Max's
 		- [x] 011. Module Resources | 1min (00:08)
-	- [x] Section 02: Basics & Core Concepts - DOM Interaction with Vue 0/30|2hr 9min
+	## Section 02: Basics & Core Concepts - DOM Interaction with Vue 0/30 | 2hr 9min
+	- [x] Section 02: Basics & Core Concepts - DOM Interaction with Vue 0/30 | 2hr 9min
 		- [x] 012. 02-01 Module Introduction | 1min
 		- [x] 013. 02-02 Creating and Connecting Vue App Instances | 9min
 		- [x] 014. 02-03 Interpolation and Data Binding | 4min
