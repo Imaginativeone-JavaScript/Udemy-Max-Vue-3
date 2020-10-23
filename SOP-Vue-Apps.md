@@ -80,4 +80,4 @@ app.mount('#user-goal'); // String; CSS selector of the HTML element
 
   ## Interpolate Data Strings Where Needed on the HTML Page
 
-  
+  ## Computed Properties

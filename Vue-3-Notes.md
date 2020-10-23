@@ -74,6 +74,8 @@
 		- [ ] 027. 02-18 Methods used for Data Binding: How It Works | 7min
 		  - Advanced Reactivity
 		- [ ] 028. Introducing Computed Properties | 6min
+		  - With Computed Properties, Vue is aware of their dependencies and
+			  change ONLY when the dependencies change
 		- [ ] 029. Working with Watchers | 11min
 		- [ ] 030. Methods vs Computed Properties vs Watchers | 2min
 		- [ ] 031. v-bind and v-on Shorthands | 2min
