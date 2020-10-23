@@ -2,8 +2,19 @@ const app = Vue.createApp({
   data() {
     return {
       counter: 0,
-      name: ''
+      name: '',
+      lastName: '',
+      // fullname: ''
     };
+  },
+
+  watch: {
+    // name(newValue, oldValue) {
+    //   this.fullname = newValue + ' ' + this.lastName;
+    // },
+    // lastName(value) {
+    //   this.fullname = this.name + ' ' + value;
+    // }
   },
 
   computed: {
@@ -13,7 +24,8 @@ const app = Vue.createApp({
       if(this.name === '') {
         return '';
       }
-      return this.name + ' ' + 'Franklin';
+      // return this.name + ' ' + 'Franklin';
+      return this.name + ' ' + this.lastName;
 
     }
 

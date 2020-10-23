@@ -25,11 +25,14 @@
       <!-- Two-Way Binding -->
       <!-- Advanced Reactivity -->
       <input type="text" v-model="name">
+      <input type="text" v-model="lastName">
       <button v-on:click="resetInput">Reset Input</button>
       <!-- <p>Your Name: {{ name }}</p> -->
       <!-- Problem: The next line is re-executed by Vue -->
       <!-- every time the page changes -->
       <!-- <p>Your Name: {{ outputFullname() }}</p> -->
+      <p>Your Name: {{ name }}</p><!-- Computed Property -->
+      <p>Your Name: {{ lastName }}</p><!-- Computed Property -->
       <p>Your Name: {{ fullName }}</p><!-- Computed Property -->
 
     </section>

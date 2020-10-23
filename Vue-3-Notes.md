@@ -77,6 +77,8 @@
 		  - With Computed Properties, Vue is aware of their dependencies and
 			  change ONLY when the dependencies change
 		- [ ] 029. Working with Watchers | 11min
+		  - Why do we have watchers, if we can use them but they're worse?
+			- Property Conditionals
 		- [ ] 030. Methods vs Computed Properties vs Watchers | 2min
 		- [ ] 031. v-bind and v-on Shorthands | 2min
 		- [ ] 000. Assignment 03: Time to Practice: Reactivity
