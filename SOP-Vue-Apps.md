@@ -46,10 +46,10 @@ app.mount('#user-goal'); // String; CSS selector of the HTML element
 ```
 
 ## Create the data() Function
-  - data() {} - This is a function
+  - data() {} - This is a function.
 
 ## Create the methods: {} JavaScript Object Property
-  - methods: {} - This is an object property
+  - methods: {} - This is an object property, filled with functions, that can connect to data properties using this.dataProperty.
 
 ## Fill in the data() Function
   ```javaScript

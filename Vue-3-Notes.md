@@ -46,7 +46,8 @@
 			- Ask and Answer in the Q&A Section
 			- Errors in my code - Compare to Max's
 		- [x] 011. Module Resources | 1min (00:08)
-	- [x] Section 02: Basics & Core Concepts - DOM Interaction with Vue 0/30|2hr 9min
+	## Section 02: Basics & Core Concepts - DOM Interaction with Vue 0/30 | 2hr 9min
+	- [x] Section 02: Basics & Core Concepts - DOM Interaction with Vue 0/30 | 2hr 9min
 		- [x] 012. 02-01 Module Introduction | 1min
 		- [x] 013. 02-02 Creating and Connecting Vue App Instances | 9min
 		- [x] 014. 02-03 Interpolation and Data Binding | 4min
@@ -382,16 +383,17 @@
 		- [ ] 306. Global Mixins | 3min
 		- [ ] 307. Disadvantages of Mixins | 3min
 		- [ ] 308. Custom Hooks / Composables & The
-	- [ ] Composition API | 9min
 		- [ ] 309. More Custom Composition Functions | 4min
-		- [ ] 310. Why Hooks/Composables Beat Mixins | 1min
+		- [ ] 310. Why Hooks / Composables Beat
 		- [ ] 311. Example: Creating a "Search" Hook | 11min
 		- [ ] 312. Custom Hooks Gotchas | 9min
-		- [ ] 313. More Thoughts on Custom Hooks/Composables | 3min
+		- [ ] 313. More Thoughts on Custom Hooks /
 		- [ ] 314. Example: A Custom "Sort" Hook | 5min
 		- [ ] 315. Module Resources | 1min
+	## Section 21: Roundup & Next Steps 00/01 | 3min
 	- [ ] Section 21: Roundup & Next Steps 0/1|3min
 		- [ ] 316. Course Roundup & Next Steps 3min
+	## Section 22: Vue 2 to Vue 3 Migration 00/07 | 1hr 4min
 	- [ ] Section 22: Vue 2 to Vue 3 Migration 0/7|1hr 4min
 		- [ ] 317. Vue 3 - Overview | 7min
 		- [ ] 318. Important Changes & Migration Steps | 18min
@@ -400,6 +402,7 @@
 		- [ ] 321. Further Migration Resources | 1min
 		- [ ] 322. About this Course & Vue 3 | 6min
 		- [ ] 323. About this Course & Vue 3 (Written Summary) | 4min
+	## Section 23: Getting Started [VUE2] 07/09 | 22min
 	- [ ] Section 23: Getting Started [VUE2] 7/9 | 22min
 		- [ ] 324. Why is this section marked with "VUE2"? | 1min
 		- [ ] 325. Course Introduction | 3min
@@ -410,7 +413,8 @@
 		- [ ] 330. Take Advantage of all Course Resources! | 2min
 		- [ ] 331. Setup VueJS Locally | 2min
 		- [ ] 332. Module Resources & Useful Links | 1min
-	- [ ] Section 24: Using VueJS to Interact w DOM [VUE2]| 9/31 | 1hr 3min
+	## Section 24: Using VueJS to Interact with the DOM [VUE2]| 9/31 | 1hr 3min
+	- [ ] Section 24: Using VueJS to Interact with the DOM [VUE2]| 9/31 | 1hr 3min
 		- [ ] 333. Module Introduction | 1min
 		- [ ] 334. Understanding VueJS Templates | 3min
 		- [ ] 335. How VueJS Template Syntax & Instance Wrk Together | 3min
@@ -442,7 +446,8 @@
 		- [ ] 000. Assignment 12: Time to Practice - Styling
 		- [ ] 358. Module Wrap Up | 1min
 		- [ ] 359. Module Resources & Useful Links | 1min
-	- [ ] Section 25: Using Condls & Rendering Lists [VUE2] 11/14 | 24min
+	## Section 25: Using Conditionals and Rendering Lists [VUE2] 11/14 | 24min
+	- [ ] Section 25: Using Conditionals and Rendering Lists [VUE2] 11/14 | 24min
 		- [ ] 360. Module Introduction | 1min
 		- [ ] 361. Conditional Rendering with v-if | 4min
 		- [ ] 362. v-else-if in Vue.js 2.1 | 1min
@@ -454,13 +459,14 @@
 		- [ ] 368. Looping through Objects | 5min
 		- [ ] 369. Looping through a List of Numbers | 1min
 		- [ ] 370. Keeping Track of Elements when using v-for | 4min
-	- [ ] Assignment 13: Time to Practice - Conditionals & Lists
+		- [ ] Assignment 13: Time to Practice - Conditionals & Lists
 		- [ ] 371. Module Wrap Up | 1min
 		- [ ] 372. Module Resources & Useful Links | 1min
-	- [ ] Sec 26: First Course Prj - Monster Slayer [VUE2] 15/16 | 43min
+	## Section 26: First Course Project - The Monster Slayer [VUE2] 15/16 | 43min
+	- [ ] Section 26: First Course Project - The Monster Slayer [VUE2] 15/16 | 43min
 		- [ ] 373. Introduction & Challenge | 3min
 		- [ ] 374. Setting up the Course Project | 3min
-		- [ ] 375. Creating the Vue Instance & Styling the Healthbars | 5min
+		- [ ] 375. Creating the Vue Instance and Styling the Healthbars | 5min
 		- [ ] 376. Showing the Player Controls Conditionally | 2min
 		- [ ] 377. Implementing a "Start Game" Method | 2min
 		- [ ] 378. Implementing a "Attack" Method | 8min
@@ -474,6 +480,7 @@
 		- [ ] 386. Styling the Log Conditionally | 2min
 		- [ ] 387. Wrap Up | 1min
 		- [ ] 388. Full Application Code | 1min
+	## Section 27: Understanding the VueJS Instance [VUE2] 15/16 | 54min
 	- [ ] Section 27: Understanding the VueJS Instance [VUE2] 15/16 | 54min
 		- [ ] 389. Module Introduction | 1min
 		- [ ] 390. Some Basics about the VueJS Instance | 3min
@@ -491,6 +498,7 @@
 		- [ ] 402. The VueJS Instance Lifecycle in Practice | 6min
 		- [ ] 403. Module Wrap Up | 1min
 		- [ ] 404. Module Resources & Useful Links | 1min
+	## Section 28: Moving to a "Real" Dev Workflow with Webpack & Vue CLI v2 12/12 | 30min
 	- [ ] Section 28: Moving to a "Real" Development Workflow with Webpack & Vue CLI v2 12/12 | 30min
 		- [ ] 405. Module Introduction | 2min
 		- [ ] 406. Why do we need a Development Server? | 3min
@@ -504,7 +512,8 @@
 		- [ ] 414. Module Wrap Up | 1min
 		- [ ] 415. More about ".vue" Files and the CLI | 1min
 		- [ ] 416. Debugging VueJS Projects | 1min
-	- [ ] Section 29: An Introduction to Components [VUE2]| 5 / 15|40min
+	## Section 29: An Introduction to Components [VUE2]| 05/15 | 40min
+	- [ ] Section 29: An Introduction to Components [VUE2]| 05/15 | 40min
 		- [ ] 417. Module Introduction | 1min
 		- [ ] 418. An Introduction to Components | 5min
 		- [ ] 419. Storing Data in Components with the Data Method | 4min
@@ -520,6 +529,7 @@
 		- [ ] 428. Scoping Component Styles | 5min
 		- [ ] 429. Module Wrap Up | 1min
 		- [ ] 430. Module Resources & Useful Links | 1min
+	## Section 30: Communicating between Components [VUE2] 0/16 | 39min
 	- [ ] Section 30: Communicating between Components [VUE2] 0/16 | 39min
 		- [ ] 431. Module Introduction | 1min
 		- [ ] 432. Communication Problems | 3min
@@ -537,7 +547,8 @@
 		- [ ] 443. Time to Practice - Component Communication (Code) | 1min
 		- [ ] 444. Wrap Up | 1min
 		- [ ] 445. Module Resources & Useful Links | 1min
-	- [ ] Section 31: Advanced Component Usage [VUE2] 0/17 | 27min
+	## Section 31: Advanced Component Usage [VUE2] 00/17 | 27min
+	- [ ] Section 31: Advanced Component Usage [VUE2] 00/17 | 27min
 		- [ ] 446. Module Introduction | 1min
 		- [ ] 447. Setting up the Module Project | 3min
 		- [ ] 448. Passing Content - The Suboptimal Solution | 2min
@@ -555,7 +566,8 @@
 		- [ ] 459. Practice - Slots and Dynamic Components (Code) | 1min
 		- [ ] 460. Wrap Up | 1min
 		- [ ] 461. Module Resources & Helpful Links | 1min
-	- [ ] Sec 32: Second Course Prj - Wonderful Quotes [VUE2] 0/12 | 29min
+	## Section 32: Second Course Project - Wonderful Quotes [VUE2] 00/12 | 29min
+	- [ ] Section 32: Second Course Project - Wonderful Quotes [VUE2] 00/12 | 29min
 		- [ ] 462. Module Introduction | 2min
 		- [ ] 463. Setting up the Project | 1min
 		- [ ] 464. Initializing the Application | 1min
@@ -568,6 +580,7 @@
 		- [ ] 471. Controlling Quotes with a Progress Bar | 4min
 		- [ ] 472. Finishing Touches and State Management | 2min
 		- [ ] 473. Module Resources | 1min
+	## Section 33: Handling User Input with Forms [VUE2] 00/15 | 36min
 	- [ ] Section 33: Handling User Input with Forms [VUE2] 0/15 | 36min
 		- [ ] 474. Module Introduction | 1min
 		- [ ] 475. A Basic <input> Form Binding | 4min
@@ -584,7 +597,8 @@
 		- [ ] 485. Time to Practice - Forms (Code) | 1min
 		- [ ] 486. Wrap Up | 1min
 		- [ ] 487. Module Resources & Useful Links | 1min
-	- [ ] Section 34: Using and Creating Directives [VUE2] | 00/15 | 24min
+	## Section 34: Using and Creating Directives [VUE2]| 00/15 | 24min
+	- [ ] Section 34: Using and Creating Directives [VUE2]| 0 / 15|24min
 		- [ ] 488. Module Introduction | 1min
 		- [ ] 489. Understanding Directives | 4min
 		- [ ] 490. How Directives Work - Hook Functions | 2min
@@ -600,7 +614,8 @@
 		- [ ] 499. Time to Practice - Directives (Code) | 1min
 		- [ ] 500. Wrap Up | 1min
 		- [ ] 501. Module Resources & Useful Links | 1min
-	- [ ] Sec 35: Imprv'g Your App w Filters & Mixins [VUE2]| 00/13 | 28min
+	## Section 35: Improving your App with Filters and Mixins [VUE2]| 00/13 | 28min
+	- [ ] Section 35: Improving your App with Filters and Mixins [VUE2]| 0 / 13|28min
 		- [ ] 502. Module Introduction | 1min
 		- [ ] 503. Creating a Local Filter | 5min
 		- [ ] 504. Global Filters and How to Chain Multiple Filters | 2min
@@ -614,7 +629,8 @@
 		- [ ] 511. Time to Practice - Filters and Mixins (Code) | 1min
 		- [ ] 512. Wrap Up | 2min
 		- [ ] 513. Module Resources & Useful Links | 1min
-	- [ ] Sec 36: Adding Animations and Transitions [VUE2] 0/28 | 1hr 32min
+	## Section 36: Adding Animations and Transitions [VUE2] 00/28 | 1hr 32min
+	- [ ] Section 36: Adding Animations and Transitions [VUE2] 00/28 | 1hr 32min
 		- [ ] 514. Module Introduction | 1min
 		- [ ] 515. Understanding Transitions | 1min
 		- [ ] 516. Preparing Code to use Transitions | 3min
@@ -644,7 +660,8 @@
 		- [ ] 539. Wrap Up | 1min
 		- [ ] 540. Module Resources & Useful Links | 1min
 		- [ ] 541. The Animated "Monster Slayer" App | 1min
-	- [ ] Sec 37: Connecting to Servers via Http - Using vue-resource [VUE2]| 00/15 | 48min
+	## Section 37: Connecting to Servers via Http - Using vue-resource [VUE2]| 00/15 | 48min
+	- [ ] Section 37: Connecting to Servers via Http - Using vue-resource [VUE2]| 0 / 15|48min
 		- [ ] 542. Module Introduction | 2min
 		- [ ] 543. Accessing Http via vue-resource - Setup | 4min
 		- [ ] 544. Firebase & The Right Database | 1min
@@ -660,7 +677,8 @@
 		- [ ] 554. Understanding Template URLs | 5min
 		- [ ] 555. Wrap Up | 2min
 		- [ ] 556. Module Resources & Useful Links | 1min
-	- [ ] Sec 38: Routing in a VueJS Application [VUE2]| 00/28 | 1hr 25min
+	## Section 38: Routing in a VueJS Application [VUE2]| 00/28 | 1hr 25min
+	- [ ] Section 38: Routing in a VueJS Application [VUE2]| 0 / 28|1hr 25min
 		- [ ] 557. Module Introduction | 2min
 		- [ ] 558. Setting up the VueJS Router (vue-router) | 2min
 		- [ ] 559. Setting Up and Loading Routes | 7min
@@ -689,7 +707,8 @@
 		- [ ] 582. Loading Routes Lazily | 7min
 		- [ ] 583. Wrap Up | 1min
 		- [ ] 584. Module Resources & Useful Links | 1min
-	- [ ] Section 39: Better State Management w Vuex [VUE2]| 0/23|1hr 12min
+	## Section 39: Better State Management with Vuex [VUE2]| 00/23 | 1hr 12min
+	- [ ] Section 39: Better State Management with Vuex [VUE2]| 0/23|1hr 12min
 		- [ ] 585. Module Introduction | 1min
 		- [ ] 586. Why a Different State Management May Be Needed | 2min
 		- [ ] 587. Understanding "Centralized State" | 2min
