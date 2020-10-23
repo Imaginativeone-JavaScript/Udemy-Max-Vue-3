@@ -64,14 +64,15 @@
 		<button v-on:click="counter++">Add</button>
 		```
 
-		- [ ] 021. Events & Methods | 6min
-		- [ ] 022. Working with Event Arguments | 3min
-		- [ ] 023. Using the Native Event Object | 9min
-		- [ ] 024. Exploring Event Modifiers | 10min
-		- [ ] 025. Locking Content with v-once | 2min
-		- [ ] 000. Assignment 2: Time to Practice: Event Binding
-		- [ ] 026. Data Binding + Event Binding = Two-Way Binding | 7min
-		- [ ] 027. Methods used for Data Binding: How It Works | 7min
+		- [x] 021. Events & Methods | 6min
+		- [x] 022. Working with Event Arguments | 3min
+		- [x] 023. Using the Native Event Object | 9min
+		- [x] 024. Exploring Event Modifiers | 10min
+		- [x] 025. Locking Content with v-once | 2min
+		- [x] 000. Assignment 2: Time to Practice: Event Binding
+		- [x] 026. Data Binding + Event Binding = Two-Way Binding | 7min
+		- [ ] 027. 02-18 Methods used for Data Binding: How It Works | 7min
+		  - Advanced Reactivity
 		- [ ] 028. Introducing Computed Properties | 6min
 		- [ ] 029. Working with Watchers | 11min
 		- [ ] 030. Methods vs Computed Properties vs Watchers | 2min

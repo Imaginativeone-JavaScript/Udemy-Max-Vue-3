@@ -23,9 +23,13 @@
       <p>Result: {{ counter }}</p>
 
       <!-- Two-Way Binding -->
+      <!-- Advanced Reactivity -->
       <input type="text" v-model="name">
       <button v-on:click="resetInput">Reset Input</button>
-      <p>Your Name: {{ name }}</p>
+      <!-- <p>Your Name: {{ name }}</p> -->
+      <!-- Problem: The next line is re-executed by Vue -->
+      <!-- every time the page changes -->
+      <p>Your Name: {{ outputFullname() }}</p>
 
     </section>
   </body>
