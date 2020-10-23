@@ -80,4 +80,19 @@ app.mount('#user-goal'); // String; CSS selector of the HTML element
 
   ## Interpolate Data Strings Where Needed on the HTML Page
 
-  
+  ## Computed Properties
+
+  ## Watch(ed) Properties
+  - Video 029 02-20
+
+  ```javascript
+  watch: {
+
+    name(value) { // value = most-recent value of the watched property
+
+      this.fullname = value + ' ' + 'Franklin';
+
+    }
+
+  }
+  ```
