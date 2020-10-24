@@ -57,7 +57,7 @@
 		- [x] 018. Outputting Raw HTML Content with v-html | 4min
 		- [x] 019. A First Summary | 4min
 		- [x] 000. Assignment 1: Time to Practice: Data Binding
-		- [ ] 020. Understanding Event Binding | 7min | Current Development
+		- [x] 020. Understanding Event Binding | 7min
 		  - 02:30 Vue gives us an easy way to add Event Listeners to HTML
 			  Elements - "v-on"
 		```html
@@ -94,7 +94,7 @@
 				- Allows you to run any code in reaction to some changed data
 				  - HTTP Requests, etc
 				- Use for any NON DATA update you want to make
-		- [ ] 031. v-bind and v-on Shorthands | 2min
+		- [ ] 031. v-bind and v-on Shorthands | 2min | Current Work
 		- [ ] 000. Assignment 03: Time to Practice: Reactivity
 		- [ ] 032. Dynamic Styling with Inline Styles | 7min
 		- [ ] 033. Adding CSS Classes Dynamically | 7min
