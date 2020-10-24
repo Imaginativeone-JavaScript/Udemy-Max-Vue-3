@@ -71,15 +71,29 @@
 		- [x] 025. Locking Content with v-once | 2min
 		- [x] 000. Assignment 2: Time to Practice: Event Binding
 		- [x] 026. Data Binding + Event Binding = Two-Way Binding | 7min
-		- [ ] 027. 02-18 Methods used for Data Binding: How It Works | 7min
+		- [x] 027. 02-18 Methods used for Data Binding: How It Works | 7min
 		  - Advanced Reactivity
-		- [ ] 028. Introducing Computed Properties | 6min
+		- [x] 028. Introducing Computed Properties | 6min
 		  - With Computed Properties, Vue is aware of their dependencies and
 			  change ONLY when the dependencies change
-		- [ ] 029. Working with Watchers | 11min
+		- [x] 029. Working with Watchers | 11min
 		  - Why do we have watchers, if we can use them but they're worse?
 			- Property Conditionals
-		- [ ] 030. Methods vs Computed Properties vs Watchers | 2min
+		- [x] 030. Methods vs Computed Properties vs Watchers | 2min
+		  - Methods
+			  - Event binding
+				- Data binding
+				  - Method executed for every "re-render" cycle of the component
+				- Use for events that really need to be re-evaluated all the time
+			- Computed
+			  - Use with Data Binding (not event binding)
+				- Only re-evaluated if a "used value" has changed
+				- Use for data that depends on other data
+			- Watch(er)
+			  - Not directly used in template
+				- Allows you to run any code in reaction to some changed data
+				  - HTTP Requests, etc
+				- Use for any NON DATA update you want to make
 		- [ ] 031. v-bind and v-on Shorthands | 2min
 		- [ ] 000. Assignment 03: Time to Practice: Reactivity
 		- [ ] 032. Dynamic Styling with Inline Styles | 7min
