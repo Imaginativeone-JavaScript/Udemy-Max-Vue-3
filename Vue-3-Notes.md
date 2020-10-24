@@ -95,6 +95,8 @@
 				  - HTTP Requests, etc
 				- Use for any NON DATA update you want to make
 		- [ ] 031. v-bind and v-on Shorthands | 2min | Current Work
+		  - v-on   >> @
+			- v-bind >> :
 		- [ ] 000. Assignment 03: Time to Practice: Reactivity
 		- [ ] 032. Dynamic Styling with Inline Styles | 7min
 		- [ ] 033. Adding CSS Classes Dynamically | 7min
