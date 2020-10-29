@@ -1,6 +1,6 @@
 # Vue - The Complete Guide (with Router, Vuex, Composition API)
 - [ ] Vue - The Complete Guide (with Router, Vuex, Composition API)
-	## Section 01/44: Getting Started 11 Videos | 43min
+	## Section 01 01/44: Getting Started 11 Videos | 43min
 	- [ ] Section 01: Getting Started 0/11 | 43min 10/10/20
 		- [x] 001. 01-01 Welcome to the Course! | 2min
 		  - From Novice to Expert
@@ -63,7 +63,6 @@
 		```html
 		<button v-on:click="counter++">Add</button>
 		```
-
 		- [x] 021. Events & Methods | 6min
 		- [x] 022. Working with Event Arguments | 3min
 		- [x] 023. Using the Native Event Object | 9min
@@ -89,6 +88,7 @@
 		- [ ] 000. Assignment 04: Time to Practice: Dynamic Styling
 		- [ ] 036. Module Summary | 4min
 		- [ ] 037. Module Resources | 1min
+	## Section 03: Rendering Conditional Content & Lists 00/12 | 43min
 	- [ ] Section 03: Rendering Conditional Content & Lists 00/12 | 43min
 		- [ ] 038 03-01 01:35 Module Introduction | 2min
 		- [ ] 039 03-02 03:16 Understanding the Problem | 3min
@@ -102,7 +102,8 @@
 		- [ ] 000 03-00 00:00 Assignment 5: Time to Practice: Conditional Content & Lists
 		- [ ] 047 03-11 02:15 Module Summary | 2min
 		- [ ] 048 03-00 00:06 Module Resources | 1min
-	- [ ] Section 4: Course Project: The Monster Slayer Game 00/09 | 1hr 2min
+	## Section 04: Course Project: The Monster Slayer Game 00/09 | 1hr 2min
+	- [ ] Section 04: Course Project: The Monster Slayer Game 00/09 | 1hr 2min
 		- [ ] 049 04-01 01:18 Module Introduction | 1min
 		- [ ] 050 04-02 12:27 Project Setup & First Methods | 12min
 		- [ ] 051 04-03 07:07 Updating the Health Bars | 7min
@@ -112,7 +113,8 @@
 		- [ ] 055 04-07 06:08 Finishing the Core Functionality | 6min
 		- [ ] 056 04-08 14:11 Adding a Battle Log | 14min
 		- [ ] 057 04-09 00:06 Module Resources | 1min
-	- [ ] Section 5: Vue: Behind the Scenes 00/10 | 48min
+	## Section 05: Vue: Behind the Scenes 00/10 | 48min
+	- [ ] Section 05: Vue: Behind the Scenes 00/10 | 48min
 		- [ ] 058 05-01 01:31 Module Introduction | 2min
 		- [ ] 059 05-02 04:26 An Introduction to Vue's Reactivity | 4min
 		- [ ] 060 05-03 08:10 Vue Reactivity: A Deep Dive | 8min
@@ -123,13 +125,15 @@
 		- [ ] 065 05-08 04:46 Vue App Lifecycle - Theory | 5min
 		- [ ] 066 05-09 09:48 Vue App Lifecycle - Practice | 10min
 		- [ ] 067 05-00 00:06 Module Resources | 1min
-	- [ ] Section 6: Introducing Components 00/06 | 23min
+	## Section 06: Introducing Components 00/06 | 23min
+	- [ ] Section 06: Introducing Components 00/06 | 23min
 		- [ ] 068 06-01 01:30 Module Introduction | 2min
 		- [ ] 069 06-02 08:39 Understanding the Problem | 9min
 		- [ ] 070 06-03 10:54 Introducing Components | 11min
 		- [ ] 071 06-04 01:00 The Why: Building Complex User Interfaces With Components | 1min
 		- [ ] 072 06-00 00:57 Multiple Vue Apps vs Multiple Components | 1min
 		- [ ] 073 06-00 00:06 Module Resources | 1min
+	## Sec 07: Moving to Better Dev Setup & Wkflow w Vue CLI 00/14 | 1hr
 	- [ ] Sec 07: Moving to Better Dev Setup & Wkflow w Vue CLI 00/14 | 1hr
 		- [ ] 074 07-01 01:35 Module Introduction | 2min
 		- [ ] 075 07-02 03:29 Why We Need A Development Server | 3min
@@ -145,6 +149,7 @@
 		- [ ] 085 07-12 02:16 Adding Styling | 2min
 		- [ ] 086 07-00 00:13 A Small Addition | 1min ** 
 		- [ ] 087 07-00 00:06 Module Resources | 1min **
+	## Section 08: Component Communication 00/18 | 1hr 33min
 	- [ ] Section 08: Component Communication 00/18 | 1hr 33min
 		- [ ] 088 08-01 01:41 Module Introduction | 2min
 		- [ ] 089 08-02 10:03 Introducing "Props" (Parent => Child Communication) | 10min
@@ -164,6 +169,7 @@
 		- [ ] 102 08-13 Provide + Inject vs Props & Custom Events | 2min
 		- [ ] 103 08-14 Module Summary | 5min
 		- [ ] 104 08-15 Module Resources | 1min
+	## Section 09: Diving Deeper Into Components 0/18 | 1hr 24min
 	- [ ] Section 09: Diving Deeper Into Components 0/18 | 1hr 24min
 		- [ ] 105. Module Introduction | 2min
 		- [ ] 106. Project Setup | 3min
@@ -183,6 +189,7 @@
 		- [ ] 120. Moving to a Different Folder Structure | 3min
 		- [ ] 121. Module Summary | 4min
 		- [ ] 122. Module Resources | 1min
+	## Section 10: Course Prj: The Learning Rsrces App 00/14 | 1hr 24min
 	- [ ] Section 10: Course Prj: The Learning Rsrces App 00/14 | 1hr 24min
 		- [ ] 123. Module Introduction | 2min
 		- [ ] 124. Setup & First Steps | 5min
