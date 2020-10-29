@@ -171,24 +171,24 @@
 		- [ ] 104 08-18 00:06 Module Resources | 1min
 	## Section 09: Diving Deeper Into Components 00/18 | 1hr 24min
 	- [ ] Section 09: Diving Deeper Into Components 0/18 | 1hr 24min
-		- [ ] 105. Module Introduction | 2min
-		- [ ] 106. Project Setup | 3min
-		- [ ] 107. Global vs Local Components | 9min
-		- [ ] 108. Scoped Styles | 5min
-		- [ ] 109. Introducing Slots | 6min
-		- [ ] 110. Named Slots | 6min
-		- [ ] 111. Slot Styles & Compilation | 2min
-		- [ ] 112. More on Slots | 7min
-		- [ ] 113. Scoped Slots | 10min
-		- [ ] 114. Dynamic Components | 7min
-		- [ ] 115. Keeping Dynamic Components Alive | 3min
-		- [ ] 116. Applying What We Know & A Problem | 9min
-		- [ ] 117. Teleporting Elements | 4min
-		- [ ] 118. Working with Fragments | 1min
-		- [ ] 119. The Vue Style Guide | 3min
-		- [ ] 120. Moving to a Different Folder Structure | 3min
-		- [ ] 121. Module Summary | 4min
-		- [ ] 122. Module Resources | 1min
+		- [ ] 105 09-01 01:38 Module Introduction | 2min
+		- [ ] 106 09-02 02:38 Project Setup | 3min
+		- [ ] 107 09-03 09:22 Global vs Local Components | 9min
+		- [ ] 108 09-04 05:15 Scoped Styles | 5min
+		- [ ] 109 09-05 06:23 Introducing Slots | 6min
+		- [ ] 110 09-06 05:35 Named Slots | 6min
+		- [ ] 111 09-07 02:26 Slot Styles & Compilation | 2min
+		- [ ] 112 09-08 07:19 More on Slots | 7min
+		- [ ] 113 09-09 09:34 Scoped Slots | 10min
+		- [ ] 114 09-10 07:06 Dynamic Components | 7min
+		- [ ] 115 09-11 02:44 Keeping Dynamic Components Alive | 3min
+		- [ ] 116 09-12 09:24 Applying What We Know & A Problem | 9min
+		- [ ] 117 09-13 03:50 Teleporting Elements | 4min
+		- [ ] 118 09-14 01:23 Working with Fragments | 1min
+		- [ ] 119 09-15 03:02 The Vue Style Guide | 3min
+		- [ ] 120 09-16 02:56 Moving to a Different Folder Structure | 3min
+		- [ ] 121 09-17 03:38 Module Summary | 4min
+		- [ ] 122 09-00 00:06 Module Resources | 1min
 	## Section 10: Course Prj: The Learning Rsrces App 00/14 | 1hr 24min
 	- [ ] Section 10: Course Prj: The Learning Rsrces App 00/14 | 1hr 24min
 		- [ ] 123. Module Introduction | 2min
