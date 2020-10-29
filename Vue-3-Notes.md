@@ -102,27 +102,27 @@
 		- [ ] 000 03-00 00:00 Assignment 5: Time to Practice: Conditional Content & Lists
 		- [ ] 047 03-11 02:15 Module Summary | 2min
 		- [ ] 048 03-00 00:06 Module Resources | 1min
-	- [ ] Section 4: Course Project: The Monster Slayer Game 0/9|1hr 2min
-		- [ ] 049. Module Introduction | 1min
-		- [ ] 050. Project Setup & First Methods | 12min
-		- [ ] 051. Updating the Health Bars | 7min
-		- [ ] 052. Adding a "Special Attack" | 6min
-		- [ ] 053. Adding a "Heal" Functionality | 5min
-		- [ ] 054. Adding a "Game Over" Screen | 10min
-		- [ ] 055. Finishing the Core Functionality | 6min
-		- [ ] 056. Adding a Battle Log | 14min
-		- [ ] 057. Module Resources | 1min
-	- [ ] Section 5: Vue: Behind the Scenes 0/10|48min
-		- [ ] 058. Module Introduction | 2min
-		- [ ] 059. An Introduction to Vue's Reactivity | 4min
-		- [ ] 060. Vue Reactivity: A Deep Dive | 8min
-		- [ ] 061. One App vs Multiple Apps | 4min
-		- [ ] 062. Understanding Templates | 4min
-		- [ ] 063. Working with Refs | 5min
-		- [ ] 064. How Vue Updates the DOM | 6min
-		- [ ] 065. Vue App Lifecycle - Theory | 5min
-		- [ ] 066. Vue App Lifecycle - Practice | 10min
-		- [ ] 067. Module Resources | 1min
+	- [ ] Section 4: Course Project: The Monster Slayer Game 00/09 | 1hr 2min
+		- [ ] 049 04-01 01:18 Module Introduction | 1min
+		- [ ] 050 04-02 12:27 Project Setup & First Methods | 12min
+		- [ ] 051 04-03 07:07 Updating the Health Bars | 7min
+		- [ ] 052 04-04 06:23 Adding a "Special Attack" | 6min
+		- [ ] 053 04-05 04:46 Adding a "Heal" Functionality | 5min
+		- [ ] 054 04-06 09:37 Adding a "Game Over" Screen | 10min
+		- [ ] 055 04-07 06:08 Finishing the Core Functionality | 6min
+		- [ ] 056 04-08 14:11 Adding a Battle Log | 14min
+		- [ ] 057 04-09 00:06 Module Resources | 1min
+	- [ ] Section 5: Vue: Behind the Scenes 00/10 | 48min
+		- [ ] 058 05-01 Module Introduction | 2min
+		- [ ] 059 05-02 An Introduction to Vue's Reactivity | 4min
+		- [ ] 060 05-03 Vue Reactivity: A Deep Dive | 8min
+		- [ ] 061 05-04 One App vs Multiple Apps | 4min
+		- [ ] 062 05-05 Understanding Templates | 4min
+		- [ ] 063 05-06 Working with Refs | 5min
+		- [ ] 064 05-07 How Vue Updates the DOM | 6min
+		- [ ] 065 05-08 Vue App Lifecycle - Theory | 5min
+		- [ ] 066 05-09 Vue App Lifecycle - Practice | 10min
+		- [ ] 067 05-00 Module Resources | 1min
 	- [ ] Section 6: Introducing Components 0/6|23min
 		- [ ] 068. Module Introduction | 2min
 		- [ ] 069. Understanding the Problem | 9min
