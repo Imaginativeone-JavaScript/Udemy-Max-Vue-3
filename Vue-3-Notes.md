@@ -233,7 +233,7 @@
 		- [ ] 144 Using v-model on Custom Components | 7min
 		- [ ] 145 Module Summary | 1min
 		- [ ] 146 Module Resources | 1min
-	## S12: Sending Http Requests 00/15 | 55min
+	## S12: Sending Http Requests
 	- [ ] S12: Sending Http Requests 00/15 | 55min
 		- [ ] 147 Module Introduction | 1min
 		- [ ] 148 Starting App & Why we need a Backend | 5min
@@ -250,8 +250,8 @@
 		- [ ] 159 Handling Error Responses | 7min
 		- [ ] 160 Module Summary | 2min
 		- [ ] 161 Module Resources | 1min
-	## Sec 13: Routing: Bldg "Multi-Pg" Sgl Pg Apps 00/25 | 1hr 58min
-	- [ ] Sec 13: Routing: Bldg "Multi-Pg" Sgl Pg Apps 00/25 | 1hr 58min
+	## Sec 13: Routing: Bldg "Multi-Pg" Sgl Pg Apps
+	- [ ] Sec 13: Routing: Bldg "Multi-Pg" Sgl Pg Apps 25 01:58:00
 		- [ ] 162 Module Introduction | 1min
 		- [ ] 163 What & Why? | 5min
 		- [ ] 164 Routing Setup | 5min
@@ -277,8 +277,8 @@
 		- [ ] 184 Organizing Route Files | 5min
 		- [ ] 185 Summary | 2min
 		- [ ] 186 Module Resources | 1min
-	## S14: Animations & Transitions 00/19 | 1hr 47min
-	- [ ] S14: Animations & Transitions 00/19 | 1hr 47min
+	## S14: Animations & Transitions
+	- [ ] S14: Animations & Transitions 19 01:47:00
 		- [ ] 187 Module Introduction | 1min
 		- [ ] 188 Animation Basics & CSS Transitions | 7min
 		- [ ] 189 Understanding CSS Animations | 4min
