@@ -146,25 +146,25 @@
 		- [ ] 086 07-00 00:13 A Small Addition | 1min ** 
 		- [ ] 087 07-00 00:06 Module Resources | 1min **
 	- [ ] Section 08: Component Communication 00/18 | 1hr 33min
-		- [ ] 088. Module Introduction | 2min
-		- [ ] 089. Intro-ing "Props" (Parent => Child Communication) | 10min
-		- [ ] 090. Prop Behavior & Changing Props | 7min
-		- [ ] 091. Validating Props | 7min
-		- [ ] 092. Supported Prop Values | 1min
-		- [ ] 093. Working with Dynamic Prop Values | 6min
-		- [ ] 094. Emit Custom Evts (Child => Parent Communication) | 11min
-		- [ ] 095. Defining & Validating Custom Events | 4min
-		- [ ] 096. Prop / Event Fallthrough & Binding All Props | 1min
-		- [ ] 097. Demo: Adding Components & Connecting Them | 13min
-		- [ ] 098. Demo: Adding More Component Communication | 6min
-		- [ ] 000. Assignment 06: Time to Practice: Props & Custom Events
-		- [ ] 099. A Potential Problem | 6min
-		- [ ] 100. Provide + Inject To The Rescue | 8min
-		- [ ] 101. Provide + Inject for Functions/Methods | 4min
-		- [ ] 102. Provide + Inject vs Props & Custom Events | 2min
-		- [ ] 103. Module Summary | 5min
-		- [ ] 104. Module Resources | 1min
-	- [ ] Section 09: Diving Deeper Into Components 0/18|1hr 24min
+		- [ ] 088 08-01 01:41 Module Introduction | 2min
+		- [ ] 089 08-02 10:03 Introducing "Props" (Parent => Child Communication) | 10min
+		- [ ] 090 08-03 06:30 Prop Behavior & Changing Props | 7min
+		- [ ] 091 08-04 07:14 Validating Props | 7min
+		- [ ] 092 08-05 Supported Prop Values | 1min
+		- [ ] 093 08-06 Working with Dynamic Prop Values | 6min
+		- [ ] 094 08-07 Emit Custom Events (Child => Parent Communication) | 11min
+		- [ ] 095 08-08 Defining & Validating Custom Events | 4min
+		- [ ] 096 08-09 Prop / Event Fallthrough & Binding All Props | 1min
+		- [ ] 097 08-10 Demo: Adding Components & Connecting Them | 13min
+		- [ ] 098 08-09 Demo: Adding More Component Communication | 6min
+		- [ ] 000 08-00 Assignment 06: Time to Practice: Props & Custom Events
+		- [ ] 099 08-10 A Potential Problem | 6min
+		- [ ] 100 08-11 Provide + Inject To The Rescue | 8min
+		- [ ] 101 08-12 Provide + Inject for Functions/Methods | 4min
+		- [ ] 102 08-13 Provide + Inject vs Props & Custom Events | 2min
+		- [ ] 103 08-14 Module Summary | 5min
+		- [ ] 104 08-15 Module Resources | 1min
+	- [ ] Section 09: Diving Deeper Into Components 0/18 | 1hr 24min
 		- [ ] 105. Module Introduction | 2min
 		- [ ] 106. Project Setup | 3min
 		- [ ] 107. Global vs Local Components | 9min
@@ -209,7 +209,7 @@
 		- [ ] 144. Using v-model on Custom Components | 7min
 		- [ ] 145. Module Summary | 1min
 		- [ ] 146. Module Resources | 1min
-	- [ ] Section 12: Sending Http Requests 0/15 | 55min
+	- [ ] Section 12: Sending Http Requests 00/15 | 55min
 		- [ ] 147. Module Introduction | 1min
 		- [ ] 148. Starting App & Why we need a Backend | 5min
 		- [ ] 149. Adding a Backend | 3min
@@ -251,7 +251,7 @@
 		- [ ] 184. Organizing Route Files | 5min
 		- [ ] 185. Summary | 2min
 		- [ ] 186. Module Resources | 1min
-	- [ ] Section 14: Animations & Transitions 0/19 | 1hr 47min
+	- [ ] Section 14: Animations & Transitions 00/19 | 1hr 47min
 		- [ ] 187. Module Introduction | 1min
 		- [ ] 188. Animation Basics & CSS Transitions | 7min
 		- [ ] 189. Understanding CSS Animations | 4min
@@ -271,7 +271,7 @@
 		- [ ] 203. Animating Route Changes | 12min
 		- [ ] 204. An Important Note on Animated Route Changes | 1min
 		- [ ] 205. Module Resources | 1min
-	- [ ] Section 15: Vuex 0 / 21 | 1hr 50min
+	- [ ] Section 15: Vuex 00/21 | 1hr 50min
 		- [ ] 206. Module Introduction | 1min
 		- [ ] 207. What & Why? | 7min
 		- [ ] 208. Creating & Using a Store | 5min
@@ -293,7 +293,7 @@
 		- [ ] 224. Challenge Solution (3/3) | 3min
 		- [ ] 225. Summary | 1min
 		- [ ] 226. Module Resources | 1min
-	- [ ] Section 16: Main Project: "Find a Coach" Web App 0/29 | 3hr 58min
+	- [ ] Section 16: Main Project: "Find a Coach" Web App 00/29 | 3hr 58min
 		- [ ] 227. Module Introduction | 3min
 		- [ ] 228. Planning the Project / Web App | 4min
 		- [ ] 229. Planning the Data Requirements | 5min
@@ -323,7 +323,7 @@
 		- [ ] 253. Adding Route Transitions | 10min
 		- [ ] 254. The "Not Found" Page & Summary | 2min
 		- [ ] 255. Module Resources | 1min
-	- [ ] Section 17: Vue & Authentication 0/16|1hr 33min
+	- [ ] Section 17: Vue & Authentication 00/16 | 1hr 33min
 		- [ ] 256. Module Introduction | 1min
 		- [ ] 257. How Authentication Works in Vue Apps (or any SPA) | 6min
 		- [ ] 258. Locking / Protecting Backend Resources | 6min
@@ -346,7 +346,7 @@
 		- [ ] 275. Building the Project For Production | 4min
 		- [ ] 276. Deploying a Vue App | 9min
 		- [ ] 277. Module Resources | 1min
-	- [ ] Section 18: Optimizing & Deploying Vue Apps 0/6 | 29min
+	- [ ] Section 18: Optimizing & Deploying Vue Apps 00/06 | 29min
 		- [ ] 272. Module Introduction | 1min
 		- [ ] 273. What To Deploy? | 3min
 		- [ ] 274. Optimization: Using Asynchronous Components | 12min
@@ -381,7 +381,7 @@
 		- [ ] 300. Summary | 3min
 		- [ ] 301. Module Resources | 1min
 	## Section 20: Reusing Functionality: Mixins & Custom Composition Fns | 00/14 | 1hr 3min
-	- [ ] Section 20: Reusing Functionality: Mixins & Custom Composition Functions | 0/14 | 1hr 3min
+	- [ ] Section 20: Reusing Functionality: Mixins & Custom Composition Functions | 00/14 | 1hr 3min
 		- [ ] 302. Module Introduction | 1min
 		- [ ] 303. Reusability Concepts | 5min
 		- [ ] 304. Using Mixins | 5min
