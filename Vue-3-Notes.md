@@ -105,7 +105,7 @@
 		- [ ] 036 Module Summary | 4min
 		- [ ] 037 Module Resources | 1min
 	## S03: Rendering Conditional Content & Lists
-	- [ ] S03: Rendering Conditional Content & Lists 00/12 | 43min
+	- [ ] S03: Rendering Conditional Content & Lists 12 00:43:00
 		- [ ] 038 03-01 01:35 Module Introduction | 2min
 		- [ ] 039 03-02 03:16 Understanding the Problem | 3min
 		- [ ] 040 03-03 05:09 Rendering Content Conditionally | 5min
@@ -115,7 +115,7 @@
 		- [ ] 044 03-07 05:12 Diving Deeper Into v-for | 5min
 		- [ ] 045 03-08 03:59 Removing List Items | 4min
 		- [ ] 046 03-09 08:26 Lists & Keys | 8min
-		- [ ] 000 03-00 00:00 Assignment 5: Time to Practice: Conditional Content & Lists
+		- [ ] 000 03-00 00:00 Assgnmt 5: Practice: Condl Content & Lists
 		- [ ] 047 03-11 02:15 Module Summary | 2min
 		- [ ] 048 03-00 00:06 Module Resources | 1min
 	## S04: Course Project: The Monster Slayer Game
