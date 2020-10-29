@@ -113,38 +113,38 @@
 		- [ ] 056 04-08 14:11 Adding a Battle Log | 14min
 		- [ ] 057 04-09 00:06 Module Resources | 1min
 	- [ ] Section 5: Vue: Behind the Scenes 00/10 | 48min
-		- [ ] 058 05-01 Module Introduction | 2min
-		- [ ] 059 05-02 An Introduction to Vue's Reactivity | 4min
-		- [ ] 060 05-03 Vue Reactivity: A Deep Dive | 8min
-		- [ ] 061 05-04 One App vs Multiple Apps | 4min
-		- [ ] 062 05-05 Understanding Templates | 4min
-		- [ ] 063 05-06 Working with Refs | 5min
-		- [ ] 064 05-07 How Vue Updates the DOM | 6min
-		- [ ] 065 05-08 Vue App Lifecycle - Theory | 5min
-		- [ ] 066 05-09 Vue App Lifecycle - Practice | 10min
-		- [ ] 067 05-00 Module Resources | 1min
-	- [ ] Section 6: Introducing Components 0/6|23min
-		- [ ] 068. Module Introduction | 2min
-		- [ ] 069. Understanding the Problem | 9min
-		- [ ] 070. Introducing Components | 11min
-		- [ ] 071. The Why: Building Complex User Interfaces With Components | 1min
-		- [ ] 072. Multiple Vue Apps vs Multiple Components | 1min
-		- [ ] 073. Module Resources | 1min
+		- [ ] 058 05-01 01:31 Module Introduction | 2min
+		- [ ] 059 05-02 04:26 An Introduction to Vue's Reactivity | 4min
+		- [ ] 060 05-03 08:10 Vue Reactivity: A Deep Dive | 8min
+		- [ ] 061 05-04 03:53 One App vs Multiple Apps | 4min
+		- [ ] 062 05-05 03:56 Understanding Templates | 4min
+		- [ ] 063 05-06 05:21 Working with Refs | 5min
+		- [ ] 064 05-07 06:26 How Vue Updates the DOM | 6min
+		- [ ] 065 05-08 04:46 Vue App Lifecycle - Theory | 5min
+		- [ ] 066 05-09 09:48 Vue App Lifecycle - Practice | 10min
+		- [ ] 067 05-00 00:06 Module Resources | 1min
+	- [ ] Section 6: Introducing Components 00/06 | 23min
+		- [ ] 068 06-01 01:30 Module Introduction | 2min
+		- [ ] 069 06-02 08:39 Understanding the Problem | 9min
+		- [ ] 070 06-03 10:54 Introducing Components | 11min
+		- [ ] 071 06-04 01:00 The Why: Building Complex User Interfaces With Components | 1min
+		- [ ] 072 06-00 00:57 Multiple Vue Apps vs Multiple Components | 1min
+		- [ ] 073 06-00 00:06 Module Resources | 1min
 	- [ ] Sec 07: Moving to Better Dev Setup & Wkflow w Vue CLI 00/14 | 1hr
-		- [ ] 074. Module Introduction | 2min
-		- [ ] 075. Why We Need A Development Server | 3min
-		- [ ] 076. Why We Want A Better Developer Experience | 6min
-		- [ ] 077. Installing & Using the Vue CLI | 8min
-		- [ ] 078. Inspecting the Created Project | 6min
-		- [ ] 079. Inspecting the Vue Code & ".vue" Files | 6min
-		- [ ] 080. Adding the "Vetur" Extension to VS Code | 1min
-		- [ ] 081. More on ".vue" Files | 2min
-		- [ ] 082. A New Vue Project | 5min
-		- [ ] 083. Creating a Basic Vue App | 10min
-		- [ ] 084. Adding a Component | 8min
-		- [ ] 085. Adding Styling | 2min
-		- [ ] 086. A Small Addition | 1min
-		- [ ] 087. Module Resources | 1min
+		- [ ] 074 07-01 01:35 Module Introduction | 2min
+		- [ ] 075 07-02 03:29 Why We Need A Development Server | 3min
+		- [ ] 076 07-03 05:50 Why We Want A Better Developer Experience | 6min
+		- [ ] 077 07-04 08:26 Installing & Using the Vue CLI | 8min
+		- [ ] 078 07-05 05:59 Inspecting the Created Project | 6min
+		- [ ] 079 07-06 06:04 Inspecting the Vue Code & ".vue" Files | 6min
+		- [ ] 080 07-07 01:15 Adding the "Vetur" Extension to VS Code | 1min
+		- [ ] 081 07-08 01:40 More on ".vue" Files | 2min
+		- [ ] 082 07-09 05:05 A New Vue Project | 5min
+		- [ ] 083 07-10 09:32 Creating a Basic Vue App | 10min
+		- [ ] 084 07-11 08:14 Adding a Component | 8min
+		- [ ] 085 07-12 02:16 Adding Styling | 2min
+		- [ ] 086 07-00 00:13 A Small Addition | 1min ** 
+		- [ ] 087 07-00 00:06 Module Resources | 1min **
 	- [ ] Section 08: Component Communication 00/18 | 1hr 33min
 		- [ ] 088. Module Introduction | 2min
 		- [ ] 089. Intro-ing "Props" (Parent => Child Communication) | 10min
