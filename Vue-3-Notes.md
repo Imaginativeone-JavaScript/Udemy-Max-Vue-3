@@ -2,11 +2,11 @@
 - [ ] Vue - The Complete Guide (with Router, Vuex, Composition API)
 	## Section 01 01/44: Getting Started 11 Videos | 43min
 	- [ ] Section 01: Getting Started 0/11 | 43min 10/10/20
-		- [x] 001. 01-01 Welcome to the Course! | 2min
+		- [x] 001 01-01 Welcome to the Course! | 2min
 		  - From Novice to Expert
 			- Why do we need Vue?
 			- Next: What, exactly, is VueJS?
-		- [x] 002. 01-02 What is "Vue.js"? | 8min (07:51)
+		- [x] 002 01-02 What is "Vue.js"? | 8min (07:51)
 			- VueJS (Vue) is a JavaScript framework that makes building interactive & reactive web frontends 
 				(browser-side web applications) easier.
 			- Framework is a library that (also) gives you a set of rules
@@ -15,70 +15,70 @@
 			- Reactivity
 			- The only thing that might be loaded behind the scenes is DATA.
 			- Vanilla JavaScript is much less fun
-		- [x] 003. 01-03 Different Ways of Using Vue | 3min (2:35)
+		- [x] 003 01-03 Different Ways of Using Vue | 3min (2:35)
 		  - Some parts of an HTML page are controlled by Vue 00:34
 			- The entire HTML page is controlled by Vue 01:21
 			  - Single Page Application (SPA)
-		- [x] 004. 01-04 Exploring Vue Alternatives | 3min (03:11)
+		- [x] 004 01-04 Exploring Vue Alternatives | 3min (03:11)
 			- [00:30] A bit less popular than React and Angular
 			- Test
-		- [x] 005. 01-05 Building A First App With Just JavaScript | 7min (07:26)
+		- [x] 005 01-05 Building A First App With Just JavaScript | 7min (07:26)
 			- See Vanilla JavaScript demo app
-		- [x] 006. 01-06 Re-building the App with Vue | 11min (10:51)
+		- [x] 006 01-06 Re-building the App with Vue | 11min (10:51)
 			- See Vue demo app
-		- [x] 007. Vue vs "Vanilla JavaScript" (just JavaScript) | 1min (01:10)
+		- [x] 007 Vue vs "Vanilla JavaScript" (just JavaScript) | 1min (01:10)
 			- Comparison
-		- [x] 008. Setting Up the Course Development Environment | 2min (02:04)
+		- [x] 008 Setting Up the Course Development Environment | 2min (02:04)
 			- VSC
 			- Dark Plus Color Theme
 			- Preferences > Keyboard Shortcuts > Format Document > Shift + Alt + F
 			- "Prettier" Extension
-		- [x] 009. Course Outline & What's In The Course | 3min (02:58)
+		- [x] 009 Course Outline & What's In The Course | 3min (02:58)
 			- No prior Vue knowledge is required
 				- Basics: Core Syntax, Templates, Directives, Data, Methods, Computed Properties, Watchers
 				- Intermediate Concepts: Components, Component Communication, Behind the Scenes, Forms, HTTP, Routing, Animations
 				- Vuex (State Management), Authentication, Deployment & Optimizations, **Composition API**, Re-using Code
-		- [x] 010. How To Get The Most Out Of This Course | 3min (03:23)
+		- [x] 010 How To Get The Most Out Of This Course | 3min (03:23)
 			- Watch the Videos
 			- Code Along
 			- Repeat Concepts
 			- Google, Stackoverflow
 			- Ask and Answer in the Q&A Section
 			- Errors in my code - Compare to Max's
-		- [x] 011. Module Resources | 1min (00:08)
+		- [x] 011 Module Resources | 1min (00:08)
 	## Section 02: Basics & Core Concepts - DOM Interaction with Vue 0/30 | 2hr 9min
 	- [x] Section 02: Basics & Core Concepts - DOM Interaction with Vue 0/30 | 2hr 9min
-		- [x] 012. 02-01 Module Introduction | 1min
-		- [x] 013. 02-02 Creating and Connecting Vue App Instances | 9min
-		- [x] 014. 02-03 Interpolation and Data Binding | 4min
-		- [x] 015. 02-04 Binding Attributes with the "v-bind" Directive | 6min
-		- [x] 016. 02-05 Understanding "methods" in Vue Apps | 6min
-		- [x] 017. 02-06 Working with Data inside of a Vue App | 3min
-		- [x] 018. Outputting Raw HTML Content with v-html | 4min
-		- [x] 019. A First Summary | 4min
-		- [x] 000. Assignment 1: Time to Practice: Data Binding
-		- [x] 020. Understanding Event Binding | 7min
+		- [x] 012 02-01 Module Introduction | 1min
+		- [x] 013 02-02 Creating and Connecting Vue App Instances | 9min
+		- [x] 014 02-03 Interpolation and Data Binding | 4min
+		- [x] 015 02-04 Binding Attributes with the "v-bind" Directive | 6min
+		- [x] 016 02-05 Understanding "methods" in Vue Apps | 6min
+		- [x] 017 02-06 Working with Data inside of a Vue App | 3min
+		- [x] 018 Outputting Raw HTML Content with v-html | 4min
+		- [x] 019 A First Summary | 4min
+		- [x] 000 Assignment 1: Time to Practice: Data Binding
+		- [x] 020 Understanding Event Binding | 7min
 		  - 02:30 Vue gives us an easy way to add Event Listeners to HTML
 			  Elements - "v-on"
 		```html
 		<button v-on:click="counter++">Add</button>
 		```
-		- [x] 021. Events & Methods | 6min
-		- [x] 022. Working with Event Arguments | 3min
-		- [x] 023. Using the Native Event Object | 9min
-		- [x] 024. Exploring Event Modifiers | 10min
-		- [x] 025. Locking Content with v-once | 2min
-		- [x] 000. Assignment 2: Time to Practice: Event Binding
-		- [x] 026. Data Binding + Event Binding = Two-Way Binding | 7min
-		- [x] 027. 02-18 Methods used for Data Binding: How It Works | 7min
+		- [x] 021 Events & Methods | 6min
+		- [x] 022 Working with Event Arguments | 3min
+		- [x] 023 Using the Native Event Object | 9min
+		- [x] 024 Exploring Event Modifiers | 10min
+		- [x] 025 Locking Content with v-once | 2min
+		- [x] 000 Assignment 2: Time to Practice: Event Binding
+		- [x] 026 Data Binding + Event Binding = Two-Way Binding | 7min
+		- [x] 027 02-18 Methods used for Data Binding: How It Works | 7min
 		  - Advanced Reactivity
-		- [x] 028. Introducing Computed Properties | 6min
+		- [x] 028 Introducing Computed Properties | 6min
 		  - With Computed Properties, Vue is aware of their dependencies and
 			  change ONLY when the dependencies change
-		- [x] 029. Working with Watchers | 11min
+		- [x] 029 Working with Watchers | 11min
 		  - Why do we have watchers, if we can use them but they're worse?
 			- Property Conditionals
-		- [x] 030. Methods vs Computed Properties vs Watchers | 2min
+		- [x] 030 Methods vs Computed Properties vs Watchers | 2min
 		  - Methods
 			  - Event binding
 				- Data binding
@@ -93,17 +93,17 @@
 				- Allows you to run any code in reaction to some changed data
 				  - HTTP Requests, etc
 				- Use for any NON DATA update you want to make
-		- [ ] 031. v-bind and v-on Shorthands | 2min | Current Work
+		- [ ] 031 v-bind and v-on Shorthands | 2min | Current Work
 		  - v-on   >> @
 			- v-bind >> :
-		- [ ] 000. Assignment 03: Time to Practice: Reactivity
-		- [ ] 032. Dynamic Styling with Inline Styles | 7min
-		- [ ] 033. Adding CSS Classes Dynamically | 7min
-		- [ ] 034. Classes & Computed Properties | 2min
-		- [ ] 035. Dynamic Classes: Array Syntax | 1min
-		- [ ] 000. Assignment 04: Time to Practice: Dynamic Styling
-		- [ ] 036. Module Summary | 4min
-		- [ ] 037. Module Resources | 1min
+		- [ ] 000 Assignment 03: Time to Practice: Reactivity
+		- [ ] 032 Dynamic Styling with Inline Styles | 7min
+		- [ ] 033 Adding CSS Classes Dynamically | 7min
+		- [ ] 034 Classes & Computed Properties | 2min
+		- [ ] 035 Dynamic Classes: Array Syntax | 1min
+		- [ ] 000 Assignment 04: Time to Practice: Dynamic Styling
+		- [ ] 036 Module Summary | 4min
+		- [ ] 037 Module Resources | 1min
 	## Section 03: Rendering Conditional Content & Lists 00/12 | 43min
 	- [ ] Section 03: Rendering Conditional Content & Lists 00/12 | 43min
 		- [ ] 038 03-01 01:35 Module Introduction | 2min
@@ -207,622 +207,636 @@
 		- [ ] 122 09-00 00:06 Module Resources | 1min
 	## Section 10: Course Prj: The Learning Rsrces App 00/14 | 1hr 24min
 	- [ ] Section 10: Course Prj: The Learning Rsrces App 00/14 | 1hr 24min
-		- [ ] 123. Module Introduction | 2min
-		- [ ] 124. Setup & First Steps | 5min
-		- [ ] 125. First Components & Props | 11min
-		- [ ] 126. Styling and More Components | 7min
-		- [ ] 127. Header & BaseCard Components | 7min
-		- [ ] 128. Adding a Base Button | 5min
-		- [ ] 129. Dynamic Components & Attribute Fallthrough | 9min
-		- [ ] 130. Adding & Styling Tabs | 5min
-		- [ ] 131. Adding a Form | 4min
-		- [ ] 132. Fetching User Input | 8min
-		- [ ] 133. Adding a Modal Dialog | 12min
-		- [ ] 134. Deleting Items | 7min
-		- [ ] 135. Adding "Teleport" | 1min
-		- [ ] 136. Module Resources | 1min
-	- [ ] Section 11: Forms 0/10 | 43min
-		- [ ] 137. Module Introduction | 1min
-		- [ ] 138. v-model & Inputs | 6min
-		- [ ] 139. Working with v-model Modifiers and Numbers | 7min
-		- [ ] 140. v-model and Dropdowns | 2min
-		- [ ] 141. Using v-model with Checkboxes & Radiobuttons | 7min
-		- [ ] 142. Adding Basic Form Validation | 5min
-		- [ ] 143. Building a Custom Control Component | 6min
-		- [ ] 144. Using v-model on Custom Components | 7min
-		- [ ] 145. Module Summary | 1min
-		- [ ] 146. Module Resources | 1min
+		- [ ] 123 10-01 01:37 Module Introduction | 2min
+		- [ ] 124 10-02 05:24 Setup & First Steps | 5min
+		- [ ] 125 10-03 10:46 First Components & Props | 11min
+		- [ ] 126 10-04 07:19 Styling and More Components | 7min
+		- [ ] 127 10-05 07:00 Header & BaseCard Components | 7min
+		- [ ] 128 10-06 05:19 Adding a Base Button | 5min
+		- [ ] 129 10-07 08:37 Dynamic Components & Attribute Fallthrough | 9min
+		- [ ] 130 10-08 04:58 Adding & Styling Tabs | 5min
+		- [ ] 131 10-09 04:12 Adding a Form | 4min
+		- [ ] 132 10-10 08:27 Fetching User Input | 8min
+		- [ ] 133 10-11 12:19 Adding a Modal Dialog | 12min
+		- [ ] 134 10-12 06:42 Deleting Items | 7min
+		- [ ] 135 10-13 01:42 Adding "Teleport" | 1min
+		- [ ] 136 10-00 00:06 Module Resources | 1min
+	## Section 11: Forms 00/10 | 43min
+	- [ ] Section 11: Forms 00/10 | 43min
+		- [ ] 137 Module Introduction | 1min
+		- [ ] 138 v-model & Inputs | 6min
+		- [ ] 139 Working with v-model Modifiers and Numbers | 7min
+		- [ ] 140 v-model and Dropdowns | 2min
+		- [ ] 141 Using v-model with Checkboxes & Radiobuttons | 7min
+		- [ ] 142 Adding Basic Form Validation | 5min
+		- [ ] 143 Building a Custom Control Component | 6min
+		- [ ] 144 Using v-model on Custom Components | 7min
+		- [ ] 145 Module Summary | 1min
+		- [ ] 146 Module Resources | 1min
+	## Section 12: Sending Http Requests 00/15 | 55min
 	- [ ] Section 12: Sending Http Requests 00/15 | 55min
-		- [ ] 147. Module Introduction | 1min
-		- [ ] 148. Starting App & Why we need a Backend | 5min
-		- [ ] 149. Adding a Backend | 3min
-		- [ ] 150. How To (Not) Send Http Requests | 5min
-		- [ ] 151. Sending a POST Request to Store Data | 6min
-		- [ ] 152. Http Requests & Http Methods (Verbs) | 1min
-		- [ ] 153. Using Axios Instead Of "fetch()" | 1min
-		- [ ] 154. Getting Data (GET Req) & Transforming Rspnse Data | 10min
-		- [ ] 155. Loading Data When a Component Mounts | 2min
-		- [ ] 156. Showing a "Loading..." Message | 3min
-		- [ ] 157. Handling the "No Data" State | 3min
-		- [ ] 158. Handling Technical / Browser-side Errors | 7min
-		- [ ] 159. Handling Error Responses | 7min
-		- [ ] 160. Module Summary | 2min
-		- [ ] 161. Module Resources | 1min
+		- [ ] 147 Module Introduction | 1min
+		- [ ] 148 Starting App & Why we need a Backend | 5min
+		- [ ] 149 Adding a Backend | 3min
+		- [ ] 150 How To (Not) Send Http Requests | 5min
+		- [ ] 151 Sending a POST Request to Store Data | 6min
+		- [ ] 152 Http Requests & Http Methods (Verbs) | 1min
+		- [ ] 153 Using Axios Instead Of "fetch()" | 1min
+		- [ ] 154 Getting Data (GET Req) & Transforming Rspnse Data | 10min
+		- [ ] 155 Loading Data When a Component Mounts | 2min
+		- [ ] 156 Showing a "Loading..." Message | 3min
+		- [ ] 157 Handling the "No Data" State | 3min
+		- [ ] 158 Handling Technical / Browser-side Errors | 7min
+		- [ ] 159 Handling Error Responses | 7min
+		- [ ] 160 Module Summary | 2min
+		- [ ] 161 Module Resources | 1min
+	## Sec 13: Routing: Bldg "Multi-Pg" Sgl Pg Apps 00/25 | 1hr 58min
 	- [ ] Sec 13: Routing: Bldg "Multi-Pg" Sgl Pg Apps 00/25 | 1hr 58min
-		- [ ] 162. Module Introduction | 1min
-		- [ ] 163. What & Why? | 5min
-		- [ ] 164. Routing Setup | 5min
-		- [ ] 165. Registering & Rendering Routes | 6min
-		- [ ] 166. Navigating with router-link | 5min
-		- [ ] 167. Styling Active Links | 3min
-		- [ ] 168. Programmatic Navigation | 4min
-		- [ ] 169. Passing Data with Route Params (Dynamic Segments) | 11min
-		- [ ] 170. Navigation & Dynamic Paths | 3min
-		- [ ] 171. Updating Params Data with Watchers | 6min
-		- [ ] 172. Passing Params as Props | 4min
-		- [ ] 173. Redirecting & "Catch All" Routes | 8min
-		- [ ] 174. Using Nested Routes | 6min
-		- [ ] 175. More Fun with Named Routes & Location Objects | 5min
-		- [ ] 176. Using Query Params | 4min
-		- [ ] 177. Rendering Multiple Routes with Named Router Views | 6min
-		- [ ] 178. Controlling Scroll Behavior | 6min
-		- [ ] 179. Introducing Navigation Guards | 8min
-		- [ ] 180. Diving Deeper Into Navigation Guards | 7min
-		- [ ] 181. The Global "afterEach" Guard | 1min
-		- [ ] 182. Beyond Entering: Route Leave Guards | 7min
-		- [ ] 183. Utilizing Route Metadata | 2min
-		- [ ] 184. Organizing Route Files | 5min
-		- [ ] 185. Summary | 2min
-		- [ ] 186. Module Resources | 1min
+		- [ ] 162 Module Introduction | 1min
+		- [ ] 163 What & Why? | 5min
+		- [ ] 164 Routing Setup | 5min
+		- [ ] 165 Registering & Rendering Routes | 6min
+		- [ ] 166 Navigating with router-link | 5min
+		- [ ] 167 Styling Active Links | 3min
+		- [ ] 168 Programmatic Navigation | 4min
+		- [ ] 169 Passing Data with Route Params (Dynamic Segments) | 11min
+		- [ ] 170 Navigation & Dynamic Paths | 3min
+		- [ ] 171 Updating Params Data with Watchers | 6min
+		- [ ] 172 Passing Params as Props | 4min
+		- [ ] 173 Redirecting & "Catch All" Routes | 8min
+		- [ ] 174 Using Nested Routes | 6min
+		- [ ] 175 More Fun with Named Routes & Location Objects | 5min
+		- [ ] 176 Using Query Params | 4min
+		- [ ] 177 Rendering Multiple Routes with Named Router Views | 6min
+		- [ ] 178 Controlling Scroll Behavior | 6min
+		- [ ] 179 Introducing Navigation Guards | 8min
+		- [ ] 180 Diving Deeper Into Navigation Guards | 7min
+		- [ ] 181 The Global "afterEach" Guard | 1min
+		- [ ] 182 Beyond Entering: Route Leave Guards | 7min
+		- [ ] 183 Utilizing Route Metadata | 2min
+		- [ ] 184 Organizing Route Files | 5min
+		- [ ] 185 Summary | 2min
+		- [ ] 186 Module Resources | 1min
+	## Section 14: Animations & Transitions 00/19 | 1hr 47min
 	- [ ] Section 14: Animations & Transitions 00/19 | 1hr 47min
-		- [ ] 187. Module Introduction | 1min
-		- [ ] 188. Animation Basics & CSS Transitions | 7min
-		- [ ] 189. Understanding CSS Animations | 4min
-		- [ ] 190. Why Is "Just CSS" Not Enough? | 4min
-		- [ ] 191. Playing CSS Animations with Vue's Help | 5min
-		- [ ] 192. Using the Transition Component | 5min
-		- [ ] 193. CSS Animations with the Transition Component | 2min
-		- [ ] 194. Using Custom CSS Class Names | 4min
-		- [ ] 195. Example: Animating a Modal | 9min
-		- [ ] 196. Transitioning Between Multiple Elements | 9min
-		- [ ] 197. Using Transition Events | 9min
-		- [ ] 198. Building JavaScript Transitions (instead of CSS) | 15min
-		- [ ] 199. Disabling CSS Transitions | 3min
-		- [ ] 200. Getting Started with Animated Lists | 7min
-		- [ ] 201. Animating Lists with "transition-group" | 5min
-		- [ ] 202. Animate List Item Movement | 4min
-		- [ ] 203. Animating Route Changes | 12min
-		- [ ] 204. An Important Note on Animated Route Changes | 1min
-		- [ ] 205. Module Resources | 1min
+		- [ ] 187 Module Introduction | 1min
+		- [ ] 188 Animation Basics & CSS Transitions | 7min
+		- [ ] 189 Understanding CSS Animations | 4min
+		- [ ] 190 Why Is "Just CSS" Not Enough? | 4min
+		- [ ] 191 Playing CSS Animations with Vue's Help | 5min
+		- [ ] 192 Using the Transition Component | 5min
+		- [ ] 193 CSS Animations with the Transition Component | 2min
+		- [ ] 194 Using Custom CSS Class Names | 4min
+		- [ ] 195 Example: Animating a Modal | 9min
+		- [ ] 196 Transitioning Between Multiple Elements | 9min
+		- [ ] 197 Using Transition Events | 9min
+		- [ ] 198 Building JavaScript Transitions (instead of CSS) | 15min
+		- [ ] 199 Disabling CSS Transitions | 3min
+		- [ ] 200 Getting Started with Animated Lists | 7min
+		- [ ] 201 Animating Lists with "transition-group" | 5min
+		- [ ] 202 Animate List Item Movement | 4min
+		- [ ] 203 Animating Route Changes | 12min
+		- [ ] 204 An Important Note on Animated Route Changes | 1min
+		- [ ] 205 Module Resources | 1min
+	## Section 15: Vuex 00/21 | 1hr 50min
 	- [ ] Section 15: Vuex 00/21 | 1hr 50min
-		- [ ] 206. Module Introduction | 1min
-		- [ ] 207. What & Why? | 7min
-		- [ ] 208. Creating & Using a Store | 5min
-		- [ ] 209. Connecting Components to State | 3min
-		- [ ] 210. Intro-ing Mutations - A Better Way of Changing Data | 7min
-		- [ ] 211. Passing Data to Mutations with Payloads | 4min
-		- [ ] 212. Introducing Getters - A Better Way Of Getting Data | 8min
-		- [ ] 213. Running Async Code with Actions | 8min
-		- [ ] 214. Understanding the Action "Context" | 2min
-		- [ ] 215. Using Mapper Helpers | 6min
-		- [ ] 216. Example: Adding More State | 8min
-		- [ ] 217. Organizing your Store with Modules | 4min
-		- [ ] 218. Understanding Local Module State | 4min
-		- [ ] 219. Namespacing Modules | 5min
-		- [ ] 220. Structuring Vuex Code & Files | 9min
-		- [ ] 221. A Challenge! | 2min
-		- [ ] 222. Challenge Solution (1/3) | 12min
-		- [ ] 223. Challenge Solution (2/3) | 11min
-		- [ ] 224. Challenge Solution (3/3) | 3min
-		- [ ] 225. Summary | 1min
-		- [ ] 226. Module Resources | 1min
+		- [ ] 206 Module Introduction | 1min
+		- [ ] 207 What & Why? | 7min
+		- [ ] 208 Creating & Using a Store | 5min
+		- [ ] 209 Connecting Components to State | 3min
+		- [ ] 210 Intro-ing Mutations - A Better Way of Changing Data | 7min
+		- [ ] 211 Passing Data to Mutations with Payloads | 4min
+		- [ ] 212 Introducing Getters - A Better Way Of Getting Data | 8min
+		- [ ] 213 Running Async Code with Actions | 8min
+		- [ ] 214 Understanding the Action "Context" | 2min
+		- [ ] 215 Using Mapper Helpers | 6min
+		- [ ] 216 Example: Adding More State | 8min
+		- [ ] 217 Organizing your Store with Modules | 4min
+		- [ ] 218 Understanding Local Module State | 4min
+		- [ ] 219 Namespacing Modules | 5min
+		- [ ] 220 Structuring Vuex Code & Files | 9min
+		- [ ] 221 A Challenge! | 2min
+		- [ ] 222 Challenge Solution (1/3) | 12min
+		- [ ] 223 Challenge Solution (2/3) | 11min
+		- [ ] 224 Challenge Solution (3/3) | 3min
+		- [ ] 225 Summary | 1min
+		- [ ] 226 Module Resources | 1min
+	## Section 16: Main Project: "Find a Coach" Web App 00/29 | 3hr 58min
 	- [ ] Section 16: Main Project: "Find a Coach" Web App 00/29 | 3hr 58min
-		- [ ] 227. Module Introduction | 3min
-		- [ ] 228. Planning the Project / Web App | 4min
-		- [ ] 229. Planning the Data Requirements | 5min
-		- [ ] 230. Planning the Layout / Components | 5min
-		- [ ] 231. Registering Routes | 6min
-		- [ ] 232. Adding Route Page Components | 5min
-		- [ ] 233. Working on the Main Layout & Styling | 8min
-		- [ ] 234. Wiring Up Pages | 5min
-		- [ ] 235. Adding Vuex and Coach Data | 12min
-		- [ ] 236. Working on the Coaches List and List Items | 11min
-		- [ ] 237. Adding a Couple of Base Components (Base Card, Base Button, Base Badge) | 13min
-		- [ ] 238. Building the Coach Detail Component | 8min
-		- [ ] 239. Filtering Coaches | 11min
-		- [ ] 240. Registering as a Coach: The Form | 10min
-		- [ ] 241. Adding Coaches to Vuex | 14min
-		- [ ] 242. Adding Form Validation | 13min
-		- [ ] 243. Working on the Contact Form | 8min
-		- [ ] 244. Storing Requests (Messages) With Vuex | 9min
-		- [ ] 245. Outputting Incoming Requests (Messages) | 10min
-		- [ ] 246. Filtering Requests for the Active Coach | 5min
-		- [ ] 247. Sending a PUT Http Request to Store Coach Data | 11min
-		- [ ] 248. Fetching Coach Data (GET HTTP Request) | 8min
-		- [ ] 249. Rendering a Loading Spinner | 7min
-		- [ ] 250. Adding Http Error Handling | 9min
-		- [ ] 251. Sending Coaching Requests Http Requests | 16min
-		- [ ] 252. Caching Http Response Data | 8min
-		- [ ] 253. Adding Route Transitions | 10min
-		- [ ] 254. The "Not Found" Page & Summary | 2min
-		- [ ] 255. Module Resources | 1min
+		- [ ] 227 Module Introduction | 3min
+		- [ ] 228 Planning the Project / Web App | 4min
+		- [ ] 229 Planning the Data Requirements | 5min
+		- [ ] 230 Planning the Layout / Components | 5min
+		- [ ] 231 Registering Routes | 6min
+		- [ ] 232 Adding Route Page Components | 5min
+		- [ ] 233 Working on the Main Layout & Styling | 8min
+		- [ ] 234 Wiring Up Pages | 5min
+		- [ ] 235 Adding Vuex and Coach Data | 12min
+		- [ ] 236 Working on the Coaches List and List Items | 11min
+		- [ ] 237 Adding a Couple of Base Components (Base Card, Base Button, Base Badge) | 13min
+		- [ ] 238 Building the Coach Detail Component | 8min
+		- [ ] 239 Filtering Coaches | 11min
+		- [ ] 240 Registering as a Coach: The Form | 10min
+		- [ ] 241 Adding Coaches to Vuex | 14min
+		- [ ] 242 Adding Form Validation | 13min
+		- [ ] 243 Working on the Contact Form | 8min
+		- [ ] 244 Storing Requests (Messages) With Vuex | 9min
+		- [ ] 245 Outputting Incoming Requests (Messages) | 10min
+		- [ ] 246 Filtering Requests for the Active Coach | 5min
+		- [ ] 247 Sending a PUT Http Request to Store Coach Data | 11min
+		- [ ] 248 Fetching Coach Data (GET HTTP Request) | 8min
+		- [ ] 249 Rendering a Loading Spinner | 7min
+		- [ ] 250 Adding Http Error Handling | 9min
+		- [ ] 251 Sending Coaching Requests Http Requests | 16min
+		- [ ] 252 Caching Http Response Data | 8min
+		- [ ] 253 Adding Route Transitions | 10min
+		- [ ] 254 The "Not Found" Page & Summary | 2min
+		- [ ] 255 Module Resources | 1min
+	## Section 17: Vue & Authentication 00/16 | 1hr 33min
 	- [ ] Section 17: Vue & Authentication 00/16 | 1hr 33min
-		- [ ] 256. Module Introduction | 1min
-		- [ ] 257. How Authentication Works in Vue Apps (or any SPA) | 6min
-		- [ ] 258. Locking / Protecting Backend Resources | 6min
-		- [ ] 259. Adding an Authentication Page (Login & Signup) | 10min
-		- [ ] 260. Preparing Vuex | 4min
-		- [ ] 261. Adding a "Signup" Action & Flow | 9min
-		- [ ] 262. Better UX: Loading Spinner & Error Handling | 6min
-		- [ ] 263. Adding a "Login" Action & Flow | 3min
-		- [ ] 264. Attaching the Token to Outgoing Requests | 4min
-		- [ ] 265. Updating the UI Based on Auth State | 4min
-		- [ ] 266. Adding a "Logout" Action & Flow | 4min
-		- [ ] 267. Authentication & Routing (incl. Navigation Guards) | 12min
-		- [ ] 268. Adding "Auto Login" | 9min
-		- [ ] 269. Adding "Auto Logout" | 14min
-		- [ ] 270. Summary | 1min
-		- [ ] 271. Module Resources | 1min
-		- [ ] 272. Module Introduction | 1min
-		- [ ] 273. What To Deploy? | 3min
-		- [ ] 274. Optimization: Using Asynchronous Components | 12min
-		- [ ] 275. Building the Project For Production | 4min
-		- [ ] 276. Deploying a Vue App | 9min
-		- [ ] 277. Module Resources | 1min
+		- [ ] 256 Module Introduction | 1min
+		- [ ] 257 How Authentication Works in Vue Apps (or any SPA) | 6min
+		- [ ] 258 Locking / Protecting Backend Resources | 6min
+		- [ ] 259 Adding an Authentication Page (Login & Signup) | 10min
+		- [ ] 260 Preparing Vuex | 4min
+		- [ ] 261 Adding a "Signup" Action & Flow | 9min
+		- [ ] 262 Better UX: Loading Spinner & Error Handling | 6min
+		- [ ] 263 Adding a "Login" Action & Flow | 3min
+		- [ ] 264 Attaching the Token to Outgoing Requests | 4min
+		- [ ] 265 Updating the UI Based on Auth State | 4min
+		- [ ] 266 Adding a "Logout" Action & Flow | 4min
+		- [ ] 267 Authentication & Routing (incl. Navigation Guards) | 12min
+		- [ ] 268 Adding "Auto Login" | 9min
+		- [ ] 269 Adding "Auto Logout" | 14min
+		- [ ] 270 Summary | 1min
+		- [ ] 271 Module Resources | 1min
+		- [ ] 272 Module Introduction | 1min
+		- [ ] 273 What To Deploy? | 3min
+		- [ ] 274 Optimization: Using Asynchronous Components | 12min
+		- [ ] 275 Building the Project For Production | 4min
+		- [ ] 276 Deploying a Vue App | 9min
+		- [ ] 277 Module Resources | 1min
+	## Section 18: Optimizing & Deploying Vue Apps 00/06 | 29min
 	- [ ] Section 18: Optimizing & Deploying Vue Apps 00/06 | 29min
-		- [ ] 272. Module Introduction | 1min
-		- [ ] 273. What To Deploy? | 3min
-		- [ ] 274. Optimization: Using Asynchronous Components | 12min
-		- [ ] 275. Building the Project For Production | 4min
-		- [ ] 276. Deploying a Vue App | 9min
-		- [ ] 277. Module Resources | 1min
+		- [ ] 272 Module Introduction | 1min
+		- [ ] 273 What To Deploy? | 3min
+		- [ ] 274 Optimization: Using Asynchronous Components | 12min
+		- [ ] 275 Building the Project For Production | 4min
+		- [ ] 276 Deploying a Vue App | 9min
+		- [ ] 277 Module Resources | 1min
+	## Sec 19: Composition API - Replacg Options API | 00/26 | 2hr 23min
 	- [ ] Sec 19: Composition API - Replacg Options API | 00/26 | 2hr 23min
-		- [ ] 278. Module Introduction | 2min
-		- [ ] 279. Which Problem Does The Composition API Solve? | 7min
-		- [ ] 280. Replacing "data" with "refs" | 12min
-		- [ ] 281. Building "reactive" Objects | 11min
-		- [ ] 282. Reactivity: A Deep Dive | 8min
-		- [ ] 283. Replacing "methods" with Regular Functions | 7min
-		- [ ] 000. Assignment 7: Time to Practice: Data & Functions
-		- [ ] 284. Replacg "Computed Properties" w the "computed" Fn | 8min
-		- [ ] 285. Two-Way-Binding and the Composition API | 3min
-		- [ ] 286. Working with Watchers | 6min
-		- [ ] 000. Assgnmt 8: Practice: Composition API Core Building Blocks
-		- [ ] 287. A First Summary | 2min
-		- [ ] 288. How To Use Template Refs | 5min
-		- [ ] 289. Components, Props & The Composition API | 8min
-		- [ ] 290. Emitting Custom Events | 3min
-		- [ ] 291. Working with Provide/ Inject | 4min
-		- [ ] 292. Lifecycle Hooks in the Composition API | 5min
-		- [ ] 293. Migrating from Options API to Composition API - An Example Project 2min
-		- [ ] 294. Migrating a First Component | 7min
-		- [ ] 295. Migrating a Big Component | 13min
-		- [ ] 296. Migrating the Remaining Components | 12min
-		- [ ] 297. Routing, Params & The Composition API | 7min
-		- [ ] 298. The Route & Router Objects and the Composition API | 5min
-		- [ ] 299. Using Vuex with the Composition API | 5min
-		- [ ] 300. Summary | 3min
-		- [ ] 301. Module Resources | 1min
+		- [ ] 278 Module Introduction | 2min
+		- [ ] 279 Which Problem Does The Composition API Solve? | 7min
+		- [ ] 280 Replacing "data" with "refs" | 12min
+		- [ ] 281 Building "reactive" Objects | 11min
+		- [ ] 282 Reactivity: A Deep Dive | 8min
+		- [ ] 283 Replacing "methods" with Regular Functions | 7min
+		- [ ] 000 Assignment 7: Time to Practice: Data & Functions
+		- [ ] 284 Replacg "Computed Properties" w the "computed" Fn | 8min
+		- [ ] 285 Two-Way-Binding and the Composition API | 3min
+		- [ ] 286 Working with Watchers | 6min
+		- [ ] 000 Assgnmt 8: Practice: Composition API Core Building Blocks
+		- [ ] 287 A First Summary | 2min
+		- [ ] 288 How To Use Template Refs | 5min
+		- [ ] 289 Components, Props & The Composition API | 8min
+		- [ ] 290 Emitting Custom Events | 3min
+		- [ ] 291 Working with Provide/ Inject | 4min
+		- [ ] 292 Lifecycle Hooks in the Composition API | 5min
+		- [ ] 293 Migrating from Options API to Composition API - An Example Project 2min
+		- [ ] 294 Migrating a First Component | 7min
+		- [ ] 295 Migrating a Big Component | 13min
+		- [ ] 296 Migrating the Remaining Components | 12min
+		- [ ] 297 Routing, Params & The Composition API | 7min
+		- [ ] 298 The Route & Router Objects and the Composition API | 5min
+		- [ ] 299 Using Vuex with the Composition API | 5min
+		- [ ] 300 Summary | 3min
+		- [ ] 301 Module Resources | 1min
 	## Section 20: Reusing Functionality: Mixins & Custom Composition Fns | 00/14 | 1hr 3min
 	- [ ] Section 20: Reusing Functionality: Mixins & Custom Composition Functions | 00/14 | 1hr 3min
-		- [ ] 302. Module Introduction | 1min
-		- [ ] 303. Reusability Concepts | 5min
-		- [ ] 304. Using Mixins | 5min
-		- [ ] 305. Understanding Mixin Merging | 3min
-		- [ ] 306. Global Mixins | 3min
-		- [ ] 307. Disadvantages of Mixins | 3min
-		- [ ] 308. Custom Hooks / Composables & The
-		- [ ] 309. More Custom Composition Functions | 4min
-		- [ ] 310. Why Hooks / Composables Beat
-		- [ ] 311. Example: Creating a "Search" Hook | 11min
-		- [ ] 312. Custom Hooks Gotchas | 9min
-		- [ ] 313. More Thoughts on Custom Hooks /
-		- [ ] 314. Example: A Custom "Sort" Hook | 5min
-		- [ ] 315. Module Resources | 1min
+		- [ ] 302 Module Introduction | 1min
+		- [ ] 303 Reusability Concepts | 5min
+		- [ ] 304 Using Mixins | 5min
+		- [ ] 305 Understanding Mixin Merging | 3min
+		- [ ] 306 Global Mixins | 3min
+		- [ ] 307 Disadvantages of Mixins | 3min
+		- [ ] 308 Custom Hooks / Composables & The
+		- [ ] 309 More Custom Composition Functions | 4min
+		- [ ] 310 Why Hooks / Composables Beat
+		- [ ] 311 Example: Creating a "Search" Hook | 11min
+		- [ ] 312 Custom Hooks Gotchas | 9min
+		- [ ] 313 More Thoughts on Custom Hooks /
+		- [ ] 314 Example: A Custom "Sort" Hook | 5min
+		- [ ] 315 Module Resources | 1min
 	## Section 21: Roundup & Next Steps 00/01 | 3min
 	- [ ] Section 21: Roundup & Next Steps 0/1|3min
-		- [ ] 316. Course Roundup & Next Steps 3min
+		- [ ] 316 Course Roundup & Next Steps 3min
 	## Section 22: Vue 2 to Vue 3 Migration 00/07 | 1hr 4min
 	- [ ] Section 22: Vue 2 to Vue 3 Migration 0/7|1hr 4min
-		- [ ] 317. Vue 3 - Overview | 7min
-		- [ ] 318. Important Changes & Migration Steps | 18min
-		- [ ] 319. Vue 3: New Features | 5min
-		- [ ] 320. The New Composition API (Optional!) | 24min
-		- [ ] 321. Further Migration Resources | 1min
-		- [ ] 322. About this Course & Vue 3 | 6min
-		- [ ] 323. About this Course & Vue 3 (Written Summary) | 4min
+		- [ ] 317 Vue 3 - Overview | 7min
+		- [ ] 318 Important Changes & Migration Steps | 18min
+		- [ ] 319 Vue 3: New Features | 5min
+		- [ ] 320 The New Composition API (Optional!) | 24min
+		- [ ] 321 Further Migration Resources | 1min
+		- [ ] 322 About this Course & Vue 3 | 6min
+		- [ ] 323 About this Course & Vue 3 (Written Summary) | 4min
 	## Section 23: Getting Started [VUE2] 07/09 | 22min
 	- [ ] Section 23: Getting Started [VUE2] 7/9 | 22min
-		- [ ] 324. Why is this section marked with "VUE2"? | 1min
-		- [ ] 325. Course Introduction | 3min
-		- [ ] 326. Join our Online Learning Community | 1min
-		- [ ] 327. Let's Create our First VueJS Application | 6min
-		- [ ] 328. Extending the VueJS Application | 4min
-		- [ ] 329. Course Structure | 4min
-		- [ ] 330. Take Advantage of all Course Resources! | 2min
-		- [ ] 331. Setup VueJS Locally | 2min
-		- [ ] 332. Module Resources & Useful Links | 1min
+		- [ ] 324 Why is this section marked with "VUE2"? | 1min
+		- [ ] 325 Course Introduction | 3min
+		- [ ] 326 Join our Online Learning Community | 1min
+		- [ ] 327 Let's Create our First VueJS Application | 6min
+		- [ ] 328 Extending the VueJS Application | 4min
+		- [ ] 329 Course Structure | 4min
+		- [ ] 330 Take Advantage of all Course Resources! | 2min
+		- [ ] 331 Setup VueJS Locally | 2min
+		- [ ] 332 Module Resources & Useful Links | 1min
 	## Section 24: Using VueJS to Interact w DOM [VUE2] | 09/31 | 1hr 3min
 	- [ ] Section 24: Using VueJS to Interact w DOM [VUE2]| 9/31 | 1hr 3min
-		- [ ] 333. Module Introduction | 1min
-		- [ ] 334. Understanding VueJS Templates | 3min
-		- [ ] 335. How VueJS Template Syntax & Instance Wrk Together | 3min
-		- [ ] 336. Accessing Data in the Vue Instance | 2min
-		- [ ] 337. Binding to Attributes | 3min
-		- [ ] 338. Understanding and Using Directives | 1min
-		- [ ] 339. Disable Re-Rendering with v-once | 2min
-		- [ ] 340. How to Output Raw HTML | 3min
-		- [ ] 341. Optional: 00. Assignment Starting Code | 1min
-		- [ ] 342. Broken Udemy Download Links | 1min
-		- [ ] 000. Assgnmt 9: Time to Practice - Outputting Data to Templates
-		- [ ] 343. Listening to Events | 2min
-		- [ ] 344. Getting Event Data from the Event Object | 3min
-		- [ ] 345. Passing your own Arguments with Events | 2min
-		- [ ] 346. Modifying an Event - with Event Modifiers | 3min
-		- [ ] 347. Listening to Keyboard Events | 2min
-		- [ ] 000. Assignment 10: Time to Practice - Events
-		- [ ] 348. Writing JavaScript Code in the Templates | 3min
-		- [ ] 349. Using Two-Way-Binding | 2min
-		- [ ] 350. Reacting to Changes with Computed Properties | 10min
-		- [ ] 351. An Alt to Computed Properties: Watching for Changes | 4min
-		- [ ] 352. Saving Time with Shorthands | 1min
-		- [ ] 000. Assignment 11: Time to Practice - Reactive Properties
-		- [ ] 353. Dynamic Styling with CSS Classes - Basics | 4min
-		- [ ] 354. Dynamic Styling with CSS Classes - Using Objects | 2min
-		- [ ] 355. Dynamic Styling with CSS Classes - Using Names | 3min
-		- [ ] 356. Setting Styles Dynamically (without CSS Classes) | 3min
-		- [ ] 357. Styling Elements with the Array Syntax | 1min
-		- [ ] 000. Assignment 12: Time to Practice - Styling
-		- [ ] 358. Module Wrap Up | 1min
-		- [ ] 359. Module Resources & Useful Links | 1min
+		- [ ] 333 Module Introduction | 1min
+		- [ ] 334 Understanding VueJS Templates | 3min
+		- [ ] 335 How VueJS Template Syntax & Instance Wrk Together | 3min
+		- [ ] 336 Accessing Data in the Vue Instance | 2min
+		- [ ] 337 Binding to Attributes | 3min
+		- [ ] 338 Understanding and Using Directives | 1min
+		- [ ] 339 Disable Re-Rendering with v-once | 2min
+		- [ ] 340 How to Output Raw HTML | 3min
+		- [ ] 341 Optional: 00. Assignment Starting Code | 1min
+		- [ ] 342 Broken Udemy Download Links | 1min
+		- [ ] 000 Assgnmt 9: Time to Practice - Outputting Data to Templates
+		- [ ] 343 Listening to Events | 2min
+		- [ ] 344 Getting Event Data from the Event Object | 3min
+		- [ ] 345 Passing your own Arguments with Events | 2min
+		- [ ] 346 Modifying an Event - with Event Modifiers | 3min
+		- [ ] 347 Listening to Keyboard Events | 2min
+		- [ ] 000 Assignment 10: Time to Practice - Events
+		- [ ] 348 Writing JavaScript Code in the Templates | 3min
+		- [ ] 349 Using Two-Way-Binding | 2min
+		- [ ] 350 Reacting to Changes with Computed Properties | 10min
+		- [ ] 351 An Alt to Computed Properties: Watching for Changes | 4min
+		- [ ] 352 Saving Time with Shorthands | 1min
+		- [ ] 000 Assignment 11: Time to Practice - Reactive Properties
+		- [ ] 353 Dynamic Styling with CSS Classes - Basics | 4min
+		- [ ] 354 Dynamic Styling with CSS Classes - Using Objects | 2min
+		- [ ] 355 Dynamic Styling with CSS Classes - Using Names | 3min
+		- [ ] 356 Setting Styles Dynamically (without CSS Classes) | 3min
+		- [ ] 357 Styling Elements with the Array Syntax | 1min
+		- [ ] 000 Assignment 12: Time to Practice - Styling
+		- [ ] 358 Module Wrap Up | 1min
+		- [ ] 359 Module Resources & Useful Links | 1min
 	- [ ] Section 25: Using Condls & Rendering Lists [VUE2] 11/14 | 24min
-		- [ ] 360. Module Introduction | 1min
-		- [ ] 361. Conditional Rendering with v-if | 4min
-		- [ ] 362. v-else-if in Vue.js 2.1 | 1min
-		- [ ] 363. Using an Alternative v-if Syntax | 2min
-		- [ ] 364. Don't Detach it with v-show | 2min
-		- [ ] 365. Rendering Lists with v-for | 2min
-		- [ ] 366. Getting the Current Index | 2min
-		- [ ] 367. Using an Alternative v-for Syntax | 1min
-		- [ ] 368. Looping through Objects | 5min
-		- [ ] 369. Looping through a List of Numbers | 1min
-		- [ ] 370. Keeping Track of Elements when using v-for | 4min
+		- [ ] 360 Module Introduction | 1min
+		- [ ] 361 Conditional Rendering with v-if | 4min
+		- [ ] 362 v-else-if in Vue.js 2.1 | 1min
+		- [ ] 363 Using an Alternative v-if Syntax | 2min
+		- [ ] 364 Don't Detach it with v-show | 2min
+		- [ ] 365 Rendering Lists with v-for | 2min
+		- [ ] 366 Getting the Current Index | 2min
+		- [ ] 367 Using an Alternative v-for Syntax | 1min
+		- [ ] 368 Looping through Objects | 5min
+		- [ ] 369 Looping through a List of Numbers | 1min
+		- [ ] 370 Keeping Track of Elements when using v-for | 4min
 		- [ ] Assignment 13: Time to Practice - Conditionals & Lists
-		- [ ] 371. Module Wrap Up | 1min
-		- [ ] 372. Module Resources & Useful Links | 1min
+		- [ ] 371 Module Wrap Up | 1min
+		- [ ] 372 Module Resources & Useful Links | 1min
 	## Section 26: Course Project - The Monster Slayer [VUE2] 15/16 | 43min
 	- [ ] Section 26: Course Prj - The Monster Slayer [VUE2] 15/16 | 43min
-		- [ ] 373. Introduction & Challenge | 3min
-		- [ ] 374. Setting up the Course Project | 3min
-		- [ ] 375. Creating the Vue Instance & Styling the Healthbars | 5min
-		- [ ] 376. Showing the Player Controls Conditionally | 2min
-		- [ ] 377. Implementing a "Start Game" Method | 2min
-		- [ ] 378. Implementing a "Attack" Method | 8min
-		- [ ] 379. Write better Code - Time for Refactoring! | 5min
-		- [ ] 380. Implementing a "Special Attack" | 2min
-		- [ ] 381. Implementing a "Heal" Method | 2min
-		- [ ] 382. Finishing the Action Buttons | 1min
-		- [ ] 383. Creating an Action Log | 3min
-		- [ ] 384. Printing the Log (v-for) | 2min
-		- [ ] 385. Finishing the Log | 2min
-		- [ ] 386. Styling the Log Conditionally | 2min
-		- [ ] 387. Wrap Up | 1min
-		- [ ] 388. Full Application Code | 1min
+		- [ ] 373 Introduction & Challenge | 3min
+		- [ ] 374 Setting up the Course Project | 3min
+		- [ ] 375 Creating the Vue Instance & Styling the Healthbars | 5min
+		- [ ] 376 Showing the Player Controls Conditionally | 2min
+		- [ ] 377 Implementing a "Start Game" Method | 2min
+		- [ ] 378 Implementing a "Attack" Method | 8min
+		- [ ] 379 Write better Code - Time for Refactoring! | 5min
+		- [ ] 380 Implementing a "Special Attack" | 2min
+		- [ ] 381 Implementing a "Heal" Method | 2min
+		- [ ] 382 Finishing the Action Buttons | 1min
+		- [ ] 383 Creating an Action Log | 3min
+		- [ ] 384 Printing the Log (v-for) | 2min
+		- [ ] 385 Finishing the Log | 2min
+		- [ ] 386 Styling the Log Conditionally | 2min
+		- [ ] 387 Wrap Up | 1min
+		- [ ] 388 Full Application Code | 1min
 	## Section 27: Understanding the VueJS Instance [VUE2] 15/16 | 54min
 	- [ ] Section 27: Understanding the VueJS Instance [VUE2] 15/16 | 54min
-		- [ ] 389. Module Introduction | 1min
-		- [ ] 390. Some Basics about the VueJS Instance | 3min
-		- [ ] 391. Using Multiple Vue Instances | 3min
-		- [ ] 392. Accessing the Vue Instance from Outside | 3min
-		- [ ] 393. How VueJS manages your Data and Methods | 4min
-		- [ ] 394. A Closer Look at $el and $data | 5min
-		- [ ] 395. Placing $refs and Using them on your Templates | 6min
-		- [ ] 396. Where to learn more about the Vue API | 1min
-		- [ ] 397. Mounting a Template | 7min
-		- [ ] 398. Using Components | 5min
-		- [ ] 399. Limitations of some Templates | 3min
-		- [ ] 400. How VueJS Updates the DOM | 3min
-		- [ ] 401. The VueJS Instance Lifecycle | 3min
-		- [ ] 402. The VueJS Instance Lifecycle in Practice | 6min
-		- [ ] 403. Module Wrap Up | 1min
-		- [ ] 404. Module Resources & Useful Links | 1min
+		- [ ] 389 Module Introduction | 1min
+		- [ ] 390 Some Basics about the VueJS Instance | 3min
+		- [ ] 391 Using Multiple Vue Instances | 3min
+		- [ ] 392 Accessing the Vue Instance from Outside | 3min
+		- [ ] 393 How VueJS manages your Data and Methods | 4min
+		- [ ] 394 A Closer Look at $el and $data | 5min
+		- [ ] 395 Placing $refs and Using them on your Templates | 6min
+		- [ ] 396 Where to learn more about the Vue API | 1min
+		- [ ] 397 Mounting a Template | 7min
+		- [ ] 398 Using Components | 5min
+		- [ ] 399 Limitations of some Templates | 3min
+		- [ ] 400 How VueJS Updates the DOM | 3min
+		- [ ] 401 The VueJS Instance Lifecycle | 3min
+		- [ ] 402 The VueJS Instance Lifecycle in Practice | 6min
+		- [ ] 403 Module Wrap Up | 1min
+		- [ ] 404 Module Resources & Useful Links | 1min
 	## Section 28: Moving to a "Real" Dev Workflow with Webpack & Vue CLI v2 12/12 | 30min
 	- [ ] Section 28: Moving to a "Real" Development Workflow with Webpack & Vue CLI v2 12/12 | 30min
-		- [ ] 405. Module Introduction | 2min
-		- [ ] 406. Why do we need a Development Server? | 3min
-		- [ ] 407. What does "Development Workflow" mean? | 4min
-		- [ ] 408. Using the Vue CLI to create Projects | 3min
-		- [ ] 409. Installing the Vue CLI and Creating a new Project | 4min
-		- [ ] 410. An Overview over Webpack Template Folder Structure | 4min
-		- [ ] 411. Understanding ".vue" Files | 7min
-		- [ ] 412. Understanding the Object in the Vue File | 1min
-		- [ ] 413. How to Build your App for Production | 1min
-		- [ ] 414. Module Wrap Up | 1min
-		- [ ] 415. More about ".vue" Files and the CLI | 1min
-		- [ ] 416. Debugging VueJS Projects | 1min
+		- [ ] 405 Module Introduction | 2min
+		- [ ] 406 Why do we need a Development Server? | 3min
+		- [ ] 407 What does "Development Workflow" mean? | 4min
+		- [ ] 408 Using the Vue CLI to create Projects | 3min
+		- [ ] 409 Installing the Vue CLI and Creating a new Project | 4min
+		- [ ] 410 An Overview over Webpack Template Folder Structure | 4min
+		- [ ] 411 Understanding ".vue" Files | 7min
+		- [ ] 412 Understanding the Object in the Vue File | 1min
+		- [ ] 413 How to Build your App for Production | 1min
+		- [ ] 414 Module Wrap Up | 1min
+		- [ ] 415 More about ".vue" Files and the CLI | 1min
+		- [ ] 416 Debugging VueJS Projects | 1min
 	## Section 29: An Introduction to Components [VUE2]| 05/15 | 40min
 	- [ ] Section 29: An Introduction to Components [VUE2]| 05/15 | 40min
-		- [ ] 417. Module Introduction | 1min
-		- [ ] 418. An Introduction to Components | 5min
-		- [ ] 419. Storing Data in Components with the Data Method | 4min
-		- [ ] 420. Registering Components Locally and Globally | 3min
-		- [ ] 421. The "Root Component" in the App.vue File | 3min
-		- [ ] 422. Creating a Component | 4min
-		- [ ] 423. Using Components | 6min
-		- [ ] 000. Assignment 14: Time to Practice - Components
-		- [ ] 424. Time to Practice - Components (Code) | 1min
-		- [ ] 425. Moving to a Better Folder Structure | 3min
-		- [ ] 426. Alternative Folder Structures | 1min
-		- [ ] 427. How to Name your Component Tags (Selectors) | 5min
-		- [ ] 428. Scoping Component Styles | 5min
-		- [ ] 429. Module Wrap Up | 1min
-		- [ ] 430. Module Resources & Useful Links | 1min
+		- [ ] 417 Module Introduction | 1min
+		- [ ] 418 An Introduction to Components | 5min
+		- [ ] 419 Storing Data in Components with the Data Method | 4min
+		- [ ] 420 Registering Components Locally and Globally | 3min
+		- [ ] 421 The "Root Component" in the App.vue File | 3min
+		- [ ] 422 Creating a Component | 4min
+		- [ ] 423 Using Components | 6min
+		- [ ] 000 Assignment 14: Time to Practice - Components
+		- [ ] 424 Time to Practice - Components (Code) | 1min
+		- [ ] 425 Moving to a Better Folder Structure | 3min
+		- [ ] 426 Alternative Folder Structures | 1min
+		- [ ] 427 How to Name your Component Tags (Selectors) | 5min
+		- [ ] 428 Scoping Component Styles | 5min
+		- [ ] 429 Module Wrap Up | 1min
+		- [ ] 430 Module Resources & Useful Links | 1min
 	## Section 30: Communicating between Components [VUE2] 0/16 | 39min
 	- [ ] Section 30: Communicating between Components [VUE2] 0/16 | 39min
-		- [ ] 431. Module Introduction | 1min
-		- [ ] 432. Communication Problems | 3min
-		- [ ] 433. Using Props for Parent => Child Communication | 3min
-		- [ ] 434. Naming "props" | 1min
-		- [ ] 435. Using "props" in the Child Component | 1min
-		- [ ] 436. Validating "props" | 5min
-		- [ ] 437. Using Custom Evts for Child => Parent Communication | 6min
-		- [ ] 438. Understanding Unidirectional Data Flow | 1min
-		- [ ] 439. Communicating with Callback Functions | 2min
-		- [ ] 440. Communication between Sibling Components | 6min
-		- [ ] 441. Using an Event Bus for Communication | 6min
-		- [ ] 442. Centralizing Code in an Event Bus | 2min
-		- [ ] 000. Assignment 15: Time to Practice - Component Communication
-		- [ ] 443. Time to Practice - Component Communication (Code) | 1min
-		- [ ] 444. Wrap Up | 1min
-		- [ ] 445. Module Resources & Useful Links | 1min
+		- [ ] 431 Module Introduction | 1min
+		- [ ] 432 Communication Problems | 3min
+		- [ ] 433 Using Props for Parent => Child Communication | 3min
+		- [ ] 434 Naming "props" | 1min
+		- [ ] 435 Using "props" in the Child Component | 1min
+		- [ ] 436 Validating "props" | 5min
+		- [ ] 437 Using Custom Evts for Child => Parent Communication | 6min
+		- [ ] 438 Understanding Unidirectional Data Flow | 1min
+		- [ ] 439 Communicating with Callback Functions | 2min
+		- [ ] 440 Communication between Sibling Components | 6min
+		- [ ] 441 Using an Event Bus for Communication | 6min
+		- [ ] 442 Centralizing Code in an Event Bus | 2min
+		- [ ] 000 Assignment 15: Time to Practice - Component Communication
+		- [ ] 443 Time to Practice - Component Communication (Code) | 1min
+		- [ ] 444 Wrap Up | 1min
+		- [ ] 445 Module Resources & Useful Links | 1min
 	## Section 31: Advanced Component Usage [VUE2] 00/17 | 27min
 	- [ ] Section 31: Advanced Component Usage [VUE2] 00/17 | 27min
-		- [ ] 446. Module Introduction | 1min
-		- [ ] 447. Setting up the Module Project | 3min
-		- [ ] 448. Passing Content - The Suboptimal Solution | 2min
-		- [ ] 449. Passing Content with Slots | 1min
-		- [ ] 450. How Slot Content gets Compiled and Styled | 3min
-		- [ ] 451. Changed Slot Styling Behavior | 1min
-		- [ ] 452. Using Multiple Slots (Named Slots) | 3min
-		- [ ] 453. Default Slots and Slot Defaults | 2min
-		- [ ] 454. A Summary on Slots | 1min
-		- [ ] 455. Switching Multiple Components w Dynamic Components | 6min
-		- [ ] 456. Understanding Dynamic Component Behavior | 2min
-		- [ ] 457. Keeping Dynamic Components Alive | 1min
-		- [ ] 458. Dynamic Component Lifecycle Hooks | 1min
-		- [ ] 000. Assignment 16: Practice - Slots and Dynamic Components
-		- [ ] 459. Practice - Slots and Dynamic Components (Code) | 1min
-		- [ ] 460. Wrap Up | 1min
-		- [ ] 461. Module Resources & Helpful Links | 1min
+		- [ ] 446 Module Introduction | 1min
+		- [ ] 447 Setting up the Module Project | 3min
+		- [ ] 448 Passing Content - The Suboptimal Solution | 2min
+		- [ ] 449 Passing Content with Slots | 1min
+		- [ ] 450 How Slot Content gets Compiled and Styled | 3min
+		- [ ] 451 Changed Slot Styling Behavior | 1min
+		- [ ] 452 Using Multiple Slots (Named Slots) | 3min
+		- [ ] 453 Default Slots and Slot Defaults | 2min
+		- [ ] 454 A Summary on Slots | 1min
+		- [ ] 455 Switching Multiple Components w Dynamic Components | 6min
+		- [ ] 456 Understanding Dynamic Component Behavior | 2min
+		- [ ] 457 Keeping Dynamic Components Alive | 1min
+		- [ ] 458 Dynamic Component Lifecycle Hooks | 1min
+		- [ ] 000 Assignment 16: Practice - Slots and Dynamic Components
+		- [ ] 459 Practice - Slots and Dynamic Components (Code) | 1min
+		- [ ] 460 Wrap Up | 1min
+		- [ ] 461 Module Resources & Helpful Links | 1min
 	## Section 32: Second Course Project - Wonderful Quotes [VUE2] 00/12 | 29min
 	- [ ] Section 32: Second Course Project - Wonderful Quotes [VUE2] 00/12 | 29min
-		- [ ] 462. Module Introduction | 2min
-		- [ ] 463. Setting up the Project | 1min
-		- [ ] 464. Initializing the Application | 1min
-		- [ ] 465. Creating the Application Components | 4min
-		- [ ] 466. Passing Data with Props and Slots | 2min
-		- [ ] 467. Allowing Users Create Quotes w NewQuote Component | 4min
-		- [ ] 468. Adding Quotes with Custom Events | 4min
-		- [ ] 469. Adding a Info Box | 1min
-		- [ ] 470. Allowing for Quote Deletion | 4min
-		- [ ] 471. Controlling Quotes with a Progress Bar | 4min
-		- [ ] 472. Finishing Touches and State Management | 2min
-		- [ ] 473. Module Resources | 1min
+		- [ ] 462 Module Introduction | 2min
+		- [ ] 463 Setting up the Project | 1min
+		- [ ] 464 Initializing the Application | 1min
+		- [ ] 465 Creating the Application Components | 4min
+		- [ ] 466 Passing Data with Props and Slots | 2min
+		- [ ] 467 Allowing Users Create Quotes w NewQuote Component | 4min
+		- [ ] 468 Adding Quotes with Custom Events | 4min
+		- [ ] 469 Adding a Info Box | 1min
+		- [ ] 470 Allowing for Quote Deletion | 4min
+		- [ ] 471 Controlling Quotes with a Progress Bar | 4min
+		- [ ] 472 Finishing Touches and State Management | 2min
+		- [ ] 473 Module Resources | 1min
 	## Section 33: Handling User Input with Forms [VUE2] 00/15 | 36min
 	- [ ] Section 33: Handling User Input with Forms [VUE2] 0/15 | 36min
-		- [ ] 474. Module Introduction | 1min
-		- [ ] 475. A Basic <input> Form Binding | 4min
-		- [ ] 476. Grouping Data and Pre-Populating Inputs | 3min
-		- [ ] 477. Modifying User Input with Input Modifiers | 3min
-		- [ ] 478. Binding <textarea> and Saving Line Breaks | 3min
-		- [ ] 479. Using Checkboxes and Saving Data in Arrays | 4min
-		- [ ] 480. Using Radio Buttons | 3min
-		- [ ] 481. Handling Dropdowns with select and option | 5min
-		- [ ] 482. What v-model does & How to Create a Custom Control | 3min
-		- [ ] 483. Creating a Custom Control (Input) | 5min
-		- [ ] 484. Submitting a Form | 2min
-		- [ ] 000. Assignment 17: Time to Practice - Forms
-		- [ ] 485. Time to Practice - Forms (Code) | 1min
-		- [ ] 486. Wrap Up | 1min
-		- [ ] 487. Module Resources & Useful Links | 1min
+		- [ ] 474 Module Introduction | 1min
+		- [ ] 475 A Basic <input> Form Binding | 4min
+		- [ ] 476 Grouping Data and Pre-Populating Inputs | 3min
+		- [ ] 477 Modifying User Input with Input Modifiers | 3min
+		- [ ] 478 Binding <textarea> and Saving Line Breaks | 3min
+		- [ ] 479 Using Checkboxes and Saving Data in Arrays | 4min
+		- [ ] 480 Using Radio Buttons | 3min
+		- [ ] 481 Handling Dropdowns with select and option | 5min
+		- [ ] 482 What v-model does & How to Create a Custom Control | 3min
+		- [ ] 483 Creating a Custom Control (Input) | 5min
+		- [ ] 484 Submitting a Form | 2min
+		- [ ] 000 Assignment 17: Time to Practice - Forms
+		- [ ] 485 Time to Practice - Forms (Code) | 1min
+		- [ ] 486 Wrap Up | 1min
+		- [ ] 487 Module Resources & Useful Links | 1min
 	## Section 34: Using and Creating Directives [VUE2]| 00/15 | 24min
 	- [ ] Section 34: Using and Creating Directives [VUE2]| 0 / 15|24min
-		- [ ] 488. Module Introduction | 1min
-		- [ ] 489. Understanding Directives | 4min
-		- [ ] 490. How Directives Work - Hook Functions | 2min
-		- [ ] 491. Creating a Simple Directive | 1min
-		- [ ] 492. Passing Values to Custom Directives | 1min
-		- [ ] 493. Passing Arguments to Custom Directives | 3min
-		- [ ] 494. Modifying a Custom Directive with Modifiers | 2min
-		- [ ] 495. Custom Directives - A Summary | 1min
-		- [ ] 496. Registering Directives Locally | 2min
-		- [ ] 497. Using Multiple Modifiers | 4min
-		- [ ] 498. Passing more Complex Values to Directives | 2min
-		- [ ] 000. Assignment 18: Time to Practice - Directives
-		- [ ] 499. Time to Practice - Directives (Code) | 1min
-		- [ ] 500. Wrap Up | 1min
-		- [ ] 501. Module Resources & Useful Links | 1min
+		- [ ] 488 Module Introduction | 1min
+		- [ ] 489 Understanding Directives | 4min
+		- [ ] 490 How Directives Work - Hook Functions | 2min
+		- [ ] 491 Creating a Simple Directive | 1min
+		- [ ] 492 Passing Values to Custom Directives | 1min
+		- [ ] 493 Passing Arguments to Custom Directives | 3min
+		- [ ] 494 Modifying a Custom Directive with Modifiers | 2min
+		- [ ] 495 Custom Directives - A Summary | 1min
+		- [ ] 496 Registering Directives Locally | 2min
+		- [ ] 497 Using Multiple Modifiers | 4min
+		- [ ] 498 Passing more Complex Values to Directives | 2min
+		- [ ] 000 Assignment 18: Time to Practice - Directives
+		- [ ] 499 Time to Practice - Directives (Code) | 1min
+		- [ ] 500 Wrap Up | 1min
+		- [ ] 501 Module Resources & Useful Links | 1min
 	## Section 35: Improving your App with Filters and Mixins [VUE2]| 00/13 | 28min
 	- [ ] Section 35: Improving your App with Filters and Mixins [VUE2]| 0 / 13|28min
-		- [ ] 502. Module Introduction | 1min
-		- [ ] 503. Creating a Local Filter | 5min
-		- [ ] 504. Global Filters and How to Chain Multiple Filters | 2min
-		- [ ] 505. An (often-times better) Alt to Filters: Computed Properties | 5min
-		- [ ] 506. Understanding Mixins | 2min
-		- [ ] 507. Creating and Using Mixins | 2min
-		- [ ] 508. How Mixins get Merged | 3min
-		- [ ] 509. Creating a Global Mixin (Special Case!) | 3min
-		- [ ] 510. Mixins and Scope | 3min
-	  - [ ] 000. Assignment 19: Time to Practice - Filters & Mixins
-		- [ ] 511. Time to Practice - Filters and Mixins (Code) | 1min
-		- [ ] 512. Wrap Up | 2min
-		- [ ] 513. Module Resources & Useful Links | 1min
+		- [ ] 502 Module Introduction | 1min
+		- [ ] 503 Creating a Local Filter | 5min
+		- [ ] 504 Global Filters and How to Chain Multiple Filters | 2min
+		- [ ] 505 An (often-times better) Alt to Filters: Computed Properties | 5min
+		- [ ] 506 Understanding Mixins | 2min
+		- [ ] 507 Creating and Using Mixins | 2min
+		- [ ] 508 How Mixins get Merged | 3min
+		- [ ] 509 Creating a Global Mixin (Special Case!) | 3min
+		- [ ] 510 Mixins and Scope | 3min
+	  - [ ] 000 Assignment 19: Time to Practice - Filters & Mixins
+		- [ ] 511 Time to Practice - Filters and Mixins (Code) | 1min
+		- [ ] 512 Wrap Up | 2min
+		- [ ] 513 Module Resources & Useful Links | 1min
 	## Section 36: Adding Animations and Transitions [VUE2] 00/28 | 1hr 32min
 	- [ ] Section 36: Adding Animations and Transitions [VUE2] 00/28 | 1hr 32min
-		- [ ] 514. Module Introduction | 1min
-		- [ ] 515. Understanding Transitions | 1min
-		- [ ] 516. Preparing Code to use Transitions | 3min
-		- [ ] 517. Setting Up a Transition | 3min
-		- [ ] 518. Assigning CSS Classes for Transitions | 2min
-		- [ ] 519. Creating a "Fade" Transn w CSS Transition Property | 3min
-		- [ ] 520. Creating a "Slide" Transn w CSS Animation Property | 4min
-		- [ ] 521. Mixing Transition and Animation Properties | 4min
-		- [ ] 522. Animating v-if and v-show | 1min
-		- [ ] 523. Setting Up an Initial (on-load)
-		- [ ] 000. Animation | 2min
-		- [ ] 524. Using Different CSS Class Names | 4min
-		- [ ] 525. Using Dynamic Names and Attributes | 3min
-		- [ ] 526. Transitioning between Multiple Elements (Theory) | 1min
-		- [ ] 527. Transitioning between Multiple Elements (Practice) | 5min
-		- [ ] 528. Listening to Transition Event Hooks | 2min
-		- [ ] 529. Understanding JavaScript Animations | 8min
-		- [ ] 530. Excluding CSS from your Animation | 1min
-		- [ ] 531. Creating an Animation in JavaScript | 6min
-		- [ ] 532. Animating Dynamic Components | 6min
-		- [ ] 533. Animating Lists with <transition-group> | 1min
-		- [ ] 534. Using <transition-group> - Preparations | 4min
-		- [ ] 535. Using <transition-group> to Animate a List | 6min
-		- [ ] 536. Understanding the App | 1min
-		- [ ] 537. Creating the App | 12min
-		- [ ] 538. Adding Animations | 7min
-		- [ ] 539. Wrap Up | 1min
-		- [ ] 540. Module Resources & Useful Links | 1min
-		- [ ] 541. The Animated "Monster Slayer" App | 1min
+		- [ ] 514 Module Introduction | 1min
+		- [ ] 515 Understanding Transitions | 1min
+		- [ ] 516 Preparing Code to use Transitions | 3min
+		- [ ] 517 Setting Up a Transition | 3min
+		- [ ] 518 Assigning CSS Classes for Transitions | 2min
+		- [ ] 519 Creating a "Fade" Transn w CSS Transition Property | 3min
+		- [ ] 520 Creating a "Slide" Transn w CSS Animation Property | 4min
+		- [ ] 521 Mixing Transition and Animation Properties | 4min
+		- [ ] 522 Animating v-if and v-show | 1min
+		- [ ] 523 Setting Up an Initial (on-load)
+		- [ ] 000 Animation | 2min
+		- [ ] 524 Using Different CSS Class Names | 4min
+		- [ ] 525 Using Dynamic Names and Attributes | 3min
+		- [ ] 526 Transitioning between Multiple Elements (Theory) | 1min
+		- [ ] 527 Transitioning between Multiple Elements (Practice) | 5min
+		- [ ] 528 Listening to Transition Event Hooks | 2min
+		- [ ] 529 Understanding JavaScript Animations | 8min
+		- [ ] 530 Excluding CSS from your Animation | 1min
+		- [ ] 531 Creating an Animation in JavaScript | 6min
+		- [ ] 532 Animating Dynamic Components | 6min
+		- [ ] 533 Animating Lists with <transition-group> | 1min
+		- [ ] 534 Using <transition-group> - Preparations | 4min
+		- [ ] 535 Using <transition-group> to Animate a List | 6min
+		- [ ] 536 Understanding the App | 1min
+		- [ ] 537 Creating the App | 12min
+		- [ ] 538 Adding Animations | 7min
+		- [ ] 539 Wrap Up | 1min
+		- [ ] 540 Module Resources & Useful Links | 1min
+		- [ ] 541 The Animated "Monster Slayer" App | 1min
 	## Section 37: Connecting to Servers via Http - Using vue-resource [VUE2]| 00/15 | 48min
 	- [ ] Section 37: Connecting to Servers via Http - Using vue-resource [VUE2]| 0 / 15|48min
-		- [ ] 542. Module Introduction | 2min
-		- [ ] 543. Accessing Http via vue-resource - Setup | 4min
-		- [ ] 544. Firebase & The Right Database | 1min
-		- [ ] 545. Creating an App & Setting Up a Server (Firebase) | 5min
-		- [ ] 546. POSTing Data to a Server (Sending a POST Request) | 6min
-		- [ ] 547. GETting & Transforming Data (Sending a GET Request) | 7min
-		- [ ] 548. Configuring vue-resource Globally | 3min
-		- [ ] 549. Intercepting Requests | 4min
-		- [ ] 550. Intercepting Responses | 3min
-		- [ ] 551. Where the "resource" in vue-resource Comes From | 5min
-		- [ ] 552. Creating Custom Resources | 3min
-		- [ ] 553. Resources vs "Normal" Http Requests | 1min
-		- [ ] 554. Understanding Template URLs | 5min
-		- [ ] 555. Wrap Up | 2min
-		- [ ] 556. Module Resources & Useful Links | 1min
+		- [ ] 542 Module Introduction | 2min
+		- [ ] 543 Accessing Http via vue-resource - Setup | 4min
+		- [ ] 544 Firebase & The Right Database | 1min
+		- [ ] 545 Creating an App & Setting Up a Server (Firebase) | 5min
+		- [ ] 546 POSTing Data to a Server (Sending a POST Request) | 6min
+		- [ ] 547 GETting & Transforming Data (Sending a GET Request) | 7min
+		- [ ] 548 Configuring vue-resource Globally | 3min
+		- [ ] 549 Intercepting Requests | 4min
+		- [ ] 550 Intercepting Responses | 3min
+		- [ ] 551 Where the "resource" in vue-resource Comes From | 5min
+		- [ ] 552 Creating Custom Resources | 3min
+		- [ ] 553 Resources vs "Normal" Http Requests | 1min
+		- [ ] 554 Understanding Template URLs | 5min
+		- [ ] 555 Wrap Up | 2min
+		- [ ] 556 Module Resources & Useful Links | 1min
 	## Section 38: Routing in a VueJS Application [VUE2]| 00/28 | 1hr 25min
 	- [ ] Section 38: Routing in a VueJS Application [VUE2]| 0 / 28|1hr 25min
-		- [ ] 557. Module Introduction | 2min
-		- [ ] 558. Setting up the VueJS Router (vue-router) | 2min
-		- [ ] 559. Setting Up and Loading Routes | 7min
-		- [ ] 560. Understanding Routing Modes (Hash vs History) | 4min
-		- [ ] 561. Navigating with Router Links | 4min
-		- [ ] 562. Where am I? - Styling Active Links | 3min
-		- [ ] 563. Navigating from Code (Imperative Navigation) | 3min
-		- [ ] 564. Setting Up Route Parameters | 2min
-		- [ ] 565. Fetching and Using Route Parameters | 2min
-		- [ ] 566. Reacting to Changes in Route Parameters | 3min
-		- [ ] 567. vue-router 2.2: Extract Route Params via "props" | 1min
-		- [ ] 568. Setting Up Child Routes (Nested Routes) | 5min
-		- [ ] 569. Navigating to Nested Routes | 3min
-		- [ ] 570. Making Router Links more Dynamic | 2min
-		- [ ] 571. A Better Way of Creating Links - With Named Routes | 3min
-		- [ ] 572. Using Query Parameters | 3min
-		- [ ] 573. Multiple Router Views (Named Router Views) | 3min
-		- [ ] 574. Redirecting | 2min
-		- [ ] 575. Setting Up "Catch All" Routes/Wildcards | 1min
-		- [ ] 576. Animating Route Transitions | 3min
-		- [ ] 577. Passing the Hash Fragment | 3min
-		- [ ] 578. Controlling the Scroll Behavior | 3min
-		- [ ] 579. Protecting Routes with Guards | 1min
-		- [ ] 580. Using the "beforeEnter" Guard | 8min
-		- [ ] 581. Using the "beforeLeave" Guard | 4min
-		- [ ] 582. Loading Routes Lazily | 7min
-		- [ ] 583. Wrap Up | 1min
-		- [ ] 584. Module Resources & Useful Links | 1min
+		- [ ] 557 Module Introduction | 2min
+		- [ ] 558 Setting up the VueJS Router (vue-router) | 2min
+		- [ ] 559 Setting Up and Loading Routes | 7min
+		- [ ] 560 Understanding Routing Modes (Hash vs History) | 4min
+		- [ ] 561 Navigating with Router Links | 4min
+		- [ ] 562 Where am I? - Styling Active Links | 3min
+		- [ ] 563 Navigating from Code (Imperative Navigation) | 3min
+		- [ ] 564 Setting Up Route Parameters | 2min
+		- [ ] 565 Fetching and Using Route Parameters | 2min
+		- [ ] 566 Reacting to Changes in Route Parameters | 3min
+		- [ ] 567 vue-router 2.2: Extract Route Params via "props" | 1min
+		- [ ] 568 Setting Up Child Routes (Nested Routes) | 5min
+		- [ ] 569 Navigating to Nested Routes | 3min
+		- [ ] 570 Making Router Links more Dynamic | 2min
+		- [ ] 571 A Better Way of Creating Links - With Named Routes | 3min
+		- [ ] 572 Using Query Parameters | 3min
+		- [ ] 573 Multiple Router Views (Named Router Views) | 3min
+		- [ ] 574 Redirecting | 2min
+		- [ ] 575 Setting Up "Catch All" Routes/Wildcards | 1min
+		- [ ] 576 Animating Route Transitions | 3min
+		- [ ] 577 Passing the Hash Fragment | 3min
+		- [ ] 578 Controlling the Scroll Behavior | 3min
+		- [ ] 579 Protecting Routes with Guards | 1min
+		- [ ] 580 Using the "beforeEnter" Guard | 8min
+		- [ ] 581 Using the "beforeLeave" Guard | 4min
+		- [ ] 582 Loading Routes Lazily | 7min
+		- [ ] 583 Wrap Up | 1min
+		- [ ] 584 Module Resources & Useful Links | 1min
 	## Section 39: Better State Management with Vuex [VUE2]| 00/23 | 1hr 12min
 	- [ ] Section 39: Better State Management with Vuex [VUE2]| 0/23|1hr 12min
-		- [ ] 585. Module Introduction | 1min
-		- [ ] 586. Why a Different State Management May Be Needed | 2min
-		- [ ] 587. Understanding "Centralized State" | 2min
-		- [ ] 588. Using the Centralized State | 7min
-		- [ ] 589. Why a Centralized State Alone Won't Fix It | 3min
-		- [ ] 590. Understanding Getters | 1min
-		- [ ] 591. Using Getters | 3min
-		- [ ] 592. Mapping Getters to Properties | 7min
-		- [ ] 593. Understanding Mutations | 1min
-		- [ ] 594. Using Mutations | 5min
-		- [ ] 595. Why Mutations have to run Synchronously | 2min
-		- [ ] 596. How Actions improve Mutations | 2min
-		- [ ] 597. Using Actions | 5min
-		- [ ] 598. Mapping Actions to Methods | 5min
-		- [ ] 599. A Summary of Vuex | 4min
-		- [ ] 600. Two-Way-Binding (v-model) and Vuex | 6min
-		- [ ] 601. Improving Folder Structures | 1min
-		- [ ] 602. Modularizing the State Management | 5min
-		- [ ] 603. Using Separate Files | 4min
-		- [ ] 604. Using Namespaces to Avoid Naming Problems | 7min
-		- [ ] 605. Auto-namespacing with Vuex 2.1 | 1min
-		- [ ] 606. Wrap Up | 1min
-		- [ ] 607. Module Resources & Useful Links | 1min
-	- [ ] Sec 40: Final Project - The Stock Trader [VUE2]| 0 / 26|1hr 44min
-		- [ ] 608. Project Introduction | 3min
-		- [ ] 609. Project Setup and Planning | 3min
-		- [ ] 610. Creating the First Components | 3min
-		- [ ] 611. Setup Project Routes | 5min
-		- [ ] 612. Adding a Header and Navigation | 7min
-		- [ ] 613. Planning the Next Steps | 1min
-		- [ ] 614. Creating Stocks Components | 7min
-		- [ ] 615. Adding a "Buy" Button | 6min
-		- [ ] 616. Setting up the Vuex State Management | 10min
-		- [ ] 617. Adding a Portfolio Module to Vuex | 10min
-		- [ ] 618. Working on the Portfolio Stocks | 7min
-		- [ ] 619. Connecting the Portfolio with Vuex | 2min
-		- [ ] 620. Time to fix some Errors | 2min
-		- [ ] 621. Displaying the Funds | 4min
-		- [ ] 622. Adding some Order Checks | 6min
-		- [ ] 623. Making Funds Look Nicer with Filters | 2min
-		- [ ] 624. Ending the Day - Randomizing Stocks | 6min
-		- [ ] 625. Animating the Route Transitions | 3min
-		- [ ] 626. Saving & Fetching Data - Adding a Dropdown | 2min
-		- [ ] 627. Setting up vue-resource and Firebase | 2min
-		- [ ] 628. Saving Data (PUT Request) | 3min
-		- [ ] 629. Fetching Data (GET Request) | 5min
-		- [ ] 630. Testing and Bug Fixes | 3min
-		- [ ] 631. Project Wrap Up | 1min
-		- [ ] 632. Bonus: Debugging Vuex with Vue Developer Tools | 2min
-		- [ ] 633. Module Resources & Useful Links | 1min
-	- [ ] Section 41: Deploying a VueJS Application [VUE2] 0/4 | 9min
-		- [ ] 634. Module Introduction | 1min
-		- [ ] 635. Preparing for Deployment | 2min
-		- [ ] 636. AWS S3 & Bucket Policies | 1min
-		- [ ] 637. Deploying the App (Example: AWS S3) | 6min
+		- [ ] 585 Module Introduction | 1min
+		- [ ] 586 Why a Different State Management May Be Needed | 2min
+		- [ ] 587 Understanding "Centralized State" | 2min
+		- [ ] 588 Using the Centralized State | 7min
+		- [ ] 589 Why a Centralized State Alone Won't Fix It | 3min
+		- [ ] 590 Understanding Getters | 1min
+		- [ ] 591 Using Getters | 3min
+		- [ ] 592 Mapping Getters to Properties | 7min
+		- [ ] 593 Understanding Mutations | 1min
+		- [ ] 594 Using Mutations | 5min
+		- [ ] 595 Why Mutations have to run Synchronously | 2min
+		- [ ] 596 How Actions improve Mutations | 2min
+		- [ ] 597 Using Actions | 5min
+		- [ ] 598 Mapping Actions to Methods | 5min
+		- [ ] 599 A Summary of Vuex | 4min
+		- [ ] 600 Two-Way-Binding (v-model) and Vuex | 6min
+		- [ ] 601 Improving Folder Structures | 1min
+		- [ ] 602 Modularizing the State Management | 5min
+		- [ ] 603 Using Separate Files | 4min
+		- [ ] 604 Using Namespaces to Avoid Naming Problems | 7min
+		- [ ] 605 Auto-namespacing with Vuex 2.1 | 1min
+		- [ ] 606 Wrap Up | 1min
+		- [ ] 607 Module Resources & Useful Links | 1min
+	## Sec 40: Final Project - The Stock Trader [VUE2]| 00/26 | 1hr 44min
+	- [ ] Sec 40: Final Project - The Stock Trader [VUE2]| 00/26 | 1hr 44min
+		- [ ] 608 Project Introduction | 3min
+		- [ ] 609 Project Setup and Planning | 3min
+		- [ ] 610 Creating the First Components | 3min
+		- [ ] 611 Setup Project Routes | 5min
+		- [ ] 612 Adding a Header and Navigation | 7min
+		- [ ] 613 Planning the Next Steps | 1min
+		- [ ] 614 Creating Stocks Components | 7min
+		- [ ] 615 Adding a "Buy" Button | 6min
+		- [ ] 616 Setting up the Vuex State Management | 10min
+		- [ ] 617 Adding a Portfolio Module to Vuex | 10min
+		- [ ] 618 Working on the Portfolio Stocks | 7min
+		- [ ] 619 Connecting the Portfolio with Vuex | 2min
+		- [ ] 620 Time to fix some Errors | 2min
+		- [ ] 621 Displaying the Funds | 4min
+		- [ ] 622 Adding some Order Checks | 6min
+		- [ ] 623 Making Funds Look Nicer with Filters | 2min
+		- [ ] 624 Ending the Day - Randomizing Stocks | 6min
+		- [ ] 625 Animating the Route Transitions | 3min
+		- [ ] 626 Saving & Fetching Data - Adding a Dropdown | 2min
+		- [ ] 627 Setting up vue-resource and Firebase | 2min
+		- [ ] 628 Saving Data (PUT Request) | 3min
+		- [ ] 629 Fetching Data (GET Request) | 5min
+		- [ ] 630 Testing and Bug Fixes | 3min
+		- [ ] 631 Project Wrap Up | 1min
+		- [ ] 632 Bonus: Debugging Vuex with Vue Developer Tools | 2min
+		- [ ] 633 Module Resources & Useful Links | 1min
+	## Section 41: Deploying a VueJS Application [VUE2]
+	- [ ] Section 41: Deploying a VueJS Application [VUE2] 00/04 | 9min
+		- [ ] 634 Module Introduction | 1min
+		- [ ] 635 Preparing for Deployment | 2min
+		- [ ] 636 AWS S3 & Bucket Policies | 1min
+		- [ ] 637 Deploying the App (Example: AWS S3) | 6min
+	## Sec 42: Bonus: Using Axios !vue-resource [VUE2]
 	- [ ] Sec 42: Bonus: Using Axios !vue-resource [VUE2] 00/12 | 38min
-		- [ ] 638. About this Section | 1min
-		- [ ] 639. Module Introduction | 1min
-		- [ ] 640. Project Setup | 3min
-		- [ ] 641. Axios Setup | 2min
-		- [ ] 642. Sending a POST Request | 6min
-		- [ ] 643. Sending a GET Request | 3min
-		- [ ] 644. Accessing & Using Response Data | 6min
-		- [ ] 645. Setting a Global Request Configuration | 6min
-		- [ ] 646. Using Interceptors | 6min
-		- [ ] 647. Custom Axios Instances | 5min
-		- [ ] 648. Wrap Up | 1min
-		- [ ] 649. Useful Resources & Links | 1min
-	- [ ] Section 43: Bonus: Authentication in Vue Apps 0/18|1hr 7min
-		- [ ] 650. About this Section | 1min
-		- [ ] 651. Module Introduction | 2min
-		- [ ] 652. How Authentication Works in SPAs | 3min
-		- [ ] 653. Project Setup | 3min
-		- [ ] 654. Adding User Signup | 5min
-		- [ ] 655. Adding User Signin (Login) | 3min
-		- [ ] 656. Using Vuex to send Auth Requests | 4min
-		- [ ] 657. Storing Auth Data in Vuex | 4min
-		- [ ] 658. More about the Token (JWT) | 1min
-		- [ ] 659. Accessing other Resources from Vuex | 9min
-		- [ ] 660. Sending the Token to the Backend | 6min
-		- [ ] 661. Protecting Routes (Auth Guard) | 3min
-		- [ ] 662. Updating UI State (based on Authentication State) | 3min
-		- [ ] 663. Adding User Logout | 5min
-		- [ ] 664. Adding Auto Logout | 6min
-		- [ ] 665. Adding Auto Login | 11min
-		- [ ] 666. Wrap Up | 1min
-		- [ ] 667. Useful Resources & Links | 1min
-	- [ ] Section 44: More Content 0/1 | 1min
-		- [ ] 668. Bonus: More Content! 1min
+		- [ ] 638 About this Section | 1min
+		- [ ] 639 Module Introduction | 1min
+		- [ ] 640 Project Setup | 3min
+		- [ ] 641 Axios Setup | 2min
+		- [ ] 642 Sending a POST Request | 6min
+		- [ ] 643 Sending a GET Request | 3min
+		- [ ] 644 Accessing & Using Response Data | 6min
+		- [ ] 645 Setting a Global Request Configuration | 6min
+		- [ ] 646 Using Interceptors | 6min
+		- [ ] 647 Custom Axios Instances | 5min
+		- [ ] 648 Wrap Up | 1min
+		- [ ] 649 Useful Resources & Links | 1min
+	## Section 43: Bonus: Authentication in Vue Apps
+	- [ ] Section 43: Bonus: Authentication in Vue Apps 00/18 | 1hr 7min
+		- [ ] 650 About this Section | 1min
+		- [ ] 651 Module Introduction | 2min
+		- [ ] 652 How Authentication Works in SPAs | 3min
+		- [ ] 653 Project Setup | 3min
+		- [ ] 654 Adding User Signup | 5min
+		- [ ] 655 Adding User Signin (Login) | 3min
+		- [ ] 656 Using Vuex to send Auth Requests | 4min
+		- [ ] 657 Storing Auth Data in Vuex | 4min
+		- [ ] 658 More about the Token (JWT) | 1min
+		- [ ] 659 Accessing other Resources from Vuex | 9min
+		- [ ] 660 Sending the Token to the Backend | 6min
+		- [ ] 661 Protecting Routes (Auth Guard) | 3min
+		- [ ] 662 Updating UI State (based on Authentication State) | 3min
+		- [ ] 663 Adding User Logout | 5min
+		- [ ] 664 Adding Auto Logout | 6min
+		- [ ] 665 Adding Auto Login | 11min
+		- [ ] 666 Wrap Up | 1min
+		- [ ] 667 Useful Resources & Links | 1min
+	## Section 44: More Content
+	- [ ] Section 44: More Content 00/01 | 1min
+		- [ ] 668 Bonus: More Content! 1min
