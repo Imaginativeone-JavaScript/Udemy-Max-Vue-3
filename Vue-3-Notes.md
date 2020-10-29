@@ -1,6 +1,6 @@
 # Vue - The Complete Guide (with Router, Vuex, Composition API)
 - [ ] Vue - The Complete Guide (with Router, Vuex, Composition API)
-	## Section 01 01/44: Getting Started 11 Videos | 43min
+	## Section 01 01/44: Getting Started
 	- [ ] Section 01: Getting Started 0/11 | 43min 10/10/20
 		- [x] 001 01-01 Welcome to the Course! | 2min
 		  - From Novice to Expert
@@ -46,7 +46,7 @@
 			- Ask and Answer in the Q&A Section
 			- Errors in my code - Compare to Max's
 		- [x] 011 Module Resources | 1min (00:08)
-	## Section 02: Basics & Core Concepts - DOM Interaction with Vue 0/30 | 2hr 9min
+	## Section 02: Basics & Core Concepts - DOM Interaction w Vue
 	- [x] Section 02: Basics & Core Concepts - DOM Interaction with Vue 0/30 | 2hr 9min
 		- [x] 012 02-01 Module Introduction | 1min
 		- [x] 013 02-02 Creating and Connecting Vue App Instances | 9min
@@ -104,7 +104,7 @@
 		- [ ] 000 Assignment 04: Time to Practice: Dynamic Styling
 		- [ ] 036 Module Summary | 4min
 		- [ ] 037 Module Resources | 1min
-	## Section 03: Rendering Conditional Content & Lists 00/12 | 43min
+	## Section 03: Rendering Conditional Content & Lists
 	- [ ] Section 03: Rendering Conditional Content & Lists 00/12 | 43min
 		- [ ] 038 03-01 01:35 Module Introduction | 2min
 		- [ ] 039 03-02 03:16 Understanding the Problem | 3min
@@ -118,7 +118,7 @@
 		- [ ] 000 03-00 00:00 Assignment 5: Time to Practice: Conditional Content & Lists
 		- [ ] 047 03-11 02:15 Module Summary | 2min
 		- [ ] 048 03-00 00:06 Module Resources | 1min
-	## Section 04: Course Project: The Monster Slayer Game 00/09 | 1hr 2min
+	## Section 04: Course Project: The Monster Slayer Game
 	- [ ] Section 04: Course Project: The Monster Slayer Game 00/09 | 1hr 2min
 		- [ ] 049 04-01 01:18 Module Introduction | 1min
 		- [ ] 050 04-02 12:27 Project Setup & First Methods | 12min
@@ -129,7 +129,7 @@
 		- [ ] 055 04-07 06:08 Finishing the Core Functionality | 6min
 		- [ ] 056 04-08 14:11 Adding a Battle Log | 14min
 		- [ ] 057 04-09 00:06 Module Resources | 1min
-	## Section 05: Vue: Behind the Scenes 00/10 | 48min
+	## Section 05: Vue: Behind the Scenes
 	- [ ] Section 05: Vue: Behind the Scenes 00/10 | 48min
 		- [ ] 058 05-01 01:31 Module Introduction | 2min
 		- [ ] 059 05-02 04:26 An Introduction to Vue's Reactivity | 4min
@@ -141,7 +141,7 @@
 		- [ ] 065 05-08 04:46 Vue App Lifecycle - Theory | 5min
 		- [ ] 066 05-09 09:48 Vue App Lifecycle - Practice | 10min
 		- [ ] 067 05-00 00:06 Module Resources | 1min
-	## Section 06: Introducing Components 00/06 | 23min
+	## Section 06: Introducing Components
 	- [ ] Section 06: Introducing Components 00/06 | 23min
 		- [ ] 068 06-01 01:30 Module Introduction | 2min
 		- [ ] 069 06-02 08:39 Understanding the Problem | 9min
@@ -149,7 +149,7 @@
 		- [ ] 071 06-04 01:00 The Why: Building Complex User Interfaces With Components | 1min
 		- [ ] 072 06-00 00:57 Multiple Vue Apps vs Multiple Components | 1min
 		- [ ] 073 06-00 00:06 Module Resources | 1min
-	## Sec 07: Moving to Better Dev Setup & Wkflow w Vue CLI 00/14 | 1hr
+	## Sec 07: Moving to Better Dev Setup & Wkflow w Vue CLI
 	- [ ] Sec 07: Moving to Better Dev Setup & Wkflow w Vue CLI 00/14 | 1hr
 		- [ ] 074 07-01 01:35 Module Introduction | 2min
 		- [ ] 075 07-02 03:29 Why We Need A Development Server | 3min
@@ -165,7 +165,7 @@
 		- [ ] 085 07-12 02:16 Adding Styling | 2min
 		- [ ] 086 07-00 00:13 A Small Addition | 1min ** 
 		- [ ] 087 07-00 00:06 Module Resources | 1min **
-	## Section 08: Component Communication 00/18 | 1hr 33min
+	## Section 08: Component Communication
 	- [ ] Section 08: Component Communication 00/18 | 1hr 33min
 		- [ ] 088 08-01 01:41 Module Introduction | 2min
 		- [ ] 089 08-02 10:03 Introducing "Props" (Parent => Child Communication) | 10min
@@ -185,7 +185,7 @@
 		- [ ] 102 08-16 02:06 Provide + Inject vs Props & Custom Events | 2min
 		- [ ] 103 08-17 04:44 Module Summary | 5min
 		- [ ] 104 08-18 00:06 Module Resources | 1min
-	## Section 09: Diving Deeper Into Components 00/18 | 1hr 24min
+	## Section 09: Diving Deeper Into Components
 	- [ ] Section 09: Diving Deeper Into Components 0/18 | 1hr 24min
 		- [ ] 105 09-01 01:38 Module Introduction | 2min
 		- [ ] 106 09-02 02:38 Project Setup | 3min
@@ -205,7 +205,7 @@
 		- [ ] 120 09-16 02:56 Moving to a Different Folder Structure | 3min
 		- [ ] 121 09-17 03:38 Module Summary | 4min
 		- [ ] 122 09-00 00:06 Module Resources | 1min
-	## Section 10: Course Prj: The Learning Rsrces App 00/14 | 1hr 24min
+	## Section 10: Course Prj: The Learning Rsrces App
 	- [ ] Section 10: Course Prj: The Learning Rsrces App 00/14 | 1hr 24min
 		- [ ] 123 10-01 01:37 Module Introduction | 2min
 		- [ ] 124 10-02 05:24 Setup & First Steps | 5min
@@ -221,7 +221,7 @@
 		- [ ] 134 10-12 06:42 Deleting Items | 7min
 		- [ ] 135 10-13 01:42 Adding "Teleport" | 1min
 		- [ ] 136 10-00 00:06 Module Resources | 1min
-	## Section 11: Forms 00/10 | 43min
+	## Section 11: Forms
 	- [ ] Section 11: Forms 00/10 | 43min
 		- [ ] 137 Module Introduction | 1min
 		- [ ] 138 v-model & Inputs | 6min
