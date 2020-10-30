@@ -384,7 +384,7 @@
 		- [ ] 275 Building the Project For Production | 4min
 		- [ ] 276 Deploying a Vue App | 9min
 		- [ ] 277 Module Resources | 1min
-	## Sec 19: Composition API - Replacg Options API | 00/26 | 2hr 23min
+	## S19: Composition API - Replacg Options API | 00/26 | 2hr 23min
 	- [ ] Sec 19: Composition API - Replacg Options API | 00/26 | 2hr 23min
 		- [ ] 278 Module Introduction | 2min
 		- [ ] 279 Which Problem Does The Composition API Solve? | 7min
@@ -484,6 +484,7 @@
 		- [ ] 000 Assignment 12: Time to Practice - Styling
 		- [ ] 358 Module Wrap Up | 1min
 		- [ ] 359 Module Resources & Useful Links | 1min
+	## S25: Using Condls & Rendering Lists [VUE2]
 	- [ ] S25: Using Condls & Rendering Lists [VUE2] 11/14 | 24min
 		- [ ] 360 Module Introduction | 1min
 		- [ ] 361 Conditional Rendering with v-if | 4min
