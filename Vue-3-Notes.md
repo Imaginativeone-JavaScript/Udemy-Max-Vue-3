@@ -663,7 +663,7 @@
 		- [ ] 508 How Mixins get Merged | 3min
 		- [ ] 509 Creating a Global Mixin (Special Case!) | 3min
 		- [ ] 510 Mixins and Scope | 3min
-	  - [ ] 000 Assignment 19: Time to Practice - Filters & Mixins
+	  	- [ ] 000 Assignment 19: Time to Practice - Filters & Mixins
 		- [ ] 511 Time to Practice - Filters and Mixins (Code) | 1min
 		- [ ] 512 Wrap Up | 2min
 		- [ ] 513 Module Resources & Useful Links | 1min
