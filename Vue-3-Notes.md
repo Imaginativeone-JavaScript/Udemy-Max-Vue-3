@@ -384,7 +384,7 @@
 		- [ ] 275 Building the Project For Production | 4min
 		- [ ] 276 Deploying a Vue App | 9min
 		- [ ] 277 Module Resources | 1min
-	## Sec 19: Composition API - Replacg Options API | 00/26 | 2hr 23min
+	## S19: Composition API - Replacg Options API | 00/26 | 2hr 23min
 	- [ ] Sec 19: Composition API - Replacg Options API | 00/26 | 2hr 23min
 		- [ ] 278 Module Introduction | 2min
 		- [ ] 279 Which Problem Does The Composition API Solve? | 7min
@@ -484,6 +484,7 @@
 		- [ ] 000 Assignment 12: Time to Practice - Styling
 		- [ ] 358 Module Wrap Up | 1min
 		- [ ] 359 Module Resources & Useful Links | 1min
+	## S25: Using Condls & Rendering Lists [VUE2]
 	- [ ] S25: Using Condls & Rendering Lists [VUE2] 11/14 | 24min
 		- [ ] 360 Module Introduction | 1min
 		- [ ] 361 Conditional Rendering with v-if | 4min
@@ -662,7 +663,7 @@
 		- [ ] 508 How Mixins get Merged | 3min
 		- [ ] 509 Creating a Global Mixin (Special Case!) | 3min
 		- [ ] 510 Mixins and Scope | 3min
-	  - [ ] 000 Assignment 19: Time to Practice - Filters & Mixins
+	  	- [ ] 000 Assignment 19: Time to Practice - Filters & Mixins
 		- [ ] 511 Time to Practice - Filters and Mixins (Code) | 1min
 		- [ ] 512 Wrap Up | 2min
 		- [ ] 513 Module Resources & Useful Links | 1min
