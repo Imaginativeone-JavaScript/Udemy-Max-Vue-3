@@ -106,18 +106,18 @@
 		- [ ] 036. Module Summary | 4min
 		- [ ] 037. Module Resources | 1min
 	- [ ] Section 03: Rendering Conditional Content & Lists 0/12 | 43min
-		- [ ] 038. Module Introduction | 2min
-		- [ ] 039. Understanding the Problem | 3min
-		- [ ] 040. Rendering Content Conditionally | 5min
-		- [ ] 041. v-if, v-else and v-else-if | 4min
-		- [ ] 042. Using v-show Instead Of v-if | 2min
-		- [ ] 043. Rendering Lists of Data | 6min
-		- [ ] 044. Diving Deeper Into v-for | 5min
-		- [ ] 045. Removing List Items | 4min
-		- [ ] 046. Lists & Keys | 8min
-		- [ ] 000. Assignment 5: Time to Practice: Conditional Content & Lists
-		- [ ] 047. Module Summary | 2min
-		- [ ] 048. Module Resources | 1min
+		- [ ] 038. 03-01 01:35 Module Introduction | 2min
+		- [ ] 039. 03-02 03:16 Understanding the Problem | 3min
+		- [ ] 040. 03-03 05:09 Rendering Content Conditionally | 5min
+		- [ ] 041. 03-04 04:18 v-if, v-else and v-else-if | 4min
+		- [ ] 042. 03-05 02:25 Using v-show Instead Of v-if | 2min
+		- [ ] 043. 03-06 06:20 Rendering Lists of Data | 6min
+		- [ ] 044. 03-07 04:12 Diving Deeper Into v-for | 5min
+		- [ ] 045. 03-08 03:59 Removing List Items | 4min
+		- [ ] 046. 03-09 08:26 Lists & Keys | 8min
+		- [ ] 000. 03-10 00:00 Assignment 5: Time to Practice: Conditional Content & Lists
+		- [ ] 047. 03-11 02:15 Module Summary | 2min
+		- [ ] 048. 03-12 00:00 Module Resources | 1min
 	- [ ] Section 4: Course Project: The Monster Slayer Game 0/9|1hr 2min
 		- [ ] 049. Module Introduction | 1min
 		- [ ] 050. Project Setup & First Methods | 12min
