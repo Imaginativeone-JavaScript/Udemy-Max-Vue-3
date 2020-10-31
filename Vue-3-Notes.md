@@ -151,50 +151,14 @@
 		- [ ] 068 06-01 01:30 Module Introduction | 2min
 		- [ ] 069 06-02 08:39 Understanding the Problem | 9min
 		- [ ] 070 06-03 10:54 Introducing Components | 11min
-		- [ ] 071 06-04 01:00 The Why: Building Complex User Interfaces With Components | 1min
+		- [ ] 071 06-04 01:00 The Why: Bldg Complex UIs w Components | 1min
 		- [ ] 072 06-00 00:57 Multiple Vue Apps vs Multiple Components | 1min
 		- [ ] 073 06-00 00:06 Module Resources | 1min
 	## Sec 07: Moving to Better Dev Setup & Wkflow w Vue CLI
-		- [ ] 000. Assignment 03: Time to Practice: Reactivity
-		- [ ] 032. Dynamic Styling with Inline Styles | 7min
-		- [ ] 033. Adding CSS Classes Dynamically | 7min
-		- [ ] 034. Classes & Computed Properties | 2min
-		- [ ] 035. Dynamic Classes: Array Syntax | 1min
-		- [ ] 000. Assignment 04: Time to Practice: Dynamic Styling
-		- [ ] 036. Module Summary | 4min
-		- [ ] 037. Module Resources | 1min
-	- [ ] Section 4: Course Project: The Monster Slayer Game 0/9|1hr 2min
-		- [ ] 049. Module Introduction | 1min
-		- [ ] 050. Project Setup & First Methods | 12min
-		- [ ] 051. Updating the Health Bars | 7min
-		- [ ] 052. Adding a "Special Attack" | 6min
-		- [ ] 053. Adding a "Heal" Functionality | 5min
-		- [ ] 054. Adding a "Game Over" Screen | 10min
-		- [ ] 055. Finishing the Core Functionality | 6min
-		- [ ] 056. Adding a Battle Log | 14min
-		- [ ] 057. Module Resources | 1min
-	- [ ] Section 5: Vue: Behind the Scenes 0/10|48min
-		- [ ] 058. Module Introduction | 2min
-		- [ ] 059. An Introduction to Vue's Reactivity | 4min
-		- [ ] 060. Vue Reactivity: A Deep Dive | 8min
-		- [ ] 061. One App vs Multiple Apps | 4min
-		- [ ] 062. Understanding Templates | 4min
-		- [ ] 063. Working with Refs | 5min
-		- [ ] 064. How Vue Updates the DOM | 6min
-		- [ ] 065. Vue App Lifecycle - Theory | 5min
-		- [ ] 066. Vue App Lifecycle - Practice | 10min
-		- [ ] 067. Module Resources | 1min
-	- [ ] Section 6: Introducing Components 0/6|23min
-		- [ ] 068. Module Introduction | 2min
-		- [ ] 069. Understanding the Problem | 9min
-		- [ ] 070. Introducing Components | 11min
-		- [ ] 071. The Why: Building Complex User Interfaces With Components | 1min
-		- [ ] 072. Multiple Vue Apps vs Multiple Components | 1min
-		- [ ] 073. Module Resources | 1min
 	- [ ] Sec 07: Moving to Better Dev Setup & Wkflow w Vue CLI 00/14 | 1hr
 		- [ ] 074 07-01 01:35 Module Introduction | 2min
 		- [ ] 075 07-02 03:29 Why We Need A Development Server | 3min
-		- [ ] 076 07-03 05:50 Why We Want A Better Developer Experience | 6min
+		- [ ] 076 07-03 05:50 Why We Want A Better Dev Experience | 6min
 		- [ ] 077 07-04 08:26 Installing & Using the Vue CLI | 8min
 		- [ ] 078 07-05 05:59 Inspecting the Created Project | 6min
 		- [ ] 079 07-06 06:04 Inspecting the Vue Code & ".vue" Files | 6min
@@ -209,21 +173,21 @@
 	## S08: Component Communication
 	- [ ] S08: Component Communication 00/18 | 1hr 33min
 		- [ ] 088 08-01 01:41 Module Introduction | 2min
-		- [ ] 089 08-02 10:03 Introducing "Props" (Parent => Child Communication) | 10min
+		- [ ] 089 08-02 10:03 Introg "Props" (Parent => Child Comm) | 10min
 		- [ ] 090 08-03 06:30 Prop Behavior & Changing Props | 7min
 		- [ ] 091 08-04 07:14 Validating Props | 7min
 		- [ ] 092 08-05 00:09 Supported Prop Values | 1min
 		- [ ] 093 08-06 05:37 Working with Dynamic Prop Values | 6min
-		- [ ] 094 08-07 11:15 Emitting Custom Events (Child => Parent Communication) | 11min
+		- [ ] 094 08-07 11:15 Emittg Cstm Evts (Child => Parent Comm) | 11min
 		- [ ] 095 08-08 04:05 Defining & Validating Custom Events | 4min
-		- [ ] 096 08-09 01:19 Prop/Event Fallthrough & Binding All Props | 1min
-		- [ ] 097 08-10 13:15 Demo: Adding Components & Connecting Them | 13min
-		- [ ] 098 08-11 06:24 Demo: Adding More Component Communication | 6min
-		- [ ] 000 08-12 00:00 Assignment 06: Time to Practice: Props & Custom Events
+		- [ ] 096 08-09 01:19 Prop/Event Fallthru & Binding All Props | 1min
+		- [ ] 097 08-10 13:15 Demo: Adding Comps & Connecting Them | 13min
+		- [ ] 098 08-11 06:24 Demo: Adding More Component Comm | 6min
+		- [ ] 000 08-12 00:00 Asnmt 06: Time to Prac: Props & Custom Events
 		- [ ] 099 08-13 06:26 A Potential Problem | 6min
 		- [ ] 100 08-14 08:16 Provide + Inject To The Rescue | 8min
 		- [ ] 101 08-15 03:59 Provide + Inject for Functions/Methods | 4min
-		- [ ] 102 08-16 02:06 Provide + Inject vs Props & Custom Events | 2min
+		- [ ] 102 08-16 02:06 Provide + Inject vs Props & Custom Evts | 2min
 		- [ ] 103 08-17 04:44 Module Summary | 5min
 		- [ ] 104 08-18 00:06 Module Resources | 1min
 	## S09: Diving Deeper Into Components
@@ -254,7 +218,7 @@
 		- [ ] 126 10-04 07:19 Styling and More Components | 7min
 		- [ ] 127 10-05 07:00 Header & BaseCard Components | 7min
 		- [ ] 128 10-06 05:19 Adding a Base Button | 5min
-		- [ ] 129 10-07 08:37 Dynamic Components & Attribute Fallthrough | 9min
+		- [ ] 129 10-07 08:37 Dynamic Components & Attr Fallthrough | 9min
 		- [ ] 130 10-08 04:58 Adding & Styling Tabs | 5min
 		- [ ] 131 10-09 04:12 Adding a Form | 4min
 		- [ ] 132 10-10 08:27 Fetching User Input | 8min
@@ -374,7 +338,7 @@
 		- [ ] 234 Wiring Up Pages | 5min
 		- [ ] 235 Adding Vuex and Coach Data | 12min
 		- [ ] 236 Working on the Coaches List and List Items | 11min
-		- [ ] 237 Adding a Couple of Base Components (Base Card, Base Button, Base Badge) | 13min
+		- [ ] 237 Addg Base Comps (Base Card, Base Btn, Base Badge) | 13min
 		- [ ] 238 Building the Coach Detail Component | 8min
 		- [ ] 239 Filtering Coaches | 11min
 		- [ ] 240 Registering as a Coach: The Form | 10min
@@ -444,7 +408,7 @@
 		- [ ] 290 Emitting Custom Events | 3min
 		- [ ] 291 Working with Provide/ Inject | 4min
 		- [ ] 292 Lifecycle Hooks in the Composition API | 5min
-		- [ ] 293 Migrating from Options API to Composition API - An Example Project 2min
+		- [ ] 293 Migrating f Options API 2 Composition API - An Ex Proj 2min
 		- [ ] 294 Migrating a First Component | 7min
 		- [ ] 295 Migrating a Big Component | 13min
 		- [ ] 296 Migrating the Remaining Components | 12min
@@ -453,8 +417,8 @@
 		- [ ] 299 Using Vuex with the Composition API | 5min
 		- [ ] 300 Summary | 3min
 		- [ ] 301 Module Resources | 1min
-	## S20: Reusing Functionality: Mixins & Custom Composition Fns | 00/14 | 1hr 3min
-	- [ ] S20: Reusing Functionality: Mixins & Custom Composition Functions | 00/14 | 1hr 3min
+	## S20: Reusing Fnality: Mixins & Custom Cmposn Fns | 00/14 | 1hr 3min
+	- [ ] S20: Reusing Fnality: Mxns & Cstm Cmposn Funcs | 00/14 | 1hr 3min
 		- [ ] 302 Module Introduction | 1min
 		- [ ] 303 Reusability Concepts | 5min
 		- [ ] 304 Using Mixins | 5min
@@ -577,8 +541,8 @@
 		- [ ] 402 The VueJS Instance Lifecycle in Practice | 6min
 		- [ ] 403 Module Wrap Up | 1min
 		- [ ] 404 Module Resources & Useful Links | 1min
-	## S28: Moving to a "Real" Dev Workflow with Webpack & Vue CLI v2 12/12 | 30min
-	- [ ] S28: Moving to a "Real" Development Workflow with Webpack & Vue CLI v2 12/12 | 30min
+	## S28: Moving to "Real" Dev Wkflw w Webpack & Vue CLI v2 12/12 | 30min
+	- [ ] S28: Mvg to "Real" Dev Wkflw w Webpack & Vue CLI v2 12/12 | 30min
 		- [ ] 405 Module Introduction | 2min
 		- [ ] 406 Why do we need a Development Server? | 3min
 		- [ ] 407 What does "Development Workflow" mean? | 4min
@@ -646,7 +610,7 @@
 		- [ ] 460 Wrap Up | 1min
 		- [ ] 461 Module Resources & Helpful Links | 1min
 	## S32: Second Course Project - Wonderful Quotes [VUE2] 00/12 | 29min
-	- [ ] S32: Second Course Project - Wonderful Quotes [VUE2] 00/12 | 29min
+	- [ ] S32: Second Course Proj - Wonderful Quotes [VUE2] 00/12 | 29min
 		- [ ] 462 Module Introduction | 2min
 		- [ ] 463 Setting up the Project | 1min
 		- [ ] 464 Initializing the Application | 1min
@@ -693,12 +657,12 @@
 		- [ ] 499 Time to Practice - Directives (Code) | 1min
 		- [ ] 500 Wrap Up | 1min
 		- [ ] 501 Module Resources & Useful Links | 1min
-	## S35: Improving your App with Filters and Mixins [VUE2]| 00/13 | 28min
-	- [ ] S35: Improving your App with Filters and Mixins [VUE2]| 0 / 13|28min
+	## S35: Improving your App with Filters & Mixins [VUE2] | 00/13 | 28min
+	- [ ] S35: Imprvg your App with Filters & Mixins [VUE2] | 00/13 | 28min
 		- [ ] 502 Module Introduction | 1min
 		- [ ] 503 Creating a Local Filter | 5min
 		- [ ] 504 Global Filters and How to Chain Multiple Filters | 2min
-		- [ ] 505 An (often-times better) Alt to Filters: Computed Properties | 5min
+		- [ ] 505 An (often-better) Alt to Filters: Computed Props | 5min
 		- [ ] 506 Understanding Mixins | 2min
 		- [ ] 507 Creating and Using Mixins | 2min
 		- [ ] 508 How Mixins get Merged | 3min
@@ -740,7 +704,7 @@
 		- [ ] 540 Module Resources & Useful Links | 1min
 		- [ ] 541 The Animated "Monster Slayer" App | 1min
 	## S37: Connecting to Servers via Http - Using vue-resource [VUE2]| 00/15 | 48min
-	- [ ] S37: Connecting to Servers via Http - Using vue-resource [VUE2]| 0 / 15|48min
+	- [ ] S37: Connct'g 2 Srvrs v Http, Usg vue-resource [V2] 00/15 48min
 		- [ ] 542 Module Introduction | 2min
 		- [ ] 543 Accessing Http via vue-resource - Setup | 4min
 		- [ ] 544 Firebase & The Right Database | 1min
@@ -812,7 +776,7 @@
 		- [ ] 606 Wrap Up | 1min
 		- [ ] 607 Module Resources & Useful Links | 1min
 	## Sec 40: Final Project - The Stock Trader [VUE2]| 00/26 | 1hr 44min
-	- [ ] Sec 40: Final Project - The Stock Trader [VUE2]| 00/26 | 1hr 44min
+	- [ ] Sec 40: Final Proj - The Stock Trader [VUE2]| 00/26 | 1hr 44min
 		- [ ] 608 Project Introduction | 3min
 		- [ ] 609 Project Setup and Planning | 3min
 		- [ ] 610 Creating the First Components | 3min
