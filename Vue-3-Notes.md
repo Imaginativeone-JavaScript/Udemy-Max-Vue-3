@@ -108,10 +108,11 @@
 	- [ ] S03: Rendering Conditional Content & Lists 12 00:43:00
 		- [ ] 038 03-01 01:35 Module Introduction | 2min
 			- Rendering Content with Conditions
-			- Outputting Lists of Data
-			- A First Look Behind the Scenes
-			- This is a change
+				- Outputting Lists of Data
+				- A First Look Behind the Scenes
+				- This is a change
 		- [ ] 039 03-02 03:16 Understanding the Problem | 3min
+		  - A
 		- [ ] 040 03-03 05:09 Rendering Content Conditionally | 5min
 		- [ ] 041 03-04 04:18 v-if, v-else and v-else-if | 4min
 		- [ ] 042 03-05 02:25 Using v-show Instead Of v-if | 2min
