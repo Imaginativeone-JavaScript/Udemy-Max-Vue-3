@@ -107,6 +107,10 @@
 	## S03: Rendering Conditional Content & Lists
 	- [ ] S03: Rendering Conditional Content & Lists 12 00:43:00
 		- [ ] 038 03-01 01:35 Module Introduction | 2min
+		  - Rendering Content with Conditions
+				- Outputting Lists of Data
+				- A First Look Behind the Scenes
+				- This is a change
 		- [ ] 039 03-02 03:16 Understanding the Problem | 3min
 		- [ ] 040 03-03 05:09 Rendering Content Conditionally | 5min
 		- [ ] 041 03-04 04:18 v-if, v-else and v-else-if | 4min
@@ -150,6 +154,42 @@
 		- [ ] 072 06-00 00:57 Multiple Vue Apps vs Multiple Components | 1min
 		- [ ] 073 06-00 00:06 Module Resources | 1min
 	## Sec 07: Moving to Better Dev Setup & Wkflow w Vue CLI
+		- [ ] 000. Assignment 03: Time to Practice: Reactivity
+		- [ ] 032. Dynamic Styling with Inline Styles | 7min
+		- [ ] 033. Adding CSS Classes Dynamically | 7min
+		- [ ] 034. Classes & Computed Properties | 2min
+		- [ ] 035. Dynamic Classes: Array Syntax | 1min
+		- [ ] 000. Assignment 04: Time to Practice: Dynamic Styling
+		- [ ] 036. Module Summary | 4min
+		- [ ] 037. Module Resources | 1min
+	- [ ] Section 4: Course Project: The Monster Slayer Game 0/9|1hr 2min
+		- [ ] 049. Module Introduction | 1min
+		- [ ] 050. Project Setup & First Methods | 12min
+		- [ ] 051. Updating the Health Bars | 7min
+		- [ ] 052. Adding a "Special Attack" | 6min
+		- [ ] 053. Adding a "Heal" Functionality | 5min
+		- [ ] 054. Adding a "Game Over" Screen | 10min
+		- [ ] 055. Finishing the Core Functionality | 6min
+		- [ ] 056. Adding a Battle Log | 14min
+		- [ ] 057. Module Resources | 1min
+	- [ ] Section 5: Vue: Behind the Scenes 0/10|48min
+		- [ ] 058. Module Introduction | 2min
+		- [ ] 059. An Introduction to Vue's Reactivity | 4min
+		- [ ] 060. Vue Reactivity: A Deep Dive | 8min
+		- [ ] 061. One App vs Multiple Apps | 4min
+		- [ ] 062. Understanding Templates | 4min
+		- [ ] 063. Working with Refs | 5min
+		- [ ] 064. How Vue Updates the DOM | 6min
+		- [ ] 065. Vue App Lifecycle - Theory | 5min
+		- [ ] 066. Vue App Lifecycle - Practice | 10min
+		- [ ] 067. Module Resources | 1min
+	- [ ] Section 6: Introducing Components 0/6|23min
+		- [ ] 068. Module Introduction | 2min
+		- [ ] 069. Understanding the Problem | 9min
+		- [ ] 070. Introducing Components | 11min
+		- [ ] 071. The Why: Building Complex User Interfaces With Components | 1min
+		- [ ] 072. Multiple Vue Apps vs Multiple Components | 1min
+		- [ ] 073. Module Resources | 1min
 	- [ ] Sec 07: Moving to Better Dev Setup & Wkflow w Vue CLI 00/14 | 1hr
 		- [ ] 074 07-01 01:35 Module Introduction | 2min
 		- [ ] 075 07-02 03:29 Why We Need A Development Server | 3min
