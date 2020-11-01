@@ -1,4 +1,6 @@
 # Vue - The Complete Guide (with Router, Vuex, Composition API)
+## Coming Up: Props (8-2)
+
 - [ ] Vue - The Complete Guide (with Router, Vuex, Composition API)
 	## S01 01/44: Getting Started
 	- [ ] S01: Getting Started 0/11 | 43min 10/10/20
@@ -845,3 +847,6 @@
 	## S44: More Content
 	- [ ] S44: More Content 00/01 | 1min
 		- [ ] 668 Bonus: More Content! 1min
+	
+	## Covered
+	App Instances, Interpolation, Data Binding, Binding Attributes with the v-bind Directive, Understanding "methods" (016 2-5), Working with Data, Outputting Raw HTML Content, Events & Methods (021), Event Arguments, Event Modifiers, v-once (025), v-model (026), Advanced Reactivity (027 02-18), Computed Properties (028), Watchers, Methods vs Computed Properties vs Watchers, ":" (v-bind:element="function") and "@" (v-on:click="listener-function")
