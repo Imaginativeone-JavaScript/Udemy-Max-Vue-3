@@ -1,0 +1,28 @@
+git branch | grep '^V[0-9][0-9][0-9]\-.*$' | xargs git branch -d
+
+git branch -d `git branch | grep '^V[0-9][0-9][0-9]\-.*$'`
+
+  Section-02-Basics-and-Core-Concepts
+* Section-0344-Rendering-Conditional-Content-and-Lists-t004300
+  V013-Creating-and-Connecting-Vue-App-Instances
+  V014-02-03-Interpolation-and-Data-Binding
+  V015-02-04-Binding-Attributes-with-the-v-bind-Directive
+  V016-02-05-Understanding-methods-in-Vue-Apps
+  V017-02-06-Working-with-Data-Inside-of-a-Vue-App
+  V018-02-07-Raw-HTML-v-html-t0331
+  V019-02-08-A-First-Summary-t0412
+  V020-02-09-Assignment-01-Data-Binding
+  V020-02-10-Understanding-Event-Binding
+  V021316-02-11-37-Events-and-Methods-t0612
+  V022316-02-12-37-Working-with-Event-Arguments-t0259
+  V023316-02-13-37-Using-the-Native-Event-Object-t0859
+  V024316-02-14-37-Exploring-Event-Modifiers-t0953
+  V025316-02-15-37-Locking-Content-with-v-once-t0208
+  V026316-02-17-37-Data-Binding-Plus-Event-Binding-Equals-Two-Way-Binding-t0632
+  V027316-02-18-37-Methods-Used-for-Data-Binding-How-It-Works-t0646
+  V028316-02-19-37-Introducing-Computed-Properties-t0558
+  V029316-02-20-37-Working-with-Watchers-t1049
+  V030316-02-21-37-Methods-vs-Computed-Properties-vs-Watchers-t0227
+  V031316-02-22-37-v-bind-and-v-on-Shorthands-t0153
+  VNNNTTT-SS-NN-ST-Topic-tMMSS
+  main
