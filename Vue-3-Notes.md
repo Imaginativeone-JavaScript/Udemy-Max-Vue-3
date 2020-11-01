@@ -55,8 +55,8 @@
 	## S02: Basics & Core Concepts - DOM Interaction w Vue
 	- [x] S02: Basics & Core Concepts - DOM Interaction with Vue 0/30 | 2hr 9min
 		- [x] 012 02-01 Module Introduction | 1min
-		- [x] 013 02-02 Creating and Connecting Vue App Instances | 9min
-		- [x] 014 02-03 Interpolation and Data Binding | 4min
+		- [x] 013 02-02 Creating and Connecting **Vue App Instances** | 9min
+		- [x] 014 02-03 **Interpolation** and **Data Binding** | 4min
 		- [x] 015 02-04 Binding Attributes with the "v-bind" Directive | 6min
 		- [x] 016 02-05 Understanding "methods" in Vue Apps | 6min
 		- [x] 017 02-06 Working with Data inside of a Vue App | 3min
@@ -69,13 +69,13 @@
 		```html
 		<button v-on:click="counter++">Add</button>
 		```
-		- [x] 021 Events & Methods | 6min
-		- [x] 022 Working with Event Arguments | 3min
+		- [x] 021 **Events & Methods** | 6min
+		- [x] 022 Working with **Event Arguments** | 3min
 		- [x] 023 Using the Native Event Object | 9min
 		- [x] 024 Exploring Event Modifiers | 10min
-		- [x] 025 Locking Content with v-once | 2min
+		- [x] 025 Locking Content with **v-once** | 2min
 		- [x] 000 Assignment 2: Time to Practice: Event Binding
-		- [x] 026 Data Binding + Event Binding = Two-Way Binding | 7min
+		- [x] 026 **Data Binding + Event Binding = Two-Way Binding** | Extremely Important!! | 7min
 		- [x] 027 02-18 Methods used for Data Binding: How It Works | 7min
 		  - Advanced Reactivity
 		- [x] 028 Introducing Computed Properties | 6min
@@ -178,12 +178,12 @@
 	## S08: Component Communication
 	- [ ] S08: Component Communication 00/18 | 1hr 33min
 		- [ ] 088 08-01 01:41 Module Introduction | 2min
-		- [ ] 089 08-02 10:03 Introg "Props" (Parent => Child Comm) | 10min
+		- [ ] 089 08-02 10:03 Introg "Props" (Parent => Child Comm) | Extremely Important | 10min
 		- [ ] 090 08-03 06:30 Prop Behavior & Changing Props | 7min
 		- [ ] 091 08-04 07:14 Validating Props | 7min
 		- [ ] 092 08-05 00:09 Supported Prop Values | 1min
 		- [ ] 093 08-06 05:37 Working with Dynamic Prop Values | 6min
-		- [ ] 094 08-07 11:15 Emittg Cstm Evts (Child => Parent Comm) | 11min
+		- [ ] 094 08-07 11:15 Emitting Custom Events (Child => Parent Communication) | Extremely Important | 11min
 		- [ ] 095 08-08 04:05 Defining & Validating Custom Events | 4min
 		- [ ] 096 08-09 01:19 Prop/Event Fallthru & Binding All Props | 1min
 		- [ ] 097 08-10 13:15 Demo: Adding Comps & Connecting Them | 13min
