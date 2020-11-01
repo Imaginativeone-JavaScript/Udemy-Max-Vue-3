@@ -1,5 +1,9 @@
 # Vue - The Complete Guide (with Router, Vuex, Composition API)
-## Coming Up: Props (8-2)
+## Coming Up
+### Props (8-2), Parent to Child
+### Emitting (8-7) Child to Parent
+### *.vue Files (7-6), (7-7), (7-8)
+### vue-cdn-example Convert to Vue3/vue@next
 
 - [ ] Vue - The Complete Guide (with Router, Vuex, Composition API)
 	## S01 01/44: Getting Started
