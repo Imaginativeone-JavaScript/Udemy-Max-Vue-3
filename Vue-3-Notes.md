@@ -110,7 +110,6 @@
 			- Rendering Content with Conditions
 				- Outputting Lists of Data
 				- A First Look Behind the Scenes
-				- This is a change
 		- [ ] 039 03-02 03:16 Understanding the Problem | 3min
 		  - A
 		- [ ] 040 03-03 05:09 Rendering Content Conditionally | 5min
