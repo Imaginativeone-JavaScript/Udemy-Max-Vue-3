@@ -11,6 +11,9 @@ const app = Vue.createApp({
       this.goals.push(this.enteredGoalValue);
       this.logGoals();
     },
+    removeGoal() {
+      console.log('Attempted to remove goal');
+    },
     logGoals() {
       console.log(this.goals);
     }
