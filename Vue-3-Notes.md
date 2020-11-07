@@ -111,25 +111,25 @@
 		- [ ] 036 Module Summary | 4min
 		- [ ] 037 Module Resources | 1min
 	## S03: Rendering Conditional Content & Lists
-	- [ ] S03: Rendering Conditional Content & Lists 12 00:43:00
-		- [ ] 038 03-01 01:35 Module Introduction | 2min
+	- [x] S03: Rendering Conditional Content & Lists 12 00:43:00
+		- [x] 038 03-01 01:35 Module Introduction | 2min
 			- Rendering Content with Conditions
 				- Outputting Lists of Data
 				- A First Look Behind the Scenes
-		- [ ] 039 03-02 03:16 Understanding the Problem | 3min
+		- [x] 039 03-02 03:16 Understanding the Problem | 3min
 		  - Work on Memorizing Topics
-		- [ ] 040 03-03 05:09 Rendering Content Conditionally | 5min
+		- [x] 040 03-03 05:09 Rendering Content Conditionally | 5min
 			- Show Goals Array OR Show paragraph about no Goals
 			- v-if Directive
-		- [ ] 041 03-04 04:18 v-if, v-else and v-else-if | 4min
-		- [ ] 042 03-05 02:25 Using v-show Instead Of v-if | 2min
-		- [ ] 043 03-06 06:20 Rendering Lists of Data | 6min
-		- [ ] 044 03-07 05:12 Diving Deeper Into v-for | 5min
-		- [ ] 045 03-08 03:59 Removing List Items | 4min
-		- [ ] 046 03-09 08:26 Lists & Keys | 8min
-		- [ ] 000 03-00 00:00 Assgnmt 5: Practice: Condl Content & Lists
-		- [ ] 047 03-11 02:15 Module Summary | 2min
-		- [ ] 048 03-00 00:06 Module Resources | 1min
+		- [x] 041 03-04 04:18 v-if, v-else and v-else-if | 4min
+		- [x] 042 03-05 02:25 Using v-show Instead Of v-if | 2min
+		- [x] 043 03-06 06:20 Rendering Lists of Data | 6min
+		- [x] 044 03-07 05:12 Diving Deeper Into v-for | 5min
+		- [x] 045 03-08 03:59 Removing List Items | 4min
+		- [x] 046 03-09 08:26 Lists & Keys | 8min
+		- [x] 000 03-00 00:00 Assgnmt 5: Practice: Condl Content & Lists
+		- [x] 047 03-11 02:15 Module Summary | 2min
+		- [x] 048 03-00 00:06 Module Resources | 1min
 	## S04: Course Project: The Monster Slayer Game
 	- [ ] S04: Course Project: The Monster Slayer Game 00/09 | 1hr 2min
 		- [ ] 049 04-01 01:18 Module Introduction | 1min
@@ -142,7 +142,7 @@
 		- [ ] 056 04-08 14:11 Adding a Battle Log | 14min
 		- [ ] 057 04-09 00:06 Module Resources | 1min
 	## S05: Vue: Behind the Scenes
-	- [ ] S05: Vue: Behind the Scenes 00/10 | 48min
+	- [x] S05: Vue: Behind the Scenes 00/10 | 48min
 		- [ ] 058 05-01 01:31 Module Introduction | 2min
 		- [ ] 059 05-02 04:26 An Introduction to Vue's Reactivity | 4min
 		- [ ] 060 05-03 08:10 Vue Reactivity: A Deep Dive | 8min
