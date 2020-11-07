@@ -117,7 +117,7 @@
 				- Outputting Lists of Data
 				- A First Look Behind the Scenes
 		- [ ] 039 03-02 03:16 Understanding the Problem | 3min
-		  - A
+		  - Work on Memorizing Topics
 		- [ ] 040 03-03 05:09 Rendering Content Conditionally | 5min
 		- [ ] 041 03-04 04:18 v-if, v-else and v-else-if | 4min
 		- [ ] 042 03-05 02:25 Using v-show Instead Of v-if | 2min
