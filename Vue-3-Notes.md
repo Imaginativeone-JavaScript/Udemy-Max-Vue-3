@@ -143,8 +143,10 @@
 		- [ ] 057 04-09 00:06 Module Resources | 1min
 	## S05: Vue: Behind the Scenes
 	- [x] S05: Vue: Behind the Scenes 00/10 | 48min
-		- [ ] 058 05-01 01:31 Module Introduction | 2min
-		- [ ] 059 05-02 04:26 An Introduction to Vue's Reactivity | 4min
+		- [x] 058 05-01 01:31 Module Introduction | 2min
+		- [x] 059 05-02 04:26 An Introduction to Vue's Reactivity | 4min
+		  - Vue turns my data object into a Reactive Data Object by essentially wrapping my properties into a JavaScript feature called 'Proxies'.
+			- Vue is notified whenever I assign a new value to my data property(ies).
 		- [ ] 060 05-03 08:10 Vue Reactivity: A Deep Dive | 8min
 		- [ ] 061 05-04 03:53 One App vs Multiple Apps | 4min
 		- [ ] 062 05-05 03:56 Understanding Templates | 4min
