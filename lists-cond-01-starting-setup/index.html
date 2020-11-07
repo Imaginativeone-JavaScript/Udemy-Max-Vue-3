@@ -24,6 +24,9 @@
       <ul v-if="goals.length > 0">
         <li v-for="(goal, index) in goals">{{ goal }} - {{ index }}</li>
       </ul>
+      <ul>
+        <li v-for=" value in { name: 'Max', age: 31 }">{{ value }}</li>
+      </ul>
     </section>
   </body>
 </html>
