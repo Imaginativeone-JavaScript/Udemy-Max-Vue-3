@@ -11,7 +11,8 @@ const app = Vue.createApp({
       this.goals.push(this.enteredGoalValue);
       this.logGoals();
     },
-    removeGoal() {
+    removeGoal(idx) {
+      this.goals.splice(idx, 1);
       console.log('Attempted to remove goal');
     },
     logGoals() {
