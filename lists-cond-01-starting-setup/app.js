@@ -3,12 +3,16 @@ const app = Vue.createApp({
     // Thanks to v-if, the <p> is GONE, <!-- v-if placeholder -->
     return { 
       enteredGoalValue: '',
-      goals: [] 
+      goals: []
     };
   },
   methods: {
     addGoal() {
       this.goals.push(this.enteredGoalValue);
+      this.logGoals();
+    },
+    logGoals() {
+      console.log(this.goals);
     }
   }
 });
