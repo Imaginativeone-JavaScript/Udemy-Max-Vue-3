@@ -189,7 +189,25 @@
 			```
 
 		- [ ] 063 05-06 05:21 Working with Refs | 5min
+
+		```html
+		<input type="text" ref="userText">
+		```
+
+		```javascript
+		methods: {
+			...
+			setText() {
+				...
+				this.message = this.$refs.userText.value;
+				...
+			},
+		},
+		```
+
 		- [ ] 064 05-07 06:26 How Vue Updates the DOM | 6min
+		  - The Virtual DOM
+			- Optimized Diffs are sent to the Real DOM
 		- [ ] 065 05-08 04:46 Vue App Lifecycle - Theory | 5min
 		- [ ] 066 05-09 09:48 Vue App Lifecycle - Practice | 10min
 		- [ ] 067 05-00 00:06 Module Resources | 1min
