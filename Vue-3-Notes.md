@@ -147,7 +147,29 @@
 		- [x] 059 05-02 04:26 An Introduction to Vue's Reactivity | 4min
 		  - Vue turns my data object into a Reactive Data Object by essentially wrapping my properties into a JavaScript feature called 'Proxies'.
 			- Vue is notified whenever I assign a new value to my data property(ies).
-		- [ ] 060 05-03 08:10 Vue Reactivity: A Deep Dive | 8min
+		- [ ] 060 05-03 08:10 Vue Reactivity: A Deep Dive | 
+		  - A deeper exploration of Proxies
+			- https://board.academind.com/
+			- JavaScript, by default, is NOT Reactive
+			- Proxies
+
+			```javascript
+			const data = {
+				message: 'Hello!'
+			}
+
+			const handler = {
+				set(target, key, value) {} // This is a SET TRAP
+				console.log(target);
+				console.log(key);
+				console.log(value);
+			};
+
+			const proxy = new Proxy(data, handler);
+
+			proxy.message = 'Hello!!!!';
+			```
+
 		- [ ] 061 05-04 03:53 One App vs Multiple Apps | 4min
 		- [ ] 062 05-05 03:56 Understanding Templates | 4min
 		- [ ] 063 05-06 05:21 Working with Refs | 5min
