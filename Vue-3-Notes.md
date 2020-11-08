@@ -173,6 +173,21 @@
 		- [ ] 061 05-04 03:53 One App vs Multiple Apps | 4min
 		  - I can set up an entirely different app on the same page.
 		- [ ] 062 05-05 03:56 Understanding Templates | 4min
+			- template option to my app configuration object
+
+			```javascript
+			const app2 = Vue.createApp({
+				template: `<p>{{ favoriteMeal }}</p>`,
+				data() {
+					return {
+						favoriteMeal: 'Pizza'
+					}
+				}
+			});
+
+			// Still need to mount this app
+			```
+
 		- [ ] 063 05-06 05:21 Working with Refs | 5min
 		- [ ] 064 05-07 06:26 How Vue Updates the DOM | 6min
 		- [ ] 065 05-08 04:46 Vue App Lifecycle - Theory | 5min
