@@ -1,5 +1,7 @@
 # Standard Operating Procedure for Making a Vue App
 
+- Use JavaScript import and export for multi-file apps
+
 ## Create the global Vue Instance
 - Vue Instance
 
