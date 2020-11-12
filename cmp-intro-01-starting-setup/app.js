@@ -30,7 +30,7 @@ app.component('friend-contact', {
   data() {
     return { 
       detailsAreVisible: false,
-      friend:         {
+      friend: {
         id: 'manuel',
         name: 'Manuel Lorenz',
         phone: '(410) 123-4567',

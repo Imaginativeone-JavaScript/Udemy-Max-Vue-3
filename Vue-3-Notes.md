@@ -243,6 +243,7 @@
 	## Sec 07: Moving to Better Dev Setup & Wkflow w Vue CLI
 	- [ ] Sec 07: Moving to Better Dev Setup & Wkflow w Vue CLI 00/14 | 1hr
 		- [ ] 074 07-01 01:35 Module Introduction | 2min
+		  - I want to build bigger Vue apps - AT SCALE.
 		- [ ] 075 07-02 03:29 Why We Need A Development Server | 3min
 		- [ ] 076 07-03 05:50 Why We Want A Better Dev Experience | 6min
 		- [ ] 077 07-04 08:26 Installing & Using the Vue CLI | 8min
