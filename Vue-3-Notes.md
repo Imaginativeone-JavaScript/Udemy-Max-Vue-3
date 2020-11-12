@@ -232,9 +232,11 @@
 		- [ ] 067 05-00 00:06 Module Resources | 1min
 	## S06: Introducing Components
 	- [ ] S06: Introducing Components 00/06 | 23min
-		- [ ] 068 06-01 01:30 Module Introduction | 2min
-		- [ ] 069 06-02 08:39 Understanding the Problem | 9min
+		- [ ] 068 06-01 01:30 Module Introduction | 01:30
+		  - Multi-app example is useful here
+		- [ ] 069 06-02 08:39 Understanding the Problem | 08:39
 		- [ ] 070 06-03 10:54 Introducing Components | 11min
+		  - A Vue Component is just "an app that belongs to another app".
 		- [ ] 071 06-04 01:00 The Why: Bldg Complex UIs w Components | 1min
 		- [ ] 072 06-00 00:57 Multiple Vue Apps vs Multiple Components | 1min
 		- [ ] 073 06-00 00:06 Module Resources | 1min
