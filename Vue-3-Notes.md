@@ -233,6 +233,7 @@
 	## S06: Introducing Components
 	- [ ] S06: Introducing Components 00/06 | 23min
 		- [ ] 068 06-01 01:30 Module Introduction | 2min
+		  - Multi-app example is useful here
 		- [ ] 069 06-02 08:39 Understanding the Problem | 9min
 		- [ ] 070 06-03 10:54 Introducing Components | 11min
 		- [ ] 071 06-04 01:00 The Why: Bldg Complex UIs w Components | 1min
