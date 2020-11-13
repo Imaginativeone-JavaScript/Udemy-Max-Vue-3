@@ -246,6 +246,7 @@
 		  - I want to build bigger Vue apps - AT SCALE.
 		- [ ] 075 07-02 03:29 Why We Need A Development Server | 3min
 		- [ ] 076 07-03 05:50 Why We Want A Better Dev Experience | 6min
+		  - 
 		- [ ] 077 07-04 08:26 Installing & Using the Vue CLI | 8min
 		- [ ] 078 07-05 05:59 Inspecting the Created Project | 6min
 		- [ ] 079 07-06 06:04 Inspecting the Vue Code & ".vue" Files | 6min
@@ -265,7 +266,7 @@
 		- [ ] 091 08-04 07:14 Validating Props | 7min
 		- [ ] 092 08-05 00:09 Supported Prop Values | 1min
 		- [ ] 093 08-06 05:37 Working with Dynamic Prop Values | 6min
-		- [ ] 094 08-07 11:15 Emitting Custom Events (Child => Parent Communication) | Extremely Important | 11min
+		- [ ] 094 08-07 11:15 Emitting Custom Events (Child => Parent Communication) | 11min ****
 		- [ ] 095 08-08 04:05 Defining & Validating Custom Events | 4min
 		- [ ] 096 08-09 01:19 Prop/Event Fallthru & Binding All Props | 1min
 		- [ ] 097 08-10 13:15 Demo: Adding Comps & Connecting Them | 13min
