@@ -242,17 +242,45 @@
 		- [ ] 073 06-00 00:06 Module Resources | 1min
 	## Sec 07: Moving to Better Dev Setup & Wkflow w Vue CLI
 	- [ ] Sec 07: Moving to Better Dev Setup & Wkflow w Vue CLI 00/14 | 1hr
-		- [ ] 074 07-01 01:35 Module Introduction | 2min
+		- [x] 074 07-01 01:35 Module Introduction | 2min
 		  - I want to build bigger Vue apps - AT SCALE.
-		- [ ] 075 07-02 03:29 Why We Need A Development Server | 3min
-		- [ ] 076 07-03 05:50 Why We Want A Better Dev Experience | 6min
-		- [ ] 077 07-04 08:26 Installing & Using the Vue CLI | 8min
+		- [x] 075 07-02 03:29 Why We Need A Development Server | 3min
+		- [x] 076 07-03 05:50 Why We Want A Better Dev Experience | 6min
+		- [x] 077 07-04 08:26 Installing & Using the Vue CLI | 8min
 		  - NodeJS
 			- npm (Node Package Manager)
-			
-		- [ ] 078 07-05 05:59 Inspecting the Created Project | 6min
-		- [ ] 079 07-06 06:04 Inspecting the Vue Code & ".vue" Files | 6min
-		- [ ] 080 07-07 01:15 Adding the "Vetur" Extension to VS Code | 1min
+
+			```javascript
+			npm install -g @vue/cli
+			```
+
+			```javascript
+			vue create vue-first-app
+			```
+		- [x] 078 07-05 05:59 Inspecting the Created Project | 6min
+		  - public folder
+			  - index.html file
+				- id="app"
+		- [x] 079 07-06 06:04 Inspecting the Vue Code & ".vue" Files | 06:04
+		  - src folder
+			- main.js
+
+			```javascript
+			import { createApp } from 'vue'
+			import App from '.App.vue'
+
+			createApp(App).mount('#app') // see public folder index.html
+			```
+			.vue files allow us to write Vue Components in a much nicer way
+			- Three Sections
+			- tags
+				- template
+				- script
+				- style
+			- Using a "Build Workflow"
+
+		- [x] 080 07-07 01:15 Adding the "Vetur" Extension to VS Code | 1min
+		  - Autocompletion
 		- [ ] 081 07-08 01:40 More on ".vue" Files | 2min
 		- [ ] 082 07-09 05:05 A New Vue Project | 5min
 		- [ ] 083 07-10 09:32 Creating a Basic Vue App | 10min
