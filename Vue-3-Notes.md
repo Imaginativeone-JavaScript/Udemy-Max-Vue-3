@@ -281,8 +281,9 @@
 
 		- [x] 080 07-07 01:15 Adding the "Vetur" Extension to VS Code | 1min
 		  - Autocompletion
-		- [ ] 081 07-08 01:40 More on ".vue" Files | 2min
-		- [ ] 082 07-09 05:05 A New Vue Project | 5min
+		- [x] 081 07-08 01:40 More on ".vue" Files | 2min
+		- [x] 082 07-09 05:05 A New Vue Project | 5min
+		  - npm install
 		- [ ] 083 07-10 09:32 Creating a Basic Vue App | 10min
 		- [ ] 084 07-11 08:14 Adding a Component | 8min
 		- [ ] 085 07-12 02:16 Adding Styling | 2min
