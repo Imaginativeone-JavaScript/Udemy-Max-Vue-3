@@ -147,7 +147,7 @@
 		- [x] 059 05-02 04:26 An Introduction to Vue's Reactivity | 4min
 		  - Vue turns my data object into a Reactive Data Object by essentially wrapping my properties into a JavaScript feature called 'Proxies'.
 			- Vue is notified whenever I assign a new value to my data property(ies).
-		- [ ] 060 05-03 08:10 Vue Reactivity: A Deep Dive | 
+		- [x] 060 05-03 08:10 Vue Reactivity: A Deep Dive | 
 		  - A deeper exploration of Proxies
 			- https://board.academind.com/
 			- JavaScript, by default, is NOT Reactive
@@ -170,9 +170,9 @@
 			proxy.message = 'Hello!!!!';
 			```
 
-		- [ ] 061 05-04 03:53 One App vs Multiple Apps | 4min
+		- [x] 061 05-04 03:53 One App vs Multiple Apps | 4min
 		  - I can set up an entirely different app on the same page.
-		- [ ] 062 05-05 03:56 Understanding Templates | 4min
+		- [x] 062 05-05 03:56 Understanding Templates | 4min
 			- template option to my app configuration object
 
 			```javascript
@@ -188,7 +188,7 @@
 			// Still need to mount this app
 			```
 
-		- [ ] 063 05-06 05:21 Working with Refs | 5min
+		- [x] 063 05-06 05:21 Working with Refs | 5min
 
 		```html
 		<input type="text" ref="userText">
@@ -205,10 +205,10 @@
 		},
 		```
 
-		- [ ] 064 05-07 06:26 How Vue Updates the DOM | 6min
+		- [x] 064 05-07 06:26 How Vue Updates the DOM | 6min
 		  - The Virtual DOM
 			- Optimized Diffs are sent to the Real DOM
-		- [ ] 065 05-08 04:46 Vue App Lifecycle - Theory | 5min
+		- [x] 065 05-08 04:46 Vue App Lifecycle - Theory | 5min
 		  - Lifecycle Hooks
 			- createApp({...})
 			- beforeCreate()
@@ -228,18 +228,18 @@
 				- beforeUnmount()
 				- unmounted()
 				  - cleanup code
-		- [ ] 066 05-09 09:48 Vue App Lifecycle - Practice | 10min
-		- [ ] 067 05-00 00:06 Module Resources | 1min
+		- [x] 066 05-09 09:48 Vue App Lifecycle - Practice | 10min
+		- [x] 067 05-00 00:06 Module Resources | 1min
 	## S06: Introducing Components
-	- [ ] S06: Introducing Components 00/06 | 23min
-		- [ ] 068 06-01 01:30 Module Introduction | 01:30
+	- [x] S06: Introducing Components 00/06 | 23min
+		- [x] 068 06-01 01:30 Module Introduction | 01:30
 		  - Multi-app example is useful here
-		- [ ] 069 06-02 08:39 Understanding the Problem | 08:39
-		- [ ] 070 06-03 10:54 Introducing Components | 11min
+		- [x] 069 06-02 08:39 Understanding the Problem | 08:39
+		- [x] 070 06-03 10:54 Introducing Components | 11min
 		  - A Vue Component is just "an app that belongs to another app".
-		- [ ] 071 06-04 01:00 The Why: Bldg Complex UIs w Components | 1min
-		- [ ] 072 06-00 00:57 Multiple Vue Apps vs Multiple Components | 1min
-		- [ ] 073 06-00 00:06 Module Resources | 1min
+		- [x] 071 06-04 01:00 The Why: Bldg Complex UIs w Components | 1min
+		- [x] 072 06-00 00:57 Multiple Vue Apps vs Multiple Components | 1min
+		- [x] 073 06-00 00:06 Module Resources | 1min
 	## Sec 07: Moving to Better Dev Setup & Wkflow w Vue CLI
 	- [ ] Sec 07: Moving to Better Dev Setup & Wkflow w Vue CLI 00/14 | 1hr
 		- [x] 074 07-01 01:35 Module Introduction | 2min
@@ -267,7 +267,7 @@
 
 			```javascript
 			import { createApp } from 'vue'
-			import App from '.App.vue'
+			import App from './App.vue'
 
 			createApp(App).mount('#app') // see public folder index.html
 			```
@@ -284,9 +284,10 @@
 		- [x] 081 07-08 01:40 More on ".vue" Files | 2min
 		- [x] 082 07-09 05:05 A New Vue Project | 5min
 		  - npm install
-		- [ ] 083 07-10 09:32 Creating a Basic Vue App | 10min
-		- [ ] 084 07-11 08:14 Adding a Component | 8min
-		- [ ] 085 07-12 02:16 Adding Styling | 2min
+		- [x] 083 07-10 09:32 Creating a Basic Vue App | 10min
+		- [ ] 084 07-11 08:14 Adding a Component | 8min Current Development
+		- [ ] 085 07-12 02:16 Adding Styling | 2min Current Development
+		  - Every Component is like a mini-app
 		- [ ] 086 07-00 00:13 A Small Addition | 1min ** 
 		- [ ] 087 07-00 00:06 Module Resources | 1min **
 	## S08: Component Communication
