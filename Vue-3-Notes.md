@@ -293,9 +293,10 @@
 	## S08: Component Communication
 	- [ ] S08: Component Communication 00/18 | 1hr 33min
 		- [x] 088 08-01 01:41 Module Introduction | 2min
-		- [ ] 089 08-02 10:03 Intrg "Props" (P=> Child Comm) | 10m
+		- [x] 089 08-02 10:03 Intrg "Props" (P=> Child Comm) | 10m
 		  - I can think of "props" as "custom html attributes"
-		- [ ] 090 08-03 06:30 Prop Behavior & Changing Props | 7min
+		- [ ] 090 08-03 06:30 Prop Behavior & Changing Props
+		  - Props typically should not be mutated.
 		- [ ] 091 08-04 07:14 Validating Props | 7min
 		- [ ] 092 08-05 00:09 Supported Prop Values | 1min
 		- [ ] 093 08-06 05:37 Working with Dynamic Prop Vals | 6min

@@ -1,7 +1,7 @@
 <template>
   <!-- See main.js for Component Registration -->
   <li>
-    <h2>{{ name }}</h2>
+    <h2>{{ name }} {{ isFavorite == 1 ? '(Favorite)' : '' }}</h2>
     <button @click="toggleDetails">Show Details</button>
     <ul v-if="detailsAreVisible">
     <!-- <ul> -->
@@ -16,7 +16,8 @@
     props: [
       'name',
       'phoneNumber',
-      'emailAddress'
+      'emailAddress',
+      'isFavorite' // New Prop
     ],
     data() {
       return {
