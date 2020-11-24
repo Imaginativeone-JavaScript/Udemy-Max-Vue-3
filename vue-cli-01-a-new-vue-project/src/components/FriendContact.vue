@@ -26,6 +26,8 @@
     },
     methods: {
       toggleDetails() {
+        // Learning Opportunity
+        // this.detailsAreVisible = !detailsAreVisible; // Error, missing 'this'
         this.detailsAreVisible = !this.detailsAreVisible;
         // console.log(this.detailsAreVisible);
       }
