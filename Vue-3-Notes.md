@@ -285,14 +285,14 @@
 		- [x] 082 07-09 05:05 A New Vue Project | 5min
 		  - npm install
 		- [x] 083 07-10 09:32 Creating a Basic Vue App | 10min
-		- [ ] 084 07-11 08:14 Adding a Component | 8min Current Development
-		- [ ] 085 07-12 02:16 Adding Styling | 2min Current Development
+		- [x] 084 07-11 08:14 Adding a Component | 8min Current Development
+		- [x] 085 07-12 02:16 Adding Styling | 2min Current Development
 		  - Every Component is like a mini-app
-		- [ ] 086 07-00 00:13 A Small Addition | 1min ** 
-		- [ ] 087 07-00 00:06 Module Resources | 1min **
+		- [x] 086 07-00 00:13 A Small Addition | 1min ** 
+		- [x] 087 07-00 00:06 Module Resources | 1min **
 	## S08: Component Communication
 	- [ ] S08: Component Communication 00/18 | 1hr 33min
-		- [ ] 088 08-01 01:41 Module Introduction | 2min
+		- [x] 088 08-01 01:41 Module Introduction | 2min
 		- [ ] 089 08-02 10:03 Introg "Props" (Parent => Child Comm) | Extremely Important | 10min
 		- [ ] 090 08-03 06:30 Prop Behavior & Changing Props | 7min
 		- [ ] 091 08-04 07:14 Validating Props | 7min
