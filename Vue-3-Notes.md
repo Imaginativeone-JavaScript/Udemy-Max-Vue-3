@@ -297,6 +297,9 @@
 		  - I can think of "props" as "custom html attributes"
 		- [ ] 090 08-03 06:30 Prop Behavior & Changing Props
 		  - Props typically should not be mutated.
+			- 02:23 Techniques for mutating data within a Child Component
+			  - Technique #1: Notify the Parent Component
+				- Technique #2: Make a new data property within the Child Component 01:57
 		- [ ] 091 08-04 07:14 Validating Props | 7min
 		- [ ] 092 08-05 00:09 Supported Prop Values | 1min
 		- [ ] 093 08-06 05:37 Working with Dynamic Prop Vals | 6min

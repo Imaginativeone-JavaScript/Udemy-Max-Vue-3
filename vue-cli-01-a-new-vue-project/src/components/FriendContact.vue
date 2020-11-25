@@ -2,6 +2,7 @@
   <!-- See main.js for Component Registration -->
   <li>
     <h2>{{ name }} {{ isFavorite == 1 ? '(Favorite)' : '' }}</h2>
+    <button @click="toggleFavorite">Toggle Favorite</button>
     <button @click="toggleDetails">Show Details</button>
     <ul v-if="detailsAreVisible">
     <!-- <ul> -->
@@ -32,11 +33,19 @@
     },
     methods: {
       toggleDetails() {
-        // Learning Opportunity
-        // this.detailsAreVisible = !detailsAreVisible; // Error, missing 'this'
         this.detailsAreVisible = !this.detailsAreVisible;
-        // console.log(this.detailsAreVisible);
+      },
+      toggleFavorite() {
+        
       }
+      // Not Allowed, unexpected mutation
+      // toggleFavorite() {
+      //   if (this.isFavorite === '1') {
+      //     this.isFavorite = '0';
+      //   } else {
+      //     this.isFavorite = '1';
+      //   }
+      // }
     }
   };
 </script>
