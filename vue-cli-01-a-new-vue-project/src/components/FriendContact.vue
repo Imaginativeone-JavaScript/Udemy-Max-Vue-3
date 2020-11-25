@@ -14,12 +14,18 @@
 
 <script>
   export default {
-    props: [
-      'name',
-      'phoneNumber',
-      'emailAddress',
-      'isFavorite' // New Prop
-    ],
+    // props: [
+    //   'name',
+    //   'phoneNumber',
+    //   'emailAddress',
+    //   'isFavorite' // New Prop
+    // ],
+    props: {
+      name: String,
+      phoneNumber: String,
+      emailAddress: String,
+      isFavorite: String // New Prop
+    },
     data() {
       return {
         detailsAreVisible: false,
@@ -36,7 +42,7 @@
         this.detailsAreVisible = !this.detailsAreVisible;
       },
       toggleFavorite() {
-        
+
       }
       // Not Allowed, unexpected mutation
       // toggleFavorite() {
