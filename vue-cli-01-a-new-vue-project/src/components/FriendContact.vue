@@ -21,10 +21,27 @@
     //   'isFavorite' // New Prop
     // ],
     props: {
-      name: String,
-      phoneNumber: String,
-      emailAddress: String,
-      isFavorite: String // New Prop
+      name: {
+        type: String,
+        required: true
+      },
+      phoneNumber: {
+        type: String,
+        required: true
+      },
+      emailAddress: {
+        type: String,
+        required: true
+      },
+      isFavorite: {
+        type: String,
+        required: false,
+        default: '0', // could also be a function() {}
+        validator: function(value) {
+          console.log('value', value);
+          return value === '1' || value === '0'
+        }
+      }
     },
     data() {
       return {

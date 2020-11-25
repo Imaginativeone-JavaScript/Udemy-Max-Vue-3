@@ -295,16 +295,17 @@
 		- [x] 088 08-01 01:41 Module Introduction | 2min
 		- [x] 089 08-02 10:03 Intrg "Props" (P=> Child Comm) | 10m
 		  - I can think of "props" as "custom html attributes"
-		- [ ] 090 08-03 06:30 Prop Behavior & Changing Props
+		- [x] 090 08-03 06:30 Prop Behavior & Changing Props
 		  - Props typically should not be mutated.
 			- 02:23 Techniques for mutating data within a Child Component
 			  - Technique #1: Notify the Parent Component
 				- Technique #2: Make a new data property within the Child Component 01:57
-		- [ ] 091 08-04 07:14 Validating Props | 7min
-		- [ ] 092 08-05 00:09 Supported Prop Values | 1min
+		- [x] 091 08-04 07:14 Validating Props
+		  - See FriendContact.vue
+		- [x] 092 08-05 00:09 Supported Prop Values | 1min
 		- [ ] 093 08-06 05:37 Working with Dynamic Prop Vals | 6min
-		- [ ] 094 08-07 11:15 Emit Cstm Evts (Chd=>P) | 11m ****
-		- [ ] 095 08-08 04:05 Defng & Validating Custom Evts | 4min
+		- [ ] 094 08-07 11:15 Emitting Custom Events (Child=>Parent) ****
+		- [ ] 095 08-08 04:05 Defining & Validating Custom Events
 		- [ ] 096 08-09 01:19 Prp/Evt Flthru & Bindg All Props | 1m
 		- [ ] 097 08-10 13:15 Demo: Adding Comps & Conng Them | 13m
 		- [ ] 098 08-11 06:24 Demo: Adding More Componts Comm | 6m
@@ -312,7 +313,7 @@
 		- [ ] 099 08-13 06:26 A Potential Problem | 6min
 		- [ ] 100 08-14 08:16 Provide + Inject To The Rescue | 8min
 		- [ ] 101 08-15 03:59 Provide + Inject 4 Funcs/Mthds | 4min
-		- [ ] 102 08-16 02:06 Prov + Inj vs Prps & Cstm Evts | 2min
+		- [ ] 102 08-16 02:06 Provide + Inj vs Prps & Cstm Evts | 2min
 		- [ ] 103 08-17 04:44 Module Summary | 5min
 		- [ ] 104 08-18 00:06 Module Resources | 1min
 	## S09: Diving Deeper Into Components

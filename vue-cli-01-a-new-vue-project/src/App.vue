@@ -8,12 +8,12 @@
         name="Manuel Lorenz"
         phone-number="1"
         email-address="manuel@localhost.com"
-        is-favorite="1"></friend-contact>
+        is-favorite="0"></friend-contact>
       <friend-contact 
         name="Doug Franklin"
         phone-number="(410) 966-3735"
         email-address="doug@dougfranklin.com"
-        is-favorite="0"></friend-contact>
+        is-favorite="1"></friend-contact>
       <friend-contact 
         name="Julie Jones"
         phone-number="(410) 966-3729"
