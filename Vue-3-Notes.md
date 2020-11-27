@@ -278,7 +278,6 @@
 				- script
 				- style
 			- Using a "Build Workflow"
-
 		- [x] 080 07-07 01:15 Adding the "Vetur" Extension to VS Code | 1min
 		  - Autocompletion
 		- [x] 081 07-08 01:40 More on ".vue" Files | 2min

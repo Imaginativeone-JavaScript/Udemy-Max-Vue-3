@@ -3,6 +3,7 @@
     <header>
       <h1>My Friends</h1>
     </header>
+    <new-friend></new-friend>
     <ul>
       <friend-contact 
         v-for="friend in friends"
@@ -40,31 +41,6 @@ export default {
   },
   methods: {
     toggleFavoriteStatus(friendId) {
-
-      // ['chris', 'nick', 'holly'].find(function(name) {
-      //     return name === 'holly';
-      // });
-
-      // // or simplified with es6 arrow functions
-      // ['chris', 'nick', 'holly'].find(name => name === 'holly');
-
-      // const identifiedFriend = this.friends.find(function(friend) {
-      //   return friend.id === friendId;
-      // });
-
-      // const identifiedFriend = this.friends.find((friend) => {
-      //   return friend.id === friendId;
-      // });
-
-      // const identifiedFriend = this.friends.find(
-      //   (friend) => { return friend.id === friendId; }
-      // );
-
-      // Delete the 'return' keyword, curly-braces, AND semicolon
-      // const identifiedFriend = this.friends.find(
-      //   friend => friend.id === friendId
-      // );
-
       const identifiedFriend = this.friends.find(friend => friend.id === friendId);
       identifiedFriend.isFavorite = !identifiedFriend.isFavorite;
     }
