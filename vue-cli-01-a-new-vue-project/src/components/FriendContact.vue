@@ -1,7 +1,8 @@
 <template>
   <!-- See main.js for Component Registration -->
   <li>
-    <h2>{{ name }} {{ friendIsFavorite ? '(Favorite)' : '' }}</h2>
+    <!-- <h2>{{ name }} {{ friendIsFavorite ? '(Favorite)' : '' }}</h2> -->
+    <h2>{{ name }} {{ isFavorite ? '(Favorite)' : '' }}</h2>
     <button @click="toggleFavorite">Toggle Favorite</button>
     <button @click="toggleDetails">Show Details</button>
     <ul v-if="detailsAreVisible">
@@ -44,7 +45,9 @@
     data() {
       return {
         detailsAreVisible: false,
-        friendIsFavorite: this.isFavorite,
+        // friendIsFavorite replaced by Parent Code
+        // The isFavorite prop comes from the Parent
+        // friendIsFavorite: this.isFavorite,
       }
     },
     methods: {
