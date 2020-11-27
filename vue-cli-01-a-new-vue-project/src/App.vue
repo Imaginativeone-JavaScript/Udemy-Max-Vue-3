@@ -40,11 +40,26 @@ export default {
   },
   methods: {
     toggleFavoriteStatus(friendId) {
-      const identifiedFriend = this.friends.find(friend => friend.id === friendId);
+
+      // ['chris', 'nick', 'holly'].find(function(name) {
+      //     return name === 'holly';
+      // });
+
+      // // or simplified with es6 arrow functions
+      // ['chris', 'nick', 'holly'].find(name => name === 'holly');
+
+      const identifiedFriend = this.friends.find(function(friend) {
+        return friend.id === friendId;
+      });
+
+      console.log(identifiedFriend);
+
+      // const identifiedFriend = this.friends.find(friend => friend.id === friendId);
       identifiedFriend.isFavorite = !identifiedFriend.isFavorite;
     }
   }
 };
+
 </script>
 
 <style>
