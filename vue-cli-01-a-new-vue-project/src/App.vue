@@ -48,13 +48,24 @@ export default {
       // // or simplified with es6 arrow functions
       // ['chris', 'nick', 'holly'].find(name => name === 'holly');
 
-      const identifiedFriend = this.friends.find(function(friend) {
-        return friend.id === friendId;
-      });
+      // const identifiedFriend = this.friends.find(function(friend) {
+      //   return friend.id === friendId;
+      // });
 
-      console.log(identifiedFriend);
+      // const identifiedFriend = this.friends.find((friend) => {
+      //   return friend.id === friendId;
+      // });
 
-      // const identifiedFriend = this.friends.find(friend => friend.id === friendId);
+      // const identifiedFriend = this.friends.find(
+      //   (friend) => { return friend.id === friendId; }
+      // );
+
+      // Delete the 'return' keyword, curly-braces, AND semicolon
+      // const identifiedFriend = this.friends.find(
+      //   friend => friend.id === friendId
+      // );
+
+      const identifiedFriend = this.friends.find(friend => friend.id === friendId);
       identifiedFriend.isFavorite = !identifiedFriend.isFavorite;
     }
   }
