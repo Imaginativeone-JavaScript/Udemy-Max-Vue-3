@@ -15,6 +15,10 @@
 <script>
   export default {
     props: {
+      id: {
+        type: String,
+        required: true
+      },
       name: {
         type: String,
         required: true
@@ -50,6 +54,9 @@
       toggleFavorite() {
         // this.friendIsFavorite = !this.friendIsFavorite;
         this.$emit('toggle-favorite');
+        // Every additional argument serves as emitted data
+        // Added 'id' prop in props
+        // Need a corresponding bound :id="friend.id" in parent
         console.log('toggle-favorite $emitted!');
         // Listen to this in the Parent Component
       }
