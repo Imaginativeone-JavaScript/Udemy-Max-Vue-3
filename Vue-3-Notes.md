@@ -312,7 +312,10 @@
 			- 04:45 Set up the listener in the Parent; 
 			- 05:00 @toggle-favorite="codeInParent"
 			- Useful derivation of an arrow function is here.
-		- [ ] 095 08-08 04:05 Defining & Validating Custom Events
+		- [x] 095 08-08 04:05 Defining & Validating Custom Events
+		  - emits: [] is the counterpart to props
+			- In its most basic form, serves as an "emit map"
+			- Validation is also available
 		- [ ] 096 08-09 01:19 Prp/Evt Flthru & Bindg All Props | 1m
 		- [ ] 097 08-10 13:15 Demo: Adding Components & Connecting Them
 		- [ ] 098 08-11 06:24 Demo: Adding More Componts Comm | 6m

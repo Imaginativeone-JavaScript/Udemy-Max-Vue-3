@@ -42,6 +42,18 @@
         // }
       }
     },
+    // Kind of an "emit map"
+    emits: ['toggle-favorite'],
+    // emits: { // Validation for stuff that's emitted
+    //   'toggle-favorite': function(id) { // See the methods
+    //     if (id) {
+    //       return true;
+    //     } else {
+    //       console.warn('id is missing');
+    //       return false;
+    //     }
+    //   }
+    // },
     data() {
       return {
         detailsAreVisible: false,
