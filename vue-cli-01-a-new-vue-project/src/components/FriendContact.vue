@@ -51,6 +51,7 @@
         // this.friendIsFavorite = !this.friendIsFavorite;
         this.$emit('toggle-favorite');
         console.log('toggle-favorite $emitted!');
+        // Listen to this in the Parent Component
       }
     }
   };

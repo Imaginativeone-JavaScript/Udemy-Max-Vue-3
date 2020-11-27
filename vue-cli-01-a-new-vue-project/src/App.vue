@@ -10,7 +10,8 @@
         :name="friend.name"
         :phone-number="friend.phone"
         :email-address="friend.email"
-        :is-favorite=true>
+        :is-favorite=friend.isFavorite
+        @toggle-favorite="toggleFavoriteStatus">
       </friend-contact>
     </ul>
   </section>
@@ -36,6 +37,11 @@ export default {
       ],
     };
   },
+  methods: {
+    toggleFavoriteStatus() {
+      console.log('Event from Child Processed in Parent (here)');
+    }
+  }
 };
 </script>
 
