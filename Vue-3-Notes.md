@@ -303,8 +303,14 @@
 		- [x] 091 08-04 07:14 Validating Props
 		  - See FriendContact.vue
 		- [x] 092 08-05 00:09 Supported Prop Values | 1min
-		- [ ] 093 08-06 05:37 Working with Dynamic Prop Vals | 6min
+		- [x] 093 08-06 05:37 Working with Dynamic Prop Vals | 6min
 		- [ ] 094 08-07 11:15 Emitting Custom Events (Child=>Parent) ****
+		  - 02:35 How do I send info back to the Parent?
+			- 03:05 Emit an EVENT for which the parent can listen.
+			- 03:09 I can emit custom events inside of my Vue Components.
+			- 03:40 this.$emit()
+			- 04:45 Set up the listener in the Parent; 
+			- 05:00 @toggle-favorite="codeInParent"
 		- [ ] 095 08-08 04:05 Defining & Validating Custom Events
 		- [ ] 096 08-09 01:19 Prp/Evt Flthru & Bindg All Props | 1m
 		- [ ] 097 08-10 13:15 Demo: Adding Comps & Conng Them | 13m
