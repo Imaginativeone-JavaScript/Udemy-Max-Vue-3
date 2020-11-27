@@ -48,7 +48,9 @@
         this.detailsAreVisible = !this.detailsAreVisible;
       },
       toggleFavorite() {
-        this.friendIsFavorite = !this.friendIsFavorite;
+        // this.friendIsFavorite = !this.friendIsFavorite;
+        this.$emit('toggle-favorite');
+        console.log('toggle-favorite $emitted!');
       }
     }
   };
