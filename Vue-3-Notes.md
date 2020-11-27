@@ -316,7 +316,8 @@
 		  - emits: [] is the counterpart to props
 			- In its most basic form, serves as an "emit map"
 			- Validation is also available
-		- [ ] 096 08-09 01:19 Prp/Evt Flthru & Bindg All Props | 1m
+		- [x] 096 08-09 01:19 Prp/Evt Flthru & Bindg All Props
+		- Props and events added on a custom component tag automatically fall through to the root component in the template of that component. In the above example, type and @click get added to the <button> in the BaseButton component. You can get access to these fallthrough props on a built-in $attrs property (e.g. this.$attrs ).
 		- [ ] 097 08-10 13:15 Demo: Adding Components & Connecting Them
 		- [ ] 098 08-11 06:24 Demo: Adding More Componts Comm | 6m
 		- [ ] 000 08-12 00:00 Asnmt 06: Tme 2 Prc: Prps & Cstm Evts
