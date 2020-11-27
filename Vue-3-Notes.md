@@ -400,13 +400,13 @@
 		- [ ] 166 Navigating with router-link | 5min
 		- [ ] 167 Styling Active Links | 3min
 		- [ ] 168 Programmatic Navigation | 4min
-		- [ ] 169 Passing Data with Route Params (Dynamic Segments) | 11min
-		- [ ] 170 Navigation & Dynamic Paths | 3min
+		- [ ] 169 Passing Data with Route Params (Dynamic Segmts) | 11m ****
+		- [ ] 170 Navigation & Dynamic Paths | 3min ****
 		- [ ] 171 Updating Params Data with Watchers | 6min
 		- [ ] 172 Passing Params as Props | 4min
 		- [ ] 173 Redirecting & "Catch All" Routes | 8min
-		- [ ] 174 Using Nested Routes | 6min
-		- [ ] 175 More Fun with Named Routes & Location Objects | 5min
+		- [ ] 174 Using Nested Routes | 6min ****
+		- [ ] 175 More Fun w Named Routes & Location Objects | 5min
 		- [ ] 176 Using Query Params | 4min
 		- [ ] 177 Rendering Multiple Routes with Named Router Views | 6min
 		- [ ] 178 Controlling Scroll Behavior | 6min
@@ -525,8 +525,8 @@
 		- [ ] 275 Building the Project For Production | 4min
 		- [ ] 276 Deploying a Vue App | 9min
 		- [ ] 277 Module Resources | 1min
-	## S19: Composition API - Replacg Options API | 00/26 | 2hr 23min
-	- [ ] Sec 19: Composition API - Replacg Options API | 00/26 | 2hr 23min
+	## S19: Composition API - Replacing Options API | 00/26 | 02:23:00
+	- [ ] Sec 19: Composition API - Replacg Options API | 26Ls | 02:23:00
 		- [ ] 278 Module Introduction | 2min
 		- [ ] 279 Which Problem Does The Composition API Solve? | 7min
 		- [ ] 280 Replacing "data" with "refs" | 12min
@@ -553,8 +553,8 @@
 		- [ ] 299 Using Vuex with the Composition API | 5min
 		- [ ] 300 Summary | 3min
 		- [ ] 301 Module Resources | 1min
-	## S20: Reusing Fnality: Mixins & Custom Cmposn Fns | 00/14 | 1hr 3min
-	- [ ] S20: Reusing Fnality: Mxns & Cstm Cmposn Funcs | 00/14 | 1hr 3min
+	## S20: Reusing Fnality: Mixins & Custom Cmposn Fns | 14 | 01:03:00
+	- [ ] S20: Reusing Functionality: Mixins & Custom Composition Functions
 		- [ ] 302 Module Introduction | 1min
 		- [ ] 303 Reusability Concepts | 5min
 		- [ ] 304 Using Mixins | 5min
