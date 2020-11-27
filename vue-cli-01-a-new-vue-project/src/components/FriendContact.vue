@@ -53,11 +53,12 @@
       },
       toggleFavorite() {
         // this.friendIsFavorite = !this.friendIsFavorite;
-        this.$emit('toggle-favorite');
+        this.$emit('toggle-favorite', this.id);
         // Every additional argument serves as emitted data
         // Added 'id' prop in props
         // Need a corresponding bound :id="friend.id" in parent
-        console.log('toggle-favorite $emitted!');
+        // console.log('toggle-favorite $emitted!');
+        // console.dir(this);
         // Listen to this in the Parent Component
       }
     }

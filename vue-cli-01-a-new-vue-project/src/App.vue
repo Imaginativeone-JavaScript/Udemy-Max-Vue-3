@@ -39,8 +39,9 @@ export default {
     };
   },
   methods: {
-    toggleFavoriteStatus() {
-      console.log('Event from Child Processed in Parent (here)');
+    toggleFavoriteStatus(friendId) {
+      const identifiedFriend = this.friends.find(friend => friend.id === friendId);
+      identifiedFriend.isFavorite = !identifiedFriend.isFavorite;
     }
   }
 };
