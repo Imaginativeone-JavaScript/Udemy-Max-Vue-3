@@ -1,7 +1,6 @@
 <template>
   <!-- See main.js for Component Registration -->
   <li>
-    <!-- <h2>{{ name }} {{ friendIsFavorite ? '(Favorite)' : '' }}</h2> -->
     <h2>{{ name }} {{ isFavorite ? '(Favorite)' : '' }}</h2>
     <button @click="toggleFavorite">Toggle Favorite</button>
     <button @click="toggleDetails">Show Details</button>
@@ -10,6 +9,8 @@
       <li><strong>Phone:</strong> {{ phoneNumber  }}</li>
       <li><strong>Email:</strong> {{ emailAddress }}</li>
     </ul>
+    <!-- <button @click="deleteFriend">Delete</button> -->
+    <button @click="$emit('delete', id)">Delete</button>
   </li>
 </template>
 
@@ -42,24 +43,10 @@
         // }
       }
     },
-    // Kind of an "emit map"
-    emits: ['toggle-favorite'],
-    // emits: { // Validation for stuff that's emitted
-    //   'toggle-favorite': function(id) { // See the methods
-    //     if (id) {
-    //       return true;
-    //     } else {
-    //       console.warn('id is missing');
-    //       return false;
-    //     }
-    //   }
-    // },
+    emits: ['toggle-favorite', 'delete'], // Kind of an "emit map"
     data() {
       return {
         detailsAreVisible: false,
-        // friendIsFavorite replaced by Parent Code
-        // The isFavorite prop comes from the Parent
-        // friendIsFavorite: this.isFavorite,
       }
     },
     methods: {
@@ -67,14 +54,11 @@
         this.detailsAreVisible = !this.detailsAreVisible;
       },
       toggleFavorite() {
-        // this.friendIsFavorite = !this.friendIsFavorite;
         this.$emit('toggle-favorite', this.id);
-        // Every additional argument serves as emitted data
-        // Added 'id' prop in props
-        // Need a corresponding bound :id="friend.id" in parent
-        // console.log('toggle-favorite $emitted!');
-        // console.dir(this);
-        // Listen to this in the Parent Component
+      },
+      deleteFriend() {
+        console.log('Attempted to Delete Friend');
+        // this.$emit('delete');
       }
     }
   };
