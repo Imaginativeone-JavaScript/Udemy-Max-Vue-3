@@ -33,6 +33,7 @@ export default {
     };
   },
   methods: {
+    // Learning about pass-through Components
     activateTopic(topicId) {
       this.activeTopic = this.topics.find((topic) => topic.id === topicId);
     },
