@@ -327,7 +327,7 @@
 		  - Revisit this
 		- [x] 101 08-15 03:59 Provide + Inject 4 Funcs/Mthds
 		- [x] 102 08-16 02:06 Provide + Inject vs Props & Custom Events
-		- [ ] 103 08-17 04:44 Module Summary
+		- [x] 103 08-17 04:44 Module Summary
 		- [x] 104 08-18 00:06 Module Resources
 	## S09: Diving Deeper Into Components
 	- [ ] S09: Diving Deeper Into Components 18 01:24:00
