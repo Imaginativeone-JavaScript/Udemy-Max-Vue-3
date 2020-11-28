@@ -320,9 +320,11 @@
 		- [x] 097 08-10 13:15 Demo: Adding Components & Connecting Them
 		- [x] 098 08-11 06:24 Demo: Adding More Components Comm, Delete
 		- [skipped] 000 08-12 00:00 Asnmt 06: Tme 2 Prc: Prps & Cstm Evts
-		- [ ] 099 08-13 06:26 A Potential Problem
+		- [x] 099 08-13 06:26 A Potential Problem
 		  - Introduction to "Pass Through Components"
-		- [ ] 100 08-14 08:16 Provide + Inject To The Rescue
+			- Revisit this
+		- [x] 100 08-14 08:16 Provide + Inject To The Rescue
+		  - Revisit this
 		- [ ] 101 08-15 03:59 Provide + Inject 4 Funcs/Mthds
 		- [ ] 102 08-16 02:06 Provide + Inject vs Props & Custom Events
 		- [ ] 103 08-17 04:44 Module Summary
