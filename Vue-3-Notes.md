@@ -318,16 +318,17 @@
 		- [x] 096 08-09 01:19 Prp/Evt Flthru & Bindg All Props
 		- Props and events added on a custom component tag automatically fall through to the root component in the template of that component. In the above example, type and @click get added to the <button> in the BaseButton component. You can get access to these fallthrough props on a built-in $attrs property (e.g. this.$attrs ).
 		- [x] 097 08-10 13:15 Demo: Adding Components & Connecting Them
-		- [ ] 098 08-11 06:24 Demo: Adding More Components Comm, Delete
-		- [ ] 000 08-12 00:00 Asnmt 06: Tme 2 Prc: Prps & Cstm Evts
-		- [ ] 099 08-13 06:26 A Potential Problem | 6min
-		- [ ] 100 08-14 08:16 Provide + Inject To The Rescue | 8min
-		- [ ] 101 08-15 03:59 Provide + Inject 4 Funcs/Mthds | 4min
-		- [ ] 102 08-16 02:06 Provide + Inj vs Prps & Cstm Evts | 2min
-		- [ ] 103 08-17 04:44 Module Summary | 5min
-		- [ ] 104 08-18 00:06 Module Resources | 1min
+		- [x] 098 08-11 06:24 Demo: Adding More Components Comm, Delete
+		- [skipped] 000 08-12 00:00 Asnmt 06: Tme 2 Prc: Prps & Cstm Evts
+		- [ ] 099 08-13 06:26 A Potential Problem
+		  - Introduction to "Pass Through Components"
+		- [ ] 100 08-14 08:16 Provide + Inject To The Rescue
+		- [ ] 101 08-15 03:59 Provide + Inject 4 Funcs/Mthds
+		- [ ] 102 08-16 02:06 Provide + Inject vs Props & Custom Events
+		- [ ] 103 08-17 04:44 Module Summary
+		- [ ] 104 08-18 00:06 Module Resources
 	## S09: Diving Deeper Into Components
-	- [ ] S09: Diving Deeper Into Components 0/18 | 1hr 24min
+	- [ ] S09: Diving Deeper Into Components 18 01:24:00
 		- [ ] 105 09-01 01:38 Module Introduction | 2min
 		- [ ] 106 09-02 02:38 Project Setup | 3min
 		- [ ] 107 09-03 09:22 Global vs Local Components | 9min
