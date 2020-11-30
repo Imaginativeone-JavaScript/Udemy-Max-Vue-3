@@ -336,7 +336,8 @@
 			- Slots
 			- Dynamic Components
 			- Naming and Folder Structures
-		- [ ] 106 09-02 02:38 Project Setup
+		- [x] 106 09-02 02:38 Project Setup
+		  - File Overview
 		- [ ] 107 09-03 09:22 Global vs Local Components | 9min
 		- [ ] 108 09-04 05:15 Scoped Styles | 5min
 		- Slots
