@@ -339,6 +339,8 @@
 		- [x] 106 09-02 02:38 Project Setup
 		  - File Overview
 		- [ ] 107 09-03 09:22 Global vs Local Components | 9min
+		  - Global Components
+			- Too many to load initially
 		- [ ] 108 09-04 05:15 Scoped Styles | 5min
 		- Slots
 			- [ ] 109 09-05 06:23 Introducing Slots | 6min
