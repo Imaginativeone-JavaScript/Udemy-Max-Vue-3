@@ -350,6 +350,14 @@
 				regarding the content that it receives.
 				- BaseCard.vue
 				- 02:32, explanation of problem with making an ordinary component, instead of a slot container.
+				- 03:27, Register BaseCard.vue globally
+				  - main.js
+					  - import BaseCard from './components/BaseCard.vue'
+						- app.component('base-card', BaseCard);
+					- UserInfo.vue
+					  - <base-card> wrapper	
+				- props do not contain/deliver markup content
+				- 05:04, Introduction of the <slot> tag
 			- [ ] 110 09-06 05:35 Named Slots
 			- [ ] 111 09-07 02:26 Slot Styles & Compilation
 			- [ ] 112 09-08 07:19 More on Slots
