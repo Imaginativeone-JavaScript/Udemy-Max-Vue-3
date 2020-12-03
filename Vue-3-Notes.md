@@ -338,13 +338,17 @@
 			- Naming and Folder Structures
 		- [x] 106 09-02 02:38 Project Setup
 		  - File Overview
-		- [x] 107 09-03 09:22 Global vs Local Components | 9min
+		- [x] 107 09-03 09:22 Global vs Local Components
 		  - Global Components
 			- Too many to load initially
-		- [x] 108 09-04 05:15 Scoped Styles | 5min
+		- [x] 108 09-04 05:15 Scoped Styles
 		  - Local styling without the 'scoped' keyword affects all files
 		- Slots
 			- [ ] 109 09-05 06:23 Introducing Slots | Current Work
+			  - UserInfo.vue and BadgeList.vue both have a <section> with concomitant styling with sub-content that is variable.
+				- An alternative would be to make a component that has a section with the attached styling and which then is flexible, 
+				regarding the content that it receives.
+				- BaseCard.vue
 			- [ ] 110 09-06 05:35 Named Slots
 			- [ ] 111 09-07 02:26 Slot Styles & Compilation
 			- [ ] 112 09-08 07:19 More on Slots
