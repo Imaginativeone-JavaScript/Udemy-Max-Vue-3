@@ -4,31 +4,28 @@
     <!-- <TheHeader /> -->
     <button @click="setSelectedComponent('active-goals')">Active Goals</button>
     <button @click="setSelectedComponent('manage-goals')">Manage Goals</button>
-    <active-goals v-if="selectedComponent==='active-goals'"></active-goals>
-    <manage-goals v-if="selectedComponent==='manage-goals'"></manage-goals>
+    <!-- <active-goals v-if="selectedComponent === 'active-goals'"></active-goals>
+    <manage-goals v-if="selectedComponent === 'manage-goals'"></manage-goals>-->
+    <keep-alive>
+      <component :is="selectedComponent"></component>
+    </keep-alive>
   </div>
 </template>
 
 <script>
-import TheHeader from   './components/TheHeader.vue'; // Moved from main.js (Global) to App.vue (Local)
-// import BadgeList from   './components/BadgeList.vue';
-// import UserInfo  from   './components/UserInfo.vue';
-// import CourseGoals from './components/CourseGoals.vue'
-import ActiveGoals from './components/ActiveGoals.vue'
-import ManageGoals from './components/ManageGoals.vue'
+import TheHeader from './components/TheHeader.vue';
+// import BadgeList from './components/BadgeList.vue';
+// import UserInfo from './components/UserInfo.vue';
+// import CourseGoals from './components/CourseGoals.vue';
+import ActiveGoals from './components/ActiveGoals.vue';
+import ManageGoals from './components/ManageGoals.vue';
 
 export default {
-  // components: { 'the-header': TheHeader }, // TheHeader Component moved to local registration
-  // components: { TheHeader: TheHeader }, // TheHeader Component moved to local registration
-  components: { 
-    TheHeader, 
-    // BadgeList, 
-    // UserInfo,
-    // CourseGoals,
+  components: {
+    TheHeader,
     ActiveGoals,
-    ManageGoals
-  }, // TheHeader Component moved to local registration
-  
+    ManageGoals,
+  },
   data() {
     return {
       selectedComponent: 'active-goals',
@@ -41,10 +38,9 @@ export default {
   },
   methods: {
     setSelectedComponent(cmp) {
-      this.setSelectedComponent = cmp;
-      console.log('You just selected a component')
-    }
-  }
+      this.selectedComponent = cmp;
+    },
+  },
 };
 </script>
 
