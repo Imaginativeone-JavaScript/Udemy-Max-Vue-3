@@ -363,9 +363,10 @@
 			  - See the code
 			- [x] 111 09-07 02:26 Slot Styles & Compilation
 			  - When working with slots, and when sending content into another components' slots - destination styles apply to en-route markup
-			- [ ] 112 09-08 07:19 More on Slots | Current Work
+			- [x] 112 09-08 07:19 More on Slots | Current Work
 			  - Default slot content
 			- [ ] 113 09-09 09:34 Scoped Slots
+			  - Customizable
 		- Dynamic Components
 			- [ ] 114 09-10 07:06 Dynamic Components
 			- [ ] 115 09-11 02:44 Keeping Dynamic Components Alive
