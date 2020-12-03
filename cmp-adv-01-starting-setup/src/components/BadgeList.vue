@@ -1,9 +1,13 @@
 <template>
   <section>
     <base-card>
-      <!-- <template v-slot:df-header>
+      <!-- <template v-slot:dfheader>
         <h2>Available Badges</h2>
       </template> -->
+      <!-- <template v-slot:dfheader> -->
+      <template #dfheader>
+        <h2>Available Badges</h2>
+      </template>
       <template v-slot:default>
         <ul>
           <li>

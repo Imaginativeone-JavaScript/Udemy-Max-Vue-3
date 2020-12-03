@@ -1,8 +1,8 @@
 <template>
   <div>
     <!-- Add a header slot -->
-    <header>
-      <slot name="df-header">
+    <header v-if="$slots.dfheader">
+      <slot name="dfheader">
         <h2>The Default Content</h2>
       </slot>
     </header>
@@ -11,7 +11,12 @@
 </template>
 
 <script>
-  export default {}
+export default {
+  mounted() {
+    // console.log(this.$slots);
+    console.log(this.$slots.dfheader);
+  }
+}
 </script>
 
 <style scoped>
