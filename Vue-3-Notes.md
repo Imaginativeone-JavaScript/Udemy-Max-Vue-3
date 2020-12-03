@@ -349,6 +349,7 @@
 				- An alternative would be to make a component that has a section with the attached styling and which then is flexible, 
 				regarding the content that it receives.
 				- BaseCard.vue
+				- 02:32, explanation of problem with making an ordinary component, instead of a slot container.
 			- [ ] 110 09-06 05:35 Named Slots
 			- [ ] 111 09-07 02:26 Slot Styles & Compilation
 			- [ ] 112 09-08 07:19 More on Slots
