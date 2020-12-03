@@ -365,10 +365,14 @@
 			  - When working with slots, and when sending content into another components' slots - destination styles apply to en-route markup
 			- [x] 112 09-08 07:19 More on Slots | Current Work
 			  - Default slot content
-			- [ ] 113 09-09 09:34 Scoped Slots
+			- [x] 113 09-09 09:34 Scoped Slots
 			  - Customizable
+				- List transport example
 		- Dynamic Components
 			- [ ] 114 09-10 07:06 Dynamic Components
+			  - I can have components with just templates
+				- Locally sourced in App.vue (not main.js)
+				- Tabs!!!
 			- [ ] 115 09-11 02:44 Keeping Dynamic Components Alive
 		- [ ] 116 09-12 09:24 Applying What We Know & A Problem
 		- [ ] 117 09-13 03:50 Teleporting Elements
