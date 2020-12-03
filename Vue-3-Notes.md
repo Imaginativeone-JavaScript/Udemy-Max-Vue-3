@@ -344,7 +344,7 @@
 		- [x] 108 09-04 05:15 Scoped Styles
 		  - Local styling without the 'scoped' keyword affects all files
 		- Slots
-			- [ ] 109 09-05 06:23 Introducing Slots | Current Work
+			- [x] 109 09-05 06:23 Introducing Slots
 			  - UserInfo.vue and BadgeList.vue both have a <section> with concomitant styling with sub-content that is variable.
 				- An alternative would be to make a component that has a section with the attached styling and which then is flexible, 
 				regarding the content that it receives.
@@ -359,9 +359,11 @@
 				- props do not contain/deliver markup content
 				- 05:04, Introduction of the <slot> tag
 				  - 01:03 Sometimes you have the scenario that your custom component should have multiple slots.
-			- [ ] 110 09-06 05:35 Named Slots
-			- [ ] 111 09-07 02:26 Slot Styles & Compilation
-			- [ ] 112 09-08 07:19 More on Slots
+			- [x] 110 09-06 05:35 Named Slots
+			  - See the code
+			- [x] 111 09-07 02:26 Slot Styles & Compilation
+			  - When working with slots, and when sending content into another components' slots - destination styles apply to en-route markup
+			- [ ] 112 09-08 07:19 More on Slots | Current Work
 			- [ ] 113 09-09 09:34 Scoped Slots
 		- Dynamic Components
 			- [ ] 114 09-10 07:06 Dynamic Components
