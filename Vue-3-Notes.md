@@ -99,7 +99,7 @@
 				- Allows you to run any code in reaction to some changed data
 				  - HTTP Requests, etc
 				- Use for any NON DATA update you want to make
-		- [ ] 031 v-bind and v-on Shorthands | 2min | Current Work
+		- [ ] 031 v-bind and v-on Shorthands | 2min
 		  - v-on   >> @
 			- v-bind >> :
 		- [ ] 000 Assignment 03: Time to Practice: Reactivity
@@ -284,13 +284,13 @@
 		- [x] 082 07-09 05:05 A New Vue Project | 5min
 		  - npm install
 		- [x] 083 07-10 09:32 Creating a Basic Vue App | 10min
-		- [x] 084 07-11 08:14 Adding a Component | 8min Current Development
-		- [x] 085 07-12 02:16 Adding Styling | 2min Current Development
+		- [x] 084 07-11 08:14 Adding a Component
+		- [x] 085 07-12 02:16 Adding Styling
 		  - Every Component is like a mini-app
-		- [x] 086 07-00 00:13 A Small Addition | 1min ** 
-		- [x] 087 07-00 00:06 Module Resources | 1min **
+		- [x] 086 07-00 00:13 A Small Addition
+		- [x] 087 07-00 00:06 Module Resources
 	## S08: Component Communication
-	- [ ] S08: Component Communication 00/18 | 1hr 33min
+	- [ ] S08: Component Communication 18 | 1hr 33min
 		- [x] 088 08-01 01:41 Module Introduction | 2min
 		- [x] 089 08-02 10:03 Intrg "Props" (P=> Child Comm) | 10m
 		  - I can think of "props" as "custom html attributes"
@@ -341,24 +341,24 @@
 		- [x] 107 09-03 09:22 Global vs Local Components | 9min
 		  - Global Components
 			- Too many to load initially
-		- [ ] 108 09-04 05:15 Scoped Styles | 5min
+		- [x] 108 09-04 05:15 Scoped Styles | 5min
 		  - Local styling without the 'scoped' keyword affects all files
 		- Slots
-			- [ ] 109 09-05 06:23 Introducing Slots | 6min
-			- [ ] 110 09-06 05:35 Named Slots | 6min
-			- [ ] 111 09-07 02:26 Slot Styles & Compilation | 2min
-			- [ ] 112 09-08 07:19 More on Slots | 7min
-			- [ ] 113 09-09 09:34 Scoped Slots | 10min
-		- Dynamic Components	
-			- [ ] 114 09-10 07:06 Dynamic Components | 7min
-			- [ ] 115 09-11 02:44 Keeping Dynamic Components Alive | 3min
-		- [ ] 116 09-12 09:24 Applyg What We Know & A Problm | 9min
-		- [ ] 117 09-13 03:50 Teleporting Elements | 4min
-		- [ ] 118 09-14 01:23 Working with Fragments | 1min
-		- [ ] 119 09-15 03:02 The Vue Style Guide | 3min
-		- [ ] 120 09-16 02:56 Moving to a Dif Foldr Structr | 3min
-		- [ ] 121 09-17 03:38 Module Summary | 4min
-		- [ ] 122 09-00 00:06 Module Resources | 1min
+			- [ ] 109 09-05 06:23 Introducing Slots | Current Work
+			- [ ] 110 09-06 05:35 Named Slots
+			- [ ] 111 09-07 02:26 Slot Styles & Compilation
+			- [ ] 112 09-08 07:19 More on Slots
+			- [ ] 113 09-09 09:34 Scoped Slots
+		- Dynamic Components
+			- [ ] 114 09-10 07:06 Dynamic Components
+			- [ ] 115 09-11 02:44 Keeping Dynamic Components Alive
+		- [ ] 116 09-12 09:24 Applying What We Know & A Problem
+		- [ ] 117 09-13 03:50 Teleporting Elements
+		- [ ] 118 09-14 01:23 Working with Fragments
+		- [ ] 119 09-15 03:02 The Vue Style Guide
+		- [ ] 120 09-16 02:56 Moving to a Dif Foldr Structr
+		- [ ] 121 09-17 03:38 Module Summary
+		- [ ] 122 09-00 00:06 Module Resources
 	## S10: Course Prj: The Learning Rsrces App
 	- [ ] S10: Course Prj: The Lrng Rsrces App 00/14 | 1hr 24min
 		- [ ] 123 10-01 01:37 Module Introduction | 2min
