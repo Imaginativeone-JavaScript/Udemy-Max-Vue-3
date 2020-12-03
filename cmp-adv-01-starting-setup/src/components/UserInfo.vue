@@ -1,10 +1,15 @@
 <template>
   <base-card>
-    <header>
+    <!-- <header> -->
+    <template v-slot:df-header>
       <h3>{{ fullName }}</h3>
       <base-badge :type="role" :caption="role.toUpperCase()"></base-badge>
-    </header>
-    <p>{{ infoText }}</p>
+    </template> 
+    <!-- </header> -->
+    <!-- Define the default slot on purpose -->
+    <template v-slot:default>
+      <p>{{ infoText }}</p>
+    </template>
   </base-card>
 </template>
 

@@ -358,6 +358,7 @@
 					  - <base-card> wrapper	
 				- props do not contain/deliver markup content
 				- 05:04, Introduction of the <slot> tag
+				  - 01:03 Sometimes you have the scenario that your custom component should have multiple slots.
 			- [ ] 110 09-06 05:35 Named Slots
 			- [ ] 111 09-07 02:26 Slot Styles & Compilation
 			- [ ] 112 09-08 07:19 More on Slots

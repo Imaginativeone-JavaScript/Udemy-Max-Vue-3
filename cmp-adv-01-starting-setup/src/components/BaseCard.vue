@@ -1,5 +1,9 @@
 <template>
   <div>
+    <!-- Add a header slot -->
+    <header>
+      <slot name="df-header"></slot>
+    </header>
     <slot></slot>
   </div>
 </template>
