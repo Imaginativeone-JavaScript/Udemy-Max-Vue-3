@@ -2,7 +2,9 @@
   <div>
     <!-- Add a header slot -->
     <header>
-      <slot name="df-header"></slot>
+      <slot name="df-header">
+        <h2>The Default Content</h2>
+      </slot>
     </header>
     <slot></slot>
   </div>
