@@ -375,6 +375,7 @@
 				- Tabs!!!
 			- [x] 115 09-11 02:44 Keeping Dynamic Components Alive
 		- [ ] 116 09-12 09:24 Applying What We Know & A Problem
+		  - 02:21 Building my own modal
 		- [ ] 117 09-13 03:50 Teleporting Elements
 		- [ ] 118 09-14 01:23 Working with Fragments
 		- [ ] 119 09-15 03:02 The Vue Style Guide
