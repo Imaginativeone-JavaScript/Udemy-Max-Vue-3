@@ -393,8 +393,8 @@
 			- layout (headers, footers)
 			- by-feature
 			  - cart, checkout, products
-		- [ ] 121 09-17 03:38 Module Summary
-		- [ ] 122 09-00 00:06 Module Resources
+		- [x] 121 09-17 03:38 Module Summary
+		- [x] 122 09-00 00:06 Module Resources
 	## S10: Course Prj: The Learning Rsrces App
 	- [ ] S10: Course Prj: The Lrng Rsrces App 00/14 | 1hr 24min
 		- [ ] 123 10-01 01:37 Module Introduction | 2min
@@ -413,7 +413,7 @@
 		- [ ] 136 10-00 00:06 Module Resources | 1min
 	## S11: Forms
 	- [ ] S11: Forms 00/10 | 43min
-		- [ ] 137 Module Introduction | 1min
+		- [x] 137 Module Introduction | 1min
 		- [ ] 138 v-model & Inputs | 6min
 		- [ ] 139 Working with v-model Modifiers and Numbers | 7min
 		- [ ] 140 v-model and Dropdowns | 2min
