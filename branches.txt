@@ -1,6 +1,7 @@
 git branch | grep '^V[0-9][0-9][0-9]\-.*$' | xargs git branch -d
 
 git branch -d `git branch | grep '^V[0-9][0-9][0-9]\-.*$'`
+git branch -d `git branch | grep "V[0-9][0-9][0-9][0-9][0-9][0-9]\-"` // This works
 
   Section-02-Basics-and-Core-Concepts
 * Section-0344-Rendering-Conditional-Content-and-Lists-t004300
