@@ -377,11 +377,13 @@
 		- [ ] 116 09-12 09:24 Applying What We Know & A Problem
 		  - 02:21 Building my own modal
 			- Need for teleport
-		- [ ] 117 09-13 03:50 Teleporting Elements
+		- [x] 117 09-13 03:50 Teleporting Elements
 		  - 'teleport' is a built-in Vue Component
 			  - just like "Component" and "keepalive"
 		  - Semantic location of modal HTML
-		- [ ] 118 09-14 01:23 Working with Fragments
+		- [x] 118 09-14 01:23 Working with Fragments
+		  - Multiple top-level html elements are now supported
+			- A single root element, per-template, is no longer necessary
 		- [ ] 119 09-15 03:02 The Vue Style Guide
 		- [ ] 120 09-16 02:56 Moving to a Dif Foldr Structr
 		- [ ] 121 09-17 03:38 Module Summary
