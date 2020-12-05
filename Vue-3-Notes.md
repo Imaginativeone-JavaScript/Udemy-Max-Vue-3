@@ -388,7 +388,11 @@
 		  - Optimal folder structure
 			- Names of Components
 			- Vue Style Guide: https://v3.vuejs.org/style-guide/
-		- [ ] 120 09-16 02:56 Moving to a Different Folder Structure
+		- [x] 120 09-16 02:56 Moving to a Different Folder Structure
+		  - UI (Base Components)
+			- layout (headers, footers)
+			- by-feature
+			  - cart, checkout, products
 		- [ ] 121 09-17 03:38 Module Summary
 		- [ ] 122 09-00 00:06 Module Resources
 	## S10: Course Prj: The Learning Rsrces App
