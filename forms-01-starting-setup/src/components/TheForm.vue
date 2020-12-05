@@ -1,8 +1,13 @@
 <template>
-  <form>
+  <form @submit.prevent="submitForm">
     <div class="form-control">
       <label for="user-name">Your Name</label>
-      <input id="user-name" name="user-name" type="text" />
+      <!-- Options for getting this input: -->
+      <!-- v-model, or @input, to listen to every keystroke -->
+      <!-- <input id="user-name" name="user-name" type="text" @input /> -->
+      <!-- <input id="user-name" name="user-name" type="text" v-model="" /> -->
+      <!-- Max will add a couple of data properties first -->
+      <input id="user-name" name="user-name" type="text" v-model="userName"/>
     </div>
     <div class="form-control">
       <label for="age">Your Age (Years)</label>
@@ -51,6 +56,22 @@
     </div>
   </form>
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      userName: '' // Empty string as an initial value
+    }
+  },
+  methods: {
+    submitForm() {
+      console.log('Username: ' + this.userName);
+      this.userName = '';
+    }
+  }
+}
+</script>
 
 <style scoped>
 form {
