@@ -412,17 +412,18 @@
 		- [ ] 135 10-13 01:42 Adding "Teleport" | 1min
 		- [ ] 136 10-00 00:06 Module Resources | 1min
 	## S11: Forms
-	- [ ] S11: Forms 00/10 | 43min
-		- [x] 137 Module Introduction | 1min
-		- [ ] 138 v-model & Inputs | 6min
-		- [ ] 139 Working with v-model Modifiers and Numbers | 7min
-		- [ ] 140 v-model and Dropdowns | 2min
-		- [ ] 141 Using v-model with Checkboxes & Radiobuttons | 7min
-		- [ ] 142 Adding Basic Form Validation | 5min
-		- [ ] 143 Building a Custom Control Component | 6min
-		- [ ] 144 Using v-model on Custom Components | 7min
-		- [ ] 145 Module Summary | 1min
-		- [ ] 146 Module Resources | 1min
+	- [ ] S11: Forms 10 | 43min
+		- [x] 137316 11-01-10 0033 Module Introduction
+		- [ ] 138316 11-02-10 0603 v-model & Inputs
+		- [ ] 139316 11-03-10 0654 Working w v-model Modifiers and Numbers 
+		- [ ] 140316 11-04-10 0225 v-model and Dropdowns 
+		- [ ] 141316 11-05-10 0713 Using v-model w Checkboxes & Radiobuttons 
+		- [ ] 142316 11-06-10 0513 Adding Basic Form Validation
+		- [ ] 143316 11-07-10 0627 Building a Custom Control Component 
+		- [ ] 144316 11-08-10 0648 Using v-model on Custom Components 
+		- [ ] 145316 11-09-10 0114 Module Summary
+		- [ ] 146316 11-10-10 0006 Module Resources
+
 	## S12: Sending Http Requests
 	- [ ] S12: Sending Http Requests 00/15 | 55min
 		- [ ] 147 Module Introduction | 1min
