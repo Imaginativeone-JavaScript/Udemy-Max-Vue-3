@@ -414,8 +414,8 @@
 	## S11: Forms
 	- [ ] S11: Forms 10 | 43min
 		- [x] 137316 11-01-10 0033 Module Introduction
-		- [ ] 138316 11-02-10 0603 v-model & Inputs
-		- [ ] 139316 11-03-10 0654 Working w v-model Modifiers and Numbers 
+		- [x] 138316 11-02-10 0603 v-model & Inputs
+		- [x] 139316 11-03-10 0654 Working w v-model Modifiers and Numbers 
 		- [ ] 140316 11-04-10 0225 v-model and Dropdowns 
 		- [ ] 141316 11-05-10 0713 Using v-model w Checkboxes & Radiobuttons 
 		- [ ] 142316 11-06-10 0513 Adding Basic Form Validation

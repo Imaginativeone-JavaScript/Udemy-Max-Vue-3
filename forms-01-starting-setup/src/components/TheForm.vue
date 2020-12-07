@@ -11,7 +11,9 @@
     </div>
     <div class="form-control">
       <label for="age">Your Age (Years)</label>
-      <input id="age" name="age" type="number" />
+      <!-- https://vuejs.org/v2/guide/forms.html -->
+      <!-- v-model modifiers -->
+      <input id="age" name="age" type="number" v-model.number="userAge" ref="ageInput"/>
     </div>
     <div class="form-control">
       <label for="referrer">How did you hear about us?</label>
@@ -61,13 +63,23 @@
 export default {
   data() {
     return {
-      userName: '' // Empty string as an initial value
+      userName: '',
+      userAge: null
     }
   },
   methods: {
     submitForm() {
       console.log('Username: ' + this.userName);
       this.userName = '';
+
+      console.log('User Age: ');
+      console.log(this.userAge + 5);
+      console.log(typeof this.userAge);
+      console.log(this.$refs.ageInput.value + 5);
+      console.log(31);
+      this.userAge = null;
+
+      // look at line 14
     }
   }
 }
