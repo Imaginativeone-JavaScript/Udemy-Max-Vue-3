@@ -55,6 +55,12 @@
         <label for="how-other">Other</label>
       </div>
     </div>
+    <!-- What if I have a Single Checkbox? -->
+    <div class="form-control">
+      <h2>Terms of Use</h2>
+      <input type="checkbox" id="confirm-terms" name="confirm-terms" v-model="confirm">
+      <label for="confirm-terms">Agree to terms of use?</label>
+    </div>
     <div>
       <button>Save Data</button>
     </div>
@@ -74,7 +80,9 @@ export default {
       // formerly null
       interest: [],
       // radio buttons
-      how: null
+      how: null,
+      // single, non-grouped checkbox, see line 61
+      confirm: false
     }
   },
   methods: {
@@ -97,6 +105,11 @@ export default {
       console.log(this.how);
       this.interest = [];
       this.how = null;
+
+      // Confirmation Checkbox
+      console.log('Confirm?');
+      console.log(this.confirm);
+      this.confirm = false;
     }
   }
 }
