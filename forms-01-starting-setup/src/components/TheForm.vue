@@ -24,32 +24,34 @@
       </select>
     </div>
     <div class="form-control">
+      <!-- For checkboxes and radio buttons, the groups of controls -->
+      <!-- share the same name -->
       <h2>What are you interested in?</h2>
       <div>
-        <input id="interest-news" name="interest" type="checkbox" />
+        <input id="interest-news" name="interest" type="checkbox" v-model="interest" />
         <label for="interest-news">News</label>
       </div>
       <div>
-        <input id="interest-tutorials" name="interest" type="checkbox" />
+        <input id="interest-tutorials" name="interest" type="checkbox" v-model="interest" />
         <label for="interest-tutorials">Tutorials</label>
       </div>
       <div>
-        <input id="interest-nothing" name="interest" type="checkbox" />
+        <input id="interest-nothing" name="interest" type="checkbox" v-model="interest" />
         <label for="interest-nothing">Nothing</label>
       </div>
     </div>
     <div class="form-control">
       <h2>How do you learn?</h2>
       <div>
-        <input id="how-video" name="how" type="radio" />
+        <input id="how-video" name="how" type="radio" v-model="how" />
         <label for="how-video">Video Courses</label>
       </div>
       <div>
-        <input id="how-blogs" name="how" type="radio" />
+        <input id="how-blogs" name="how" type="radio" v-model="how" />
         <label for="how-blogs">Blogs</label>
       </div>
       <div>
-        <input id="how-other" name="how" type="radio" />
+        <input id="how-other" name="how" type="radio" v-model="how" />
         <label for="how-other">Other</label>
       </div>
     </div>
@@ -67,7 +69,11 @@ export default {
       userAge: null,
       // dropdown
       // 'wom' is the statrting value
-      referrer: 'wom'
+      referrer: 'wom',
+      // checkboxes, see the html controls for the use of v-model
+      interest: null,
+      // radio buttons
+      how: null
     }
   },
   methods: {
@@ -84,6 +90,10 @@ export default {
       // look at line 14
       console.log('Referrer: ' + this.referrer);
       this.referrer = 'wom';
+      console.log('Checkboxes');
+      console.log(this.interest);
+      console.log('Radio Buttons');
+      console.log(this.how);
     }
   }
 }
