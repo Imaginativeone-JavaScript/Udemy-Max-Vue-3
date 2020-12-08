@@ -57,7 +57,11 @@
       </div>
     </div>
     <div class="form-control">
-      <rating-control></rating-control>
+      <!-- <rating-control v-model="rating"></rating-control> -->
+      <!-- <rating-control :model-value="rating" @update:modelValue="rating"></rating-control> -->
+      <!-- Accepting the prop of [modelValue] -->
+      <!-- Emitting the event of [update:modelValue] -->
+      <rating-control v-model="rating"></rating-control>
     </div>
     <!-- What if I have a Single Checkbox? -->
     <div class="form-control">
@@ -91,6 +95,7 @@ export default {
       how: null,
       // single, non-grouped checkbox, see line 61
       confirm: false,
+      rating: null,
       userNameValidity: 'pending'
     }
   },
@@ -119,6 +124,10 @@ export default {
       console.log('Confirm?');
       console.log(this.confirm);
       this.confirm = false;
+
+      console.log('Rating');
+      console.log(this.rating);
+      this.rating = null;
     },
     validateInput() {
       console.log('Focus lost');
