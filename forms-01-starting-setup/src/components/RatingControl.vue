@@ -1,9 +1,9 @@
 <template>
   <ul>
     <!-- Type of "button" overrides ordinary Form-Submit behavior -->
-    <li :class="{active: activeOption === 'poor'}"><button type="button" @click="activate('poor')">Poor</button></li>
-    <li :class="{active: activeOption === 'average'}"><button type="button" @click="activate('average')">Average</button></li>
-    <li :class="{active: activeOption === 'great'}"><button type="button" @click="activate('great')">Great</button></li>
+    <li :class="{active: modelValue === 'poor'}"><button type="button" @click="activate('poor')">Poor</button></li>
+    <li :class="{active: modelValue === 'average'}"><button type="button" @click="activate('average')">Average</button></li>
+    <li :class="{active: modelValue === 'great'}"><button type="button" @click="activate('great')">Great</button></li>
   </ul>
 </template>
 
@@ -11,12 +11,20 @@
 export default {
   props: ['modelValue'],
   emits: ['update:modelValue'],
-  data() {
-    return {
-      // activeOption: null
-      activeOption: this.modelValue
-    };
-  },
+  // data() {
+  //   return {
+  //     // activeOption: null
+  //     activeOption: this.modelValue
+  //   };
+  // },
+
+  // Option A; Option B is to change lines 4, 5, and 6 from
+  //  activeOption ===, to modelValue ===
+  // computed: {
+  //   activeOption() {
+  //     return this.modelValue;
+  //   }
+  // },
   methods: {
     activate(option) {
       this.activeOption = option;
