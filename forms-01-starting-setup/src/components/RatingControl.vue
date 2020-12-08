@@ -1,9 +1,9 @@
 <template>
   <ul>
     <!-- Type of "button" overrides ordinary Form-Submit behavior -->
-    <li><button type="button" @click="activate('poor')">Poor</button></li>
-    <li><button type="button" @click="activate('average')">Average</button></li>
-    <li><button type="button" @click="activate('great')">Great</button></li>
+    <li :class="{active: activeOption === 'poor'}"><button type="button" @click="activate('poor')">Poor</button></li>
+    <li :class="{active: activeOption === 'average'}"><button type="button" @click="activate('average')">Average</button></li>
+    <li :class="{active: activeOption === 'great'}"><button type="button" @click="activate('great')">Great</button></li>
   </ul>
 </template>
 
