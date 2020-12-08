@@ -1,18 +1,37 @@
 <template>
   <ul>
-    <li><button>Poor</button></li>
-    <li><button>Average</button></li>
-    <li><button>Great</button></li>
-  </ul>  
+    <!-- Type of "button" overrides ordinary Form-Submit behavior -->
+    <li><button type="button" @click="activate('poor')">Poor</button></li>
+    <li><button type="button" @click="activate('average')">Average</button></li>
+    <li><button type="button" @click="activate('great')">Great</button></li>
+  </ul>
 </template>
 
 <script>
 export default {
-
+  data() {
+    return {
+      activeOption: null
+    };
+  },
+  methods: {
+    activate(option) {
+      this.activeOption = option;
+      console.log(this.activeOption);
+    }
+  }
 }
 </script>
 
 <style scoped>
+.active {
+  border-color: #a00078;
+}
+
+.active button {
+  color: #a00078;
+}
+
 ul {
   list-style: none;
   margin: 0.5rem 0;
