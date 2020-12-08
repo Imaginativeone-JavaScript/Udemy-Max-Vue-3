@@ -56,6 +56,9 @@
         <label for="how-other">Other</label>
       </div>
     </div>
+    <div class="form-control">
+      <rating-control></rating-control>
+    </div>
     <!-- What if I have a Single Checkbox? -->
     <div class="form-control">
       <h2>Terms of Use</h2>
@@ -69,7 +72,11 @@
 </template>
 
 <script>
+import RatingControl from './RatingControl.vue';
 export default {
+  components: {
+    RatingControl
+  },
   data() {
     return {
       userName: '',
