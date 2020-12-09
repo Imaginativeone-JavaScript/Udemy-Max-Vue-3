@@ -425,49 +425,55 @@
 		- [ ] 146316 11-10-10 0006 Module Resources
 
 	## S12: Sending Http Requests
-	- [ ] S12: Sending Http Requests 00/15 | 55min
-		- [ ] 147 Module Introduction | 1min
-		- [ ] 148 Starting App & Why we need a Backend | 5min
-		- [ ] 149 Adding a Backend | 3min
-		- [ ] 150 How To (Not) Send Http Requests | 5min
-		- [ ] 151 Sending a POST Request to Store Data | 6min
-		- [ ] 152 Http Requests & Http Methods (Verbs) | 1min
-		- [ ] 153 Using Axios Instead Of "fetch()" | 1min
-		- [ ] 154 Getting Data (GET Req) & Transforming Rspnse Data | 10min
-		- [ ] 155 Loading Data When a Component Mounts | 2min
-		- [ ] 156 Showing a "Loading..." Message | 3min
-		- [ ] 157 Handling the "No Data" State | 3min
-		- [ ] 158 Handling Technical / Browser-side Errors | 7min
-		- [ ] 159 Handling Error Responses | 7min
-		- [ ] 160 Module Summary | 2min
-		- [ ] 161 Module Resources | 1min
+	- [ ] S12: Sending Http Requests 15 | 55min
+		- [ ] 147316 12-01-15 0109 Module Introduction
+		  - Connect to a Backend
+			- What is a Backend?
+			- Set up a dummy backend
+			- Sending HTTP Requests from our Vue to the Backend
+		- [ ] 148316 12-02-15 0504 Starting App & Why we need a Backend
+		- [ ] 149316 12-03-15 0321 Adding a Backend
+		- [ ] 150316 12-04-15 0523 How To (Not) Send Http Requests
+		- [ ] 151316 12-05-15 0545 Sending a POST Request to Store Data
+		- [ ] 152316 12-06-15 0037 Http Requests & Http Methods (Verbs)
+		- [ ] 153316 12-07-15 0047 Using Axios Instead Of "fetch()"
+		- [ ] 154316 12-08-15 0951 Getting Data (GET Req) & Transfg Rsp Data
+		- [ ] 155316 12-09-15 0200 Loading Data When a Component Mounts
+		- [ ] 156316 12-10-15 0255 Showing a "Loading..." Message
+		- [ ] 157316 12-11-15 0300 Handling the "No Data" State
+		- [ ] 158316 12-12-15 0641 Handling Technical & Browser-side Errors
+		- [ ] 159316 12-13-15 0649 Handling Error Responses
+		- [ ] 160316 12-14-15 0132 Module Summary
+		- [ ] 161316 12-15-15 0006 Module Resources
+
 	## Sec 13: Routing: Bldg "Multi-Pg" Sgl Pg Apps
 	- [ ] Sec 13: Routing: Bldg "Multi-Pg" Sgl Pg Apps 25 01:58:00
-		- [ ] 162 Module Introduction | 1min
-		- [ ] 163 What & Why? | 5min
-		- [ ] 164 Routing Setup | 5min
-		- [ ] 165 Registering & Rendering Routes | 6min
-		- [ ] 166 Navigating with router-link | 5min
-		- [ ] 167 Styling Active Links | 3min
-		- [ ] 168 Programmatic Navigation | 4min
-		- [ ] 169 Passing Data with Route Params (Dynamic Segmts) | 11m ****
-		- [ ] 170 Navigation & Dynamic Paths | 3min ****
-		- [ ] 171 Updating Params Data with Watchers | 6min
-		- [ ] 172 Passing Params as Props | 4min
-		- [ ] 173 Redirecting & "Catch All" Routes | 8min
-		- [ ] 174 Using Nested Routes | 6min ****
-		- [ ] 175 More Fun w Named Routes & Location Objects | 5min
-		- [ ] 176 Using Query Params | 4min
-		- [ ] 177 Rendering Multiple Routes with Named Router Views | 6min
-		- [ ] 178 Controlling Scroll Behavior | 6min
-		- [ ] 179 Introducing Navigation Guards | 8min
-		- [ ] 180 Diving Deeper Into Navigation Guards | 7min
-		- [ ] 181 The Global "afterEach" Guard | 1min
-		- [ ] 182 Beyond Entering: Route Leave Guards | 7min
-		- [ ] 183 Utilizing Route Metadata | 2min
-		- [ ] 184 Organizing Route Files | 5min
-		- [ ] 185 Summary | 2min
-		- [ ] 186 Module Resources | 1min
+		- [ ] 162316 13-01-26 0041 Module Introduction
+		- [ ] 163316 13-02-26 0439 What & Why?
+		- [ ] 164316 13-03-26 0436 Routing Setup
+		- [ ] 165316 13-04-26 0625 Registering & Rendering Routes
+		- [ ] 166316 13-05-26 0455 Navigating with router-link
+		- [ ] 167316 13-06-26 0305 Styling Active Links
+		- [ ] 168316 13-07-26 0401 Programmatic Navigation
+		- [ ] 169316 13-08-26 1046 Passing Data w Route Params (Dynamic Segs)
+		- [ ] 170316 13-09-26 0300 Navigation & Dynamic Paths ***
+		- [ ] 171316 13-10-26 0013 A Vue Bug
+		- [ ] 172316 13-11-26 0530 Updating Params Data with Watchers
+		- [ ] 173316 13-12-26 0337 Passing Params as Props
+		- [ ] 174316 13-13-26 0750 Redirecting & "Catch All" Routes
+		- [ ] 175316 13-14-26 0534 Using Nested Routes
+		- [ ] 176316 13-15-26 0521 More Fun w Named Routes & Location Objects
+		- [ ] 177316 13-16-26 0359 Using Query Params
+		- [ ] 178316 13-17-26 0551 Rendering Mult Routes w Named Router Views
+		- [ ] 179316 13-18-26 0617 Controlling Scroll Behavior
+		- [ ] 180316 13-19-26 0731 Introducing Navigation Guards
+		- [ ] 181316 13-20-26 0650 Diving Deeper Into Navigation Guards
+		- [ ] 182316 13-21-26 0127 The Global "afterEach" Guard
+		- [ ] 183316 13-22-26 0713 Beyond Entering: Route Leave Guards
+		- [ ] 184316 13-23-26 0214 Utilizing Route Metadata
+		- [ ] 185316 13-24-26 0449 Organizing Route Files
+		- [ ] 186316 13-25-26 0212 Summary
+		- [ ] 187316 13-26-26 0006 Module Resources
 	## S14: Animations & Transitions
 	- [ ] S14: Animations & Transitions 19 01:47:00
 		- [ ] 187 Module Introduction | 1min
