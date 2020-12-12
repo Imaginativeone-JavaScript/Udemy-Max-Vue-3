@@ -435,7 +435,15 @@
 		- [x] 149316 12-03-15 0321 Adding a Backend
 		  - Firebase
 			- https://console.firebase.google.com/project/vue-http-demo-2a51d/database/vue-http-demo-2a51d-default-rtdb/data
-		- [ ] 150316 12-04-15 0523 How To (Not) Send Http Requests
+		- [x] 150316 12-04-15 0523 How To (Not) Send Http Requests
+		  - How do I communicate with Firebase now?
+			- <form @submit.prevent> // Prevented from sending an HTTP request
+			- Remove the prevent
+			- HTTP Requests sent to the local computer (and thus, the void)
+			- https://vue-http-demo-2a51d-default-rtdb.firebaseio.com/
+			- npmjs.com; Axios
+			- fetch('https://vue-http-demo-2a51d-default-rtdb.firebaseio.com/'); // Fetch AND Serve data
+			- from now on, HTTP requests sent to backend, behind the scenes
 		- [ ] 151316 12-05-15 0545 Sending a POST Request to Store Data
 		- [ ] 152316 12-06-15 0037 Http Requests & Http Methods (Verbs)
 		- [ ] 153316 12-07-15 0047 Using Axios Instead Of "fetch()"
