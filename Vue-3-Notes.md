@@ -432,7 +432,9 @@
 			- Set up a dummy backend
 			- Sending HTTP Requests from our Vue to the Backend
 		- [x] 148316 12-02-15 0504 Starting App & Why we need a Backend
-		- [ ] 149316 12-03-15 0321 Adding a Backend
+		- [x] 149316 12-03-15 0321 Adding a Backend
+		  - Firebase
+			- https://console.firebase.google.com/project/vue-http-demo-2a51d/database/vue-http-demo-2a51d-default-rtdb/data
 		- [ ] 150316 12-04-15 0523 How To (Not) Send Http Requests
 		- [ ] 151316 12-05-15 0545 Sending a POST Request to Store Data
 		- [ ] 152316 12-06-15 0037 Http Requests & Http Methods (Verbs)
