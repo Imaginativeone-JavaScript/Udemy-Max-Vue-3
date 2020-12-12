@@ -445,6 +445,8 @@
 			- fetch('https://vue-http-demo-2a51d-default-rtdb.firebaseio.com/'); // Fetch AND Serve data
 			- from now on, HTTP requests sent to backend, behind the scenes
 		- [ ] 151316 12-05-15 0545 Sending a POST Request to Store Data
+		  - How does fetch work?
+			- Demo App, line 63
 		- [ ] 152316 12-06-15 0037 Http Requests & Http Methods (Verbs)
 		- [ ] 153316 12-07-15 0047 Using Axios Instead Of "fetch()"
 		- [ ] 154316 12-08-15 0951 Getting Data (GET Req) & Transfg Rsp Data
