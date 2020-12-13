@@ -446,10 +446,13 @@
 			- from now on, HTTP requests sent to backend, behind the scenes
 		- [x] 151316 12-05-15 0545 Sending a POST Request to Store Data
 		  - How does fetch work?
-			- Demo App, line 63
-		- [ ] 152316 12-06-15 0037 Http Requests & Http Methods (Verbs)
-		- [ ] 153316 12-07-15 0047 Using Axios Instead Of "fetch()"
-		- [ ] 154316 12-08-15 0951 Getting Data (GET Req) & Transfg Rsp Data
+			- Demo App, line 6
+		- [x] 152316 12-06-15 0037 Http Requests & Http Methods (Verbs)
+		- [x] 153316 12-07-15 0047 Using Axios Instead Of "fetch()"
+		- [x] 154316 12-08-15 0951 Getting Data (GET Req) & Transfg Rsp Data
+		  - Get the data stored on the server
+			- fetch() returns a promise
+			- Showing the results on the screen
 		- [ ] 155316 12-09-15 0200 Loading Data When a Component Mounts
 		- [ ] 156316 12-10-15 0255 Showing a "Loading..." Message
 		- [ ] 157316 12-11-15 0300 Handling the "No Data" State
