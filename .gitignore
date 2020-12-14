@@ -2,3 +2,4 @@
 *.zip
 .history
 package-lock.json
+./
