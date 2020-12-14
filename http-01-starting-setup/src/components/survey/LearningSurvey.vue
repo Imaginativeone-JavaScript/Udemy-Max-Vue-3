@@ -68,12 +68,12 @@ export default {
 
       this.error = null;
 
-      fetch('https://vue-http-demo-2a51d-default-rtdb.firebaseio.com/surveys', {
+      fetch('https://vue-http-demo-2a51d-default-rtdb.firebaseio.com/surveys.json', {
         method: 'POST',
         headers: {
           'Content-Type': 'applications/json'
         },
-        body: JSON.stringify({ name: this.enteredName, rating: this.chosenRating }),
+        body: ({ name: this.enteredName, rating: this.chosenRating }),
       }).catch(error => {
         console.log(error);
         this.error = 'Something went wrong - try again later!';
