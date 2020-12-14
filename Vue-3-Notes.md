@@ -454,6 +454,10 @@
 			- fetch() returns a promise
 			- Showing the results on the screen
 		- [ ] 155316 12-09-15 0200 Loading Data When a Component Mounts
+		  - Fetch all data from the server automatically
+			- Vue component lifecycle graphic
+			- mounted() {} hook
+			  - triggered when the vue app is fully initialized and ready to get started
 		- [ ] 156316 12-10-15 0255 Showing a "Loading..." Message
 		- [ ] 157316 12-11-15 0300 Handling the "No Data" State
 		- [ ] 158316 12-12-15 0641 Handling Technical & Browser-side Errors
