@@ -463,7 +463,7 @@
 		- [x] 157316 12-11-15 0300 Handling the "No Data" State
 		  - Deleted survey data
 		- [x] 158316 12-12-15 0641 Handling Technical & Browser-side Errors
-		- [ ] 
+		- [x] 159316 12-13-15 0649 Handling Error Responses
 		  - LearningSurvey.vue
 			- 02:34 Server Error
 		- [ ] 160316 12-14-15 0132 Module Summary
