@@ -453,7 +453,7 @@
 		  - Get the data stored on the server
 			- fetch() returns a promise
 			- Showing the results on the screen
-		- [ ] 155316 12-09-15 0200 Loading Data When a Component Mounts
+		- [x] 155316 12-09-15 0200 Loading Data When a Component Mounts
 		  - Fetch all data from the server automatically
 			- Vue component lifecycle graphic
 			- mounted() {} hook
