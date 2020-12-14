@@ -466,7 +466,7 @@
 		- [x] 159316 12-13-15 0649 Handling Error Responses
 		  - LearningSurvey.vue
 			- 02:34 Server Error
-		- [ ] 160316 12-14-15 0132 Module Summary
+		- [x] 160316 12-14-15 0132 Module Summary
 		- [ ] 161316 12-15-15 0006 Module Resources
 
 	## Sec 13: Routing: Bldg "Multi-Pg" Sgl Pg Apps
