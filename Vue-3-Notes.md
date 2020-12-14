@@ -412,35 +412,62 @@
 		- [ ] 135 10-13 01:42 Adding "Teleport" | 1min
 		- [ ] 136 10-00 00:06 Module Resources | 1min
 	## S11: Forms
-	- [ ] S11: Forms 10 | 43min
+	- [x] S11: Forms 10 | 43min
 		- [x] 137316 11-01-10 0033 Module Introduction
 		- [x] 138316 11-02-10 0603 v-model & Inputs
 		- [x] 139316 11-03-10 0654 Working w v-model Modifiers and Numbers 
-		- [ ] 140316 11-04-10 0225 v-model and Dropdowns 
-		- [ ] 141316 11-05-10 0713 Using v-model w Checkboxes & Radiobuttons 
-		- [ ] 142316 11-06-10 0513 Adding Basic Form Validation
-		- [ ] 143316 11-07-10 0627 Building a Custom Control Component 
-		- [ ] 144316 11-08-10 0648 Using v-model on Custom Components 
-		- [ ] 145316 11-09-10 0114 Module Summary
-		- [ ] 146316 11-10-10 0006 Module Resources
+		- [x] 140316 11-04-10 0225 v-model and Dropdowns 
+		- [x] 141316 11-05-10 0713 Using v-model w Checkboxes & Radiobuttons 
+		- [x] 142316 11-06-10 0513 Adding Basic Form Validation
+		- [x] 143316 11-07-10 0627 Building a Custom Control Component 
+		- [x] 144316 11-08-10 0648 Using v-model on Custom Components 
+		- [x] 145316 11-09-10 0114 Module Summary
+		- [x] 146316 11-10-10 0006 Module Resources
 
 	## S12: Sending Http Requests
 	- [ ] S12: Sending Http Requests 15 | 55min
-		- [ ] 147316 12-01-15 0109 Module Introduction
-		- [ ] 148316 12-02-15 0504 Starting App & Why we need a Backend
-		- [ ] 149316 12-03-15 0321 Adding a Backend
-		- [ ] 150316 12-04-15 0523 How To (Not) Send Http Requests
-		- [ ] 151316 12-05-15 0545 Sending a POST Request to Store Data
-		- [ ] 152316 12-06-15 0037 Http Requests & Http Methods (Verbs)
-		- [ ] 153316 12-07-15 0047 Using Axios Instead Of "fetch()"
-		- [ ] 154316 12-08-15 0951 Getting Data (GET Req) & Transfg Rsp Data
-		- [ ] 155316 12-09-15 0200 Loading Data When a Component Mounts
-		- [ ] 156316 12-10-15 0255 Showing a "Loading..." Message
-		- [ ] 157316 12-11-15 0300 Handling the "No Data" State
-		- [ ] 158316 12-12-15 0641 Handling Technical and Browser-side Errors
-		- [ ] 159316 12-13-15 0649 Handling Error Responses
-		- [ ] 160316 12-14-15 0132 Module Summary
-		- [ ] 161316 12-15-15 0006 Module Resources
+		- [x] 147316 12-01-15 0109 Module Introduction
+		  - Connect to a Backend
+			- What is a Backend?
+			- Set up a dummy backend
+			- Sending HTTP Requests from our Vue to the Backend
+		- [x] 148316 12-02-15 0504 Starting App & Why we need a Backend
+		- [x] 149316 12-03-15 0321 Adding a Backend
+		  - Firebase
+			- https://console.firebase.google.com/project/vue-http-demo-2a51d/database/vue-http-demo-2a51d-default-rtdb/data
+		- [x] 150316 12-04-15 0523 How To (Not) Send Http Requests
+		  - How do I communicate with Firebase now?
+			- <form @submit.prevent> // Prevented from sending an HTTP request
+			- Remove the prevent
+			- HTTP Requests sent to the local computer (and thus, the void)
+			- https://vue-http-demo-2a51d-default-rtdb.firebaseio.com/
+			- npmjs.com; Axios
+			- fetch('https://vue-http-demo-2a51d-default-rtdb.firebaseio.com/'); // Fetch AND Serve data
+			- from now on, HTTP requests sent to backend, behind the scenes
+		- [x] 151316 12-05-15 0545 Sending a POST Request to Store Data
+		  - How does fetch work?
+			- Demo App, line 6
+		- [x] 152316 12-06-15 0037 Http Requests & Http Methods (Verbs)
+		- [x] 153316 12-07-15 0047 Using Axios Instead Of "fetch()"
+		- [x] 154316 12-08-15 0951 Getting Data (GET Req) & Transfg Rsp Data
+		  - Get the data stored on the server
+			- fetch() returns a promise
+			- Showing the results on the screen
+		- [x] 155316 12-09-15 0200 Loading Data When a Component Mounts
+		  - Fetch all data from the server automatically
+			- Vue component lifecycle graphic
+			- mounted() {} hook
+			  - triggered when the vue app is fully initialized and ready to get started
+		- [x] 156316 12-10-15 0255 Showing a "Loading..." Message
+		  - New property in data() { return { isLoading: false } }
+		- [x] 157316 12-11-15 0300 Handling the "No Data" State
+		  - Deleted survey data
+		- [x] 158316 12-12-15 0641 Handling Technical & Browser-side Errors
+		- [x] 159316 12-13-15 0649 Handling Error Responses
+		  - LearningSurvey.vue
+			- 02:34 Server Error
+		- [x] 160316 12-14-15 0132 Module Summary
+		- [x] 161316 12-15-15 0006 Module Resources
 
 	## Sec 13: Routing: Bldg "Multi-Pg" Sgl Pg Apps
 	- [ ] Sec 13: Routing: Bldg "Multi-Pg" Sgl Pg Apps 25 01:58:00
