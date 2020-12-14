@@ -44,7 +44,7 @@ export default {
       // console.log('loadExperiences is working');
       // To force an error, I will use an incorrect URL
       // fetch('https://vue-http-demo-2a51d-default-rtdb.firebaseio.com/surveys.json')
-      fetch('https://vue-http-demo-2a51d-default-rtdb.firebaseio.com/surveys')
+      fetch('https://vue-http-demo-2a51d-default-rtdb.firebaseio.com/surveys.json')
       .then((response) => {
         if (response.ok) {
           return response.json();
