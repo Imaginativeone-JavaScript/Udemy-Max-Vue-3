@@ -469,7 +469,7 @@
 		- [x] 160316 12-14-15 0132 Module Summary
 		- [x] 161316 12-15-15 0006 Module Resources
 
-	## Sec 13: Routing: Bldg "Multi-Pg" Sgl Pg Apps
+	## S13: Routing: Building "Multi-Page" Single Page Applications
 	- [ ] Sec 13: Routing: Bldg "Multi-Pg" Sgl Pg Apps 25 01:58:00
 		- [x] 162316 13-01-26 0041 Module Introduction
 		- [ ] 163316 13-02-26 0439 What & Why?
