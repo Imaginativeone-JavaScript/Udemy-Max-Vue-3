@@ -425,7 +425,7 @@
 		- [x] 146316 11-10-10 0006 Module Resources
 
 	## S12: Sending Http Requests
-	- [ ] S12: Sending Http Requests 15 | 55min
+	- [x] S12: Sending Http Requests 15 | 55min
 		- [x] 147316 12-01-15 0109 Module Introduction
 		  - Connect to a Backend
 			- What is a Backend?
@@ -471,7 +471,7 @@
 
 	## Sec 13: Routing: Bldg "Multi-Pg" Sgl Pg Apps
 	- [ ] Sec 13: Routing: Bldg "Multi-Pg" Sgl Pg Apps 25 01:58:00
-		- [ ] 162316 13-01-26 0041 Module Introduction
+		- [x] 162316 13-01-26 0041 Module Introduction
 		- [ ] 163316 13-02-26 0439 What & Why?
 		- [ ] 164316 13-03-26 0436 Routing Setup
 		- [ ] 165316 13-04-26 0625 Registering & Rendering Routes
