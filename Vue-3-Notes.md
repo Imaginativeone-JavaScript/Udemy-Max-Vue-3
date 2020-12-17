@@ -478,9 +478,10 @@
 		- [ ] 166316 13-05-26 0455 Navigating with router-link
 		- [ ] 167316 13-06-26 0305 Styling Active Links
 		- [ ] 168316 13-07-26 0401 Programmatic Navigation
-		- [ ] 169316 13-08-26 1046 Passing Data w Route Params (Dynamic Segs)
+		- [ ] 169316 13-08-26 1046 Passing Data w Route Params (Dynamic Segments)
 		- [ ] 170316 13-09-26 0300 Navigation & Dynamic Paths ***
 		- [ ] 171316 13-10-26 0013 A Vue Bug
+
 		- [ ] 172316 13-11-26 0530 Updating Params Data with Watchers
 		- [ ] 173316 13-12-26 0337 Passing Params as Props
 		- [ ] 174316 13-13-26 0750 Redirecting & "Catch All" Routes
@@ -491,6 +492,7 @@
 		- [ ] 179316 13-18-26 0617 Controlling Scroll Behavior
 		- [ ] 180316 13-19-26 0731 Introducing Navigation Guards
 		- [ ] 181316 13-20-26 0650 Diving Deeper Into Navigation Guards
+		
 		- [ ] 182316 13-21-26 0127 The Global "afterEach" Guard
 		- [ ] 183316 13-22-26 0713 Beyond Entering: Route Leave Guards
 		- [ ] 184316 13-23-26 0214 Utilizing Route Metadata
