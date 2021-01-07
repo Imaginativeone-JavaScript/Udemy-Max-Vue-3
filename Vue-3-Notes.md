@@ -475,17 +475,17 @@
 		- [x] 163316 13-02-26 0439 What & Why?
 		- [x] 164316 13-03-26 0436 Routing Setup
 		- [x] 165316 13-04-26 0625 Registering & Rendering Routes
-		- [ ] 166316 13-05-26 0455 Navigating with router-link
+		- [x] 166316 13-05-26 0455 Navigating with router-link
 		- [ ] 167316 13-06-26 0305 Styling Active Links
 		- [ ] 168316 13-07-26 0401 Programmatic Navigation
-		- [ ] 169316 13-08-26 1046 Passing Data w Route Params (Dynamic Segments)
+		- [ ] 169316 13-08-26 1046 Passing Data w Route Params (Dynamic Segmts)
 		- [ ] 170316 13-09-26 0300 Navigation & Dynamic Paths ***
 		- [ ] 171316 13-10-26 0013 A Vue Bug
 
 		- [ ] 172316 13-11-26 0530 Updating Params Data with Watchers
 		- [ ] 173316 13-12-26 0337 Passing Params as Props
 		- [ ] 174316 13-13-26 0750 Redirecting & "Catch All" Routes
-		- [ ] 175316 13-14-26 0534 Using Nested Routes
+		- [ ] 175316 13-14-26 0534 Using Nested Routes ***
 		- [ ] 176316 13-15-26 0521 More Fun w Named Routes & Location Objects
 		- [ ] 177316 13-16-26 0359 Using Query Params
 		- [ ] 178316 13-17-26 0551 Rendering Mult Routes w Named Router Views
