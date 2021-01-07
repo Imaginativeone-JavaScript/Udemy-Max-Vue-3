@@ -473,8 +473,8 @@
 	- [ ] Sec 13: Routing: Bldg "Multi-Pg" Sgl Pg Apps 25 01:58:00
 		- [x] 162316 13-01-26 0041 Module Introduction
 		- [x] 163316 13-02-26 0439 What & Why?
-		- [ ] 164316 13-03-26 0436 Routing Setup
-		- [ ] 165316 13-04-26 0625 Registering & Rendering Routes
+		- [x] 164316 13-03-26 0436 Routing Setup
+		- [x] 165316 13-04-26 0625 Registering & Rendering Routes
 		- [ ] 166316 13-05-26 0455 Navigating with router-link
 		- [ ] 167316 13-06-26 0305 Styling Active Links
 		- [ ] 168316 13-07-26 0401 Programmatic Navigation

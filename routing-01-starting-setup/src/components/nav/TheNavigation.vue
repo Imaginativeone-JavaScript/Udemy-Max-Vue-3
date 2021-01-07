@@ -3,26 +3,19 @@
     <nav>
       <ul>
         <li>
-          <button @click="setActivePage('teams-list')">Teams</button>
+          <!-- <button @click="setActivePage('teams-list')">Teams</button> -->
+          <router-link to="/teams">Teams</router-link><!-- similar to anchor tag -->
         </li>
         <li>
-          <button @click="setActivePage('users-list')">Users</button>
+          <!-- <button @click="setActivePage('users-list')">Users</button> -->
+          <router-link to="/users">Users</router-link>
         </li>
       </ul>
     </nav>
   </header>
 </template>
 
-<script>
-export default {
-  emits: ['set-page'],
-  methods: {
-    setActivePage(page) {
-      this.$emit('set-page', page);
-    },
-  },
-};
-</script>
+<!-- Got rid of the entire script block -->
 
 <style scoped>
 header {
@@ -49,7 +42,8 @@ li {
   margin: 0 2rem;
 }
 
-button {
+a {
+  text-decoration: none;
   font: inherit;
   background: transparent;
   border: 1px solid transparent;
@@ -59,10 +53,27 @@ button {
   display: inline-block;
 }
 
-button:hover,
-button:active {
+/* button {
+  font: inherit;
+  background: transparent;
+  border: 1px solid transparent;
+  cursor: pointer;
+  color: white;
+  padding: 0.5rem 1.5rem;
+  display: inline-block;
+} */
+
+a:hover,
+a:active {
   color: #f1a80a;
   border-color: #f1a80a;
   background-color: #1a037e;
 }
+
+/* button:hover,
+button:active {
+  color: #f1a80a;
+  border-color: #f1a80a;
+  background-color: #1a037e;
+} */
 </style>
