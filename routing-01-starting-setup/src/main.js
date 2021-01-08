@@ -10,7 +10,8 @@ const router = createRouter({     // 2
   routes: [                       // 3
     { path: '/teams', component: TeamsList }, // 6, 8
     { path: '/users', component: UsersList } // 9
-  ]
+  ],
+  linkActiveClass: 'active' // router-link-active is the default, update styling
 });
 
 // Where do the routes load/render the components?
