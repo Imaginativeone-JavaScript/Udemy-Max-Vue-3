@@ -18,7 +18,9 @@ export default {
       // return '/teams/' + this.id;
       return {
         // path: '/teams/' + this.id // Use this feature in concert with Named Routes (main.js)
-        name: 'team-members', params: { teamId: this.id }
+        name: 'team-members', 
+        params: { teamId: this.id },
+        query: { sort: 'asc' }
       };
     }
   }

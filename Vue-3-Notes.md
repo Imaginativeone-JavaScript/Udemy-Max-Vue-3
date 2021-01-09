@@ -495,6 +495,9 @@
 		- [ ] 175316 13-14-26 0534 Using Nested Routes
 		- [ ] 176316 13-15-26 0521 More Fun w Named Routes & Location Objects
 		- [ ] 177316 13-16-26 0359 Using Query Params
+		  
+			Video Progress App - Elapsed Time, Time Remaining
+
 		- [ ] 178316 13-17-26 0551 Rendering Mult Routes w Named Router Views
 		- [ ] 179316 13-18-26 0617 Controlling Scroll Behavior
 		- [ ] 180316 13-19-26 0731 Introducing Navigation Guards

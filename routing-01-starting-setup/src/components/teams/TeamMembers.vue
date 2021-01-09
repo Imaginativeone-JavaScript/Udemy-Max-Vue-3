@@ -26,11 +26,6 @@ export default {
   },
   data() {
     return {
-      // teamName: 'Test',
-      // members: [
-      //   { id: 'u1', fullName: 'Max Schwarz', role: 'Engineer' },
-      //   { id: 'u2', fullName: 'Max Schwarz', role: 'Engineer' },
-      // ],
       teamName: '',
       members: []
     };
@@ -56,6 +51,7 @@ export default {
   created() {
     // Access to injected data, router data in particular
     this.loadTeamMembers(this.teamId); // used to be this.$route
+    console.log('Query Params', this.$route.query);
   },
   watch: { 
     teamId(newId) { // line 39, const teamId = this.$route.params.teamId
