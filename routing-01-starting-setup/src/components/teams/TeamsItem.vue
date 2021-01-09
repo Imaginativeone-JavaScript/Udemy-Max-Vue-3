@@ -15,7 +15,11 @@ export default {
   // add the id binding in TeamsList.vue
   computed: {
     teamMembersLink() {
-      return '/teams/' + this.id;
+      // return '/teams/' + this.id;
+      return {
+        // path: '/teams/' + this.id // Use this feature in concert with Named Routes (main.js)
+        name: 'team-members', params: { teamId: this.id }
+      };
     }
   }
 };

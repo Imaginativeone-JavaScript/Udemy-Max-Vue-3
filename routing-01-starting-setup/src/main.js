@@ -10,14 +10,13 @@ import NotFound from './components/nav/NotFound.vue';
 const router = createRouter({     // 2
   history: createWebHistory(),    // 4
   routes: [                       // 3
-    // { path: '/', component: TeamsList },
     { path: '/', redirect: '/teams' },
-    // { path: '/', alias: '/teams' },
-    // { path: '/teams', component: TeamsList, alias: '/'}, // 6, 8, with alias, URL doesn't change :-(
-    { path: '/teams', component: TeamsList, 
+    { 
+      name: 'teams',
+      path: '/teams', component: TeamsList, 
       children: [
         // { path: '/teams/:teamId', component: TeamMembers, props: true },
-        { path: ':teamId', component: TeamMembers, props: true },
+        { name: 'team-members', path: ':teamId', component: TeamMembers, props: true },
       ]
     },
     { path: '/users', component: UsersList }, // 9
