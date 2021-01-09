@@ -482,6 +482,13 @@
 		- [ ] 170316 13-09-26 0300 Navigation & Dynamic Paths ***
 		- [ ] 171316 13-10-26 0013 A Vue Bug
 
+		A Vue Bug
+		In the next lecture, you might encounter an error when following along.
+		
+		Uncaught (in promise) TypeError: Cannot read property 'members' of undefined
+		
+		This error occurs because of a bug with Vue.js (NOT because the code would be wrong). Fixing it is easy - have a look at this Q&A thread if you're running into the problem: https://www.udemy.com/course/vuejs-2-the-complete-guide/learn/#questions/12619882/
+
 		- [ ] 172316 13-11-26 0530 Updating Params Data with Watchers
 		- [ ] 173316 13-12-26 0337 Passing Params as Props
 		- [ ] 174316 13-13-26 0750 Redirecting & "Catch All" Routes
