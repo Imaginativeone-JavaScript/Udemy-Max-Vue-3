@@ -5,13 +5,20 @@ import App from './App.vue';
 import TeamsList from './components/teams/TeamsList.vue'; // 7
 import UsersList from './components/users/UsersList.vue'; // 10
 import TeamMembers from './components/teams/TeamMembers.vue';
+import NotFound from './components/nav/NotFound.vue';
 
 const router = createRouter({     // 2
   history: createWebHistory(),    // 4
   routes: [                       // 3
-    { path: '/teams', component: TeamsList }, // 6, 8
+    // { path: '/', component: TeamsList },
+    { path: '/', redirect: '/teams' },
+    // { path: '/', alias: '/teams' },
+    // { path: '/teams', component: TeamsList, alias: '/'}, // 6, 8, with alias, URL doesn't change :-(
+    { path: '/teams', component: TeamsList }, // 6, 8, with alias, URL doesn't change :-(
     { path: '/users', component: UsersList }, // 9
-    { path: '/teams/:teamId', component: TeamMembers, props:true } // order matters /teams/new needs to be abv
+    { path: '/teams/:teamId', component: TeamMembers, props:true }, // order matters /teams/new needs to be abv
+    // { path: '/:notFound(.*)', redirect: '/teams' } // Regex, catchall route
+    { path: '/:notFound(.*)', component: NotFound } // Regex, catchall route
   ],
   linkActiveClass: 'active' // router-link-active is the default, update styling
 });
