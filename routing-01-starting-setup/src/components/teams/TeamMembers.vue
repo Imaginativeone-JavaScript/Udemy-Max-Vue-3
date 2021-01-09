@@ -20,6 +20,7 @@ import UserItem from '../users/UserItem.vue';
 
 export default {
   inject: ['users', 'teams'],
+  props: ['teamId'],
   components: {
     UserItem
   },
@@ -35,8 +36,11 @@ export default {
     };
   },
   methods: {
-    loadTeamMembers(route) {
-      const teamId = route.params.teamId // available bc this component in loaded thru the router
+    loadTeamMembers(teamId) { // PROBLEM: Only loadable through routing! Add props capability. (route>teamId)
+                              // main.js Route config
+                              // { path: '/teams/:teamId', component: TeamMembers, props: true }
+                              // :teamId is now passed in as a prop
+      // const teamId = route.params.teamId // available bc this component in loaded thru the router
       const selectedTeam = this.teams.find(team => team.id === teamId);
       const members = selectedTeam.members;
       const selectedMembers = [];
@@ -51,11 +55,11 @@ export default {
   },
   created() {
     // Access to injected data, router data in particular
-    this.loadTeamMembers(this.$route);
+    this.loadTeamMembers(this.teamId); // used to be this.$route
   },
   watch: { 
-    $route(newRoute) { // line 39, const teamId = this.$route.params.teamId
-      this.loadTeamMembers(newRoute);
+    teamId(newId) { // line 39, const teamId = this.$route.params.teamId
+      this.loadTeamMembers(newId);
     }
   }
 };

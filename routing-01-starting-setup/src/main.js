@@ -11,7 +11,7 @@ const router = createRouter({     // 2
   routes: [                       // 3
     { path: '/teams', component: TeamsList }, // 6, 8
     { path: '/users', component: UsersList }, // 9
-    { path: '/teams/:teamId', component: TeamMembers } // order matters /teams/new needs to be abv
+    { path: '/teams/:teamId', component: TeamMembers, props:true } // order matters /teams/new needs to be abv
   ],
   linkActiveClass: 'active' // router-link-active is the default, update styling
 });
