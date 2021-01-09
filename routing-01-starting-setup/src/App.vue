@@ -5,6 +5,7 @@
     <main>
       <!-- <component :is="activePage"></component> -->
       <!-- /teams and /users -->
+      <!-- This is a ROOT (Route) Component -->
       <router-view></router-view>
       <!-- <router-view to="/teams"></router-view> -->
     </main>
