@@ -34,7 +34,14 @@ const router = createRouter({     // 2
     }, // 9
     { path: '/:notFound(.*)', component: NotFound } // Regex, catchall route
   ],
-  linkActiveClass: 'active' // router-link-active is the default, update styling
+  linkActiveClass: 'active', // router-link-active is the default, update styling
+  scrollBehavior(to, from, savedPosition) {
+    console.log(to, from, savedPosition);
+    if(savedPosition) {
+      return savedPosition;
+    }
+    return { left: 0, top: 0 };
+  }
 });
 
 // Where do the routes load/render the components?
