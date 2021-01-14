@@ -44,6 +44,22 @@ const router = createRouter({     // 2
   }
 });
 
+router.beforeEach(function(to, from, next) { // next is a function that can be cancelled
+
+  console.log('Global beforeEach');
+  console.log(from, to);
+  
+  /*
+  if (to.name === 'team-members') {
+    next();
+  } else {
+    // redirect to team-members (unauthenticated route)
+  }
+  */
+  next(); // or next(false) or a (route) string or a navigation object
+
+});  
+
 // Where do the routes load/render the components?
 
 const app = createApp(App)

@@ -498,9 +498,15 @@
 		  
 			Video Progress App - Elapsed Time, Time Remaining
 
-		- [ ] 178316 13-17-26 0551 Rendering Mult Routes w Named Router Views
-		- [ ] 179316 13-18-26 0617 Controlling Scroll Behavior
-		- [ ] 180316 13-19-26 0731 Introducing Navigation Guards
+		- [x] 178316 13-17-26 0551 Rendering Mult Routes w Named Router Views
+		- [x] 179316 13-18-26 0617 Controlling Scroll Behavior
+		- [x] 180316 13-19-26 0731 Introducing Navigation Guards
+		  - Blocking non-authenticated routes
+			- Be aware of changing pages
+			- Block moves away from unsaved edits
+			- Functions/Methods which are called automatically by Vue Router when a page changes, or, to be precise,
+			  when a navigation action is started
+			- 
 		- [ ] 181316 13-20-26 0650 Diving Deeper Into Navigation Guards
 		
 		- [ ] 182316 13-21-26 0127 The Global "afterEach" Guard
@@ -644,7 +650,7 @@
 		- [ ] 299 Using Vuex with the Composition API | 5min
 		- [ ] 300 Summary | 3min
 		- [ ] 301 Module Resources | 1min
-	## S20: Reusing Fnality: Mixins & Custom Cmposn Fns | 14 | 01:03:00
+	## S20: Reusing Functionality: Mixins & Custom Composition Functions | 14 | 01:03:00
 	- [ ] S20: Reusing Functionality: Mixins & Custom Composition Functions
 		- [ ] 302 Module Introduction | 1min
 		- [ ] 303 Reusability Concepts | 5min
