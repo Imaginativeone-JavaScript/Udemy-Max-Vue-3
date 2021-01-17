@@ -23,6 +23,20 @@ export default {
     console.log('UsersList Component beforeRouteEnter()');
     console.log(to, from);
     next();
+  },
+  beforeRouteLeave(to, from, next) {
+    console.log(to, from);
+
+    /* 
+    if(this.changesSaved) { // data() {}
+      next();
+    } else {
+      const userWantsToLeave = confirm('Are you sure you want to leave?');
+      next(userWantsToLeave);
+    }
+    */
+
+    next();
   }
 };
 </script>

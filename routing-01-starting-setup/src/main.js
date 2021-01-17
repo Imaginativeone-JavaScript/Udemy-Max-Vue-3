@@ -50,10 +50,8 @@ const router = createRouter({     // 2
 });
 
 router.beforeEach(function(to, from, next) { // next is a function that can be cancelled
-
   console.log('Global beforeEach');
   console.log(from, to);
-  
   /*
   if (to.name === 'team-members') {
     next();
@@ -63,7 +61,6 @@ router.beforeEach(function(to, from, next) { // next is a function that can be c
   }
   */
   next(); // or next(false) or a (route) string or a navigation object
-
 });
 
 router.afterEach(function(to, from) { // no next();
