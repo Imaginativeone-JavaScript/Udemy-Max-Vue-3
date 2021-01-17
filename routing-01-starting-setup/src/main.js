@@ -16,7 +16,9 @@ const router = createRouter({     // 2
     { path: '/', redirect: '/teams' },
     { 
       name: 'teams',
-      path: '/teams', 
+      path: '/teams',
+      // I can access this in all the places where $route is available
+      meta: { needsAuth: true }, 
       components: {
         default: TeamsList, 
         footer: TeamsFooter,
@@ -68,6 +70,8 @@ router.afterEach(function(to, from) { // no next();
   console.log('Global afterEach');
   console.log(to, from);
 });
+
+
 
 // Where do the routes load/render the components?
 
