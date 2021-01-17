@@ -53,6 +53,13 @@ export default {
     this.loadTeamMembers(this.teamId); // used to be this.$route
     console.log('Query Params', this.$route.query);
   },
+  beforeRouteUpdate(to, from, next) { // This component is about to be re-used with new data
+    // Alternative to watching; less flexible than props
+    console.log('TeamMembers Cmp beforeRouteUpdate');
+    console.log(to, from);
+    this.loadTeamMembers(to.params.teamId);
+    next();
+  },
   watch: { 
     teamId(newId) { // line 39, const teamId = this.$route.params.teamId
       this.loadTeamMembers(newId);

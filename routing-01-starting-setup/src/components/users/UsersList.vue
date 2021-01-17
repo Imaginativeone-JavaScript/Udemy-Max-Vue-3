@@ -18,6 +18,11 @@ export default {
       // do something
       this.$router.push('/teams'); // back, forward, see docs
     }
+  },
+  beforeRouteEnter(to, from, next) {
+    console.log('UsersList Component beforeRouteEnter()');
+    console.log(to, from);
+    next();
   }
 };
 </script>

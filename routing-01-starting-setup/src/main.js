@@ -30,6 +30,11 @@ const router = createRouter({     // 2
       components: { 
         default: UsersList, 
         footer: UsersFooter
+      },
+      beforeEnter(to, from, next) {
+        console.log('Users Before Enter');
+        console.log(to, from);
+        next();
       }
     }, // 9
     { path: '/:notFound(.*)', component: NotFound } // Regex, catchall route
@@ -54,11 +59,18 @@ router.beforeEach(function(to, from, next) { // next is a function that can be c
     next();
   } else {
     // redirect to team-members (unauthenticated route)
+    // next({ name: 'team-members', params: { teamId: 't2' }});
   }
   */
   next(); // or next(false) or a (route) string or a navigation object
 
-});  
+});
+
+router.afterEach(function(to, from) { // no next();
+  // sending analytics data to my own server
+  console.log('Global afterEach');
+  console.log(to, from);
+});
 
 // Where do the routes load/render the components?
 
