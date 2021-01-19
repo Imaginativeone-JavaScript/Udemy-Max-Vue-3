@@ -472,25 +472,43 @@
 	## S13: Routing: Building "Multi-Page" Single Page Applications
 	- [ ] Sec 13: Routing: Bldg "Multi-Pg" Sgl Pg Apps 25 01:58:00
 		- [x] 162316 13-01-26 0041 Module Introduction
-		- [ ] 163316 13-02-26 0439 What & Why?
-		- [ ] 164316 13-03-26 0436 Routing Setup
-		- [ ] 165316 13-04-26 0625 Registering & Rendering Routes
+		- [x] 163316 13-02-26 0439 What & Why?
+		- [x] 164316 13-03-26 0436 Routing Setup
+		- [x] 165316 13-04-26 0625 Registering & Rendering Routes
 		- [ ] 166316 13-05-26 0455 Navigating with router-link
 		- [ ] 167316 13-06-26 0305 Styling Active Links
 		- [ ] 168316 13-07-26 0401 Programmatic Navigation
-		- [ ] 169316 13-08-26 1046 Passing Data w Route Params (Dynamic Segs)
+		- [ ] 169316 13-08-26 1046 Passing Data w Route Params (Dynamic Segments)
 		- [ ] 170316 13-09-26 0300 Navigation & Dynamic Paths ***
 		- [ ] 171316 13-10-26 0013 A Vue Bug
+
+		A Vue Bug
+		In the next lecture, you might encounter an error when following along.
+		
+		Uncaught (in promise) TypeError: Cannot read property 'members' of undefined
+		
+		This error occurs because of a bug with Vue.js (NOT because the code would be wrong). Fixing it is easy - have a look at this Q&A thread if you're running into the problem: https://www.udemy.com/course/vuejs-2-the-complete-guide/learn/#questions/12619882/
+
 		- [ ] 172316 13-11-26 0530 Updating Params Data with Watchers
 		- [ ] 173316 13-12-26 0337 Passing Params as Props
 		- [ ] 174316 13-13-26 0750 Redirecting & "Catch All" Routes
 		- [ ] 175316 13-14-26 0534 Using Nested Routes
 		- [ ] 176316 13-15-26 0521 More Fun w Named Routes & Location Objects
 		- [ ] 177316 13-16-26 0359 Using Query Params
-		- [ ] 178316 13-17-26 0551 Rendering Mult Routes w Named Router Views
-		- [ ] 179316 13-18-26 0617 Controlling Scroll Behavior
-		- [ ] 180316 13-19-26 0731 Introducing Navigation Guards
+		  
+			Video Progress App - Elapsed Time, Time Remaining
+
+		- [x] 178316 13-17-26 0551 Rendering Mult Routes w Named Router Views
+		- [x] 179316 13-18-26 0617 Controlling Scroll Behavior
+		- [x] 180316 13-19-26 0731 Introducing Navigation Guards
+		  - Blocking non-authenticated routes
+			- Be aware of changing pages
+			- Block moves away from unsaved edits
+			- Functions/Methods which are called automatically by Vue Router when a page changes, or, to be precise,
+			  when a navigation action is started
+			- 
 		- [ ] 181316 13-20-26 0650 Diving Deeper Into Navigation Guards
+		
 		- [ ] 182316 13-21-26 0127 The Global "afterEach" Guard
 		- [ ] 183316 13-22-26 0713 Beyond Entering: Route Leave Guards
 		- [ ] 184316 13-23-26 0214 Utilizing Route Metadata
@@ -632,7 +650,7 @@
 		- [ ] 299 Using Vuex with the Composition API | 5min
 		- [ ] 300 Summary | 3min
 		- [ ] 301 Module Resources | 1min
-	## S20: Reusing Fnality: Mixins & Custom Cmposn Fns | 14 | 01:03:00
+	## S20: Reusing Functionality: Mixins & Custom Composition Functions | 14 | 01:03:00
 	- [ ] S20: Reusing Functionality: Mixins & Custom Composition Functions
 		- [ ] 302 Module Introduction | 1min
 		- [ ] 303 Reusability Concepts | 5min
