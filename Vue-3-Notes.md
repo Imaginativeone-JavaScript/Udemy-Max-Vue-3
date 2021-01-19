@@ -538,7 +538,7 @@
 		- [ ] 205 Module Resources | 1min
 	## S15: Vuex 00/21 | 1hr 50min
 	- [ ] S15: Vuex 00/21 | 1hr 50min
-		- [ ] 206 Module Introduction | 1min
+		- [ ] 206 Module Introduction | 0059
 		- [ ] 207 What & Why? | 7min
 		- [ ] 208 Creating & Using a Store | 5min
 		- [ ] 209 Connecting Components to State | 3min
