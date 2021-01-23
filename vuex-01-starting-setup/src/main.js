@@ -10,6 +10,11 @@ const store = createStore({
     return {
       counter: 0
     }; // a bit like data() in a component
+  },
+  mutations: {
+    increment(state) { // Current State
+      state.counter++;
+    }
   }
 
 });

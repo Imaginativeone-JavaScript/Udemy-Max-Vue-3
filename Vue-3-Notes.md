@@ -564,7 +564,9 @@
 				- Clearly defined data flow, Less errors
 		- [ ] 209 Creating & Using a Store | 5min
 		- [ ] 210 Connecting Components to State | 3min
-		- [ ] 211 Intro-ing Mutations - A Better Way of Changing Data | 7min
+		- [ ] 211 Introducing Mutations - A Better Way of Changing Data | 7min
+		  - Mutations
+			
 		- [ ] 212 Passing Data to Mutations with Payloads | 4min
 		- [ ] 213 Introducing Getters - A Better Way Of Getting Data | 8min
 		- [ ] 214 Running Async Code with Actions | 8min
