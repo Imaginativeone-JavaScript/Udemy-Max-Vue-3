@@ -1,0 +1,23 @@
+	## S15: Vuex 00/21 | 1hr 50min
+	- [ ] S15: Vuex 00/21 | 1hr 50min
+		- [ ] 206 Module Introduction | 1min
+		- [ ] 207 What & Why? | 7min
+		- [ ] 208 Creating & Using a Store | 5min
+		- [ ] 209 Connecting Components to State | 3min
+		- [ ] 210 Intro-ing Mutations - A Better Way of Changing Data | 7min
+		- [ ] 211 Passing Data to Mutations with Payloads | 4min
+		- [ ] 212 Introducing Getters - A Better Way Of Getting Data | 8min
+		- [ ] 213 Running Async Code with Actions | 8min
+		- [ ] 214 Understanding the Action "Context" | 2min
+		- [ ] 215 Using Mapper Helpers | 6min
+		- [ ] 216 Example: Adding More State | 8min
+		- [ ] 217 Organizing your Store with Modules | 4min
+		- [ ] 218 Understanding Local Module State | 4min
+		- [ ] 219 Namespacing Modules | 5min
+		- [ ] 220 Structuring Vuex Code & Files | 9min
+		- [ ] 221 A Challenge! | 2min
+		- [ ] 222 Challenge Solution (1/3) | 12min
+		- [ ] 223 Challenge Solution (2/3) | 11min
+		- [ ] 224 Challenge Solution (3/3) | 3min
+		- [ ] 225 Summary | 1min
+		- [ ] 226 Module Resources | 1min
