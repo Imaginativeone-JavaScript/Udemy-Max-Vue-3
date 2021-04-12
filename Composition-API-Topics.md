@@ -1,0 +1,28 @@
+## S19: Composition API - Replacing Options API | 00/26 | 02:23:00
+- [ ] Sec 19: Composition API - Replacg Options API | 26Ls | 02:23:00
+	- [ ] 278 Module Introduction | 2min
+	- [ ] 279 Which Problem Does The Composition API Solve? | 7min
+	- [ ] 280 Replacing "data" with "refs" | 12min
+	- [ ] 281 Building "reactive" Objects | 11min
+	- [ ] 282 Reactivity: A Deep Dive | 8min
+	- [ ] 283 Replacing "methods" with Regular Functions | 7min
+	- [ ] 000 Assignment 7: Time to Practice: Data & Functions
+	- [ ] 284 Replacg "Computed Properties" w the "computed" Fn | 8min
+	- [ ] 285 Two-Way-Binding and the Composition API | 3min
+	- [ ] 286 Working with Watchers | 6min
+	- [ ] 000 Assgnmt 8: Practice: Composition API Core Building Blocks
+	- [ ] 287 A First Summary | 2min
+	- [ ] 288 How To Use Template Refs | 5min
+	- [ ] 289 Components, Props & The Composition API | 8min
+	- [ ] 290 Emitting Custom Events | 3min
+	- [ ] 291 Working with Provide/ Inject | 4min
+	- [ ] 292 Lifecycle Hooks in the Composition API | 5min
+	- [ ] 293 Migrating f Options API 2 Composition API - An Ex Proj 2min
+	- [ ] 294 Migrating a First Component | 7min
+	- [ ] 295 Migrating a Big Component | 13min
+	- [ ] 296 Migrating the Remaining Components | 12min
+	- [ ] 297 Routing, Params & The Composition API | 7min
+	- [ ] 298 The Route & Router Objects and the Composition API | 5min
+	- [ ] 299 Using Vuex with the Composition API | 5min
+	- [ ] 300 Summary | 3min
+	- [ ] 301 Module Resources | 1min
